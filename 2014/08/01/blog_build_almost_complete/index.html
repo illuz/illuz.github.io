@@ -1,0 +1,698 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html" charset="UTF-8" >
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+  <title>博客基本弄完了～ | IlluZ&#39;s Blog</title>
+  <meta name="description" content="Go ahead." />
+  <meta name="HandheldFriendly" content="True" />
+  <meta name="MobileOptimized" content="320" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" type="text/css" href="/css/component.css" />
+  <link rel="stylesheet" type="text/css" href="/css/screen.css" />
+  <meta name="generator" content="IlluZ's Blog">
+  
+  
+  <link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="atom.xml">
+  
+  
+
+  
+
+<!-- mathjax config similar to math.stackexchange -->
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+      }
+    });
+</script>
+
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Queue(function() {
+        var all = MathJax.Hub.getAllJax(), i;
+        for(i=0; i < all.length; i += 1) {
+            all[i].SourceElement().parentNode.className += ' has-jax';
+        }
+    });
+</script>
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+</head>
+<body>
+<div class="container">
+    <div class="mp-pusher" id="mp-pusher">
+        <i id="scroll-up" class="fa fa-angle-up"></i>
+        <nav id="mp-menu" class="mp-menu">
+            <div class="mp-level">
+                <a data-pjax class="back-home" style="font-size: 20px" href="/"><h2 ><i class="fa fa-home"></i>
+                        Home</h2></a>
+                <ul class="first-level">
+                    <li>
+                        <a class="fa fa-archive" href="#"><i class="fa fa-angle-left">
+                            </i>&nbsp;&nbsp;Archive</a>
+                        <div class="mp-level page-list">
+                            <h2 ><i class="fa fa-archive"></i>
+                                Archive</h2>
+                            <a class="mp-back" href="#">back</a>
+                            <form id="search-form" action="">
+                                <input type="text" class="search search-archive" placeholder="Search.."/>
+                            </form>
+                            <ul>
+                                <div class="mp-scroll">
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/04/28/v2ex-change-to-double/">每周一发的 V2EX 转为每两周一发</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/04/20/v2ex-150420/">每周v2ex记录[15-04-06~15-04-20]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/04/16/one-interview/">某次面经</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/04/06/v2ex-150406/">每周v2ex记录[15-03-30~15-04-05]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/03/30/v2ex-150330/">每周v2ex记录[15-03-23~15-03-29]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/03/28/github-is-fxxked/">GitHub is Fxxked by GFVV in China</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/03/23/got-100-days-streak/">Github 100 Day Streak 达成！</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/03/23/v2ex-150322/">每周v2ex记录[15-03-16~15-03-22]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/03/16/v2ex-150316/">每周v2ex记录[15-03-09~15-03-15]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/03/09/v2ex-150308/">每周v2ex记录[15-03-02~15-03-08]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/03/01/summary-of-2015-febrary/">二月总结</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/03/01/v2ex-150301/">每周v2ex记录[15-02-16~15-03-01]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/03/01/movies-watched-in-2015-winter-vacation-5/">寒假观影[The end]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/02/17/movies-watched-in-2015-winter-vacation-4/">寒假观影[week04]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/02/16/v2ex-150215/">每周v2ex记录[15-02-09~15-02-15]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/02/09/movies-watched-in-2015-winter-vacation-3/">寒假观影[week03]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/02/09/v2ex-150208/">每周v2ex记录[15-02-02~15-02-08]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/02/02/v2ex-150201/">每周v2ex记录[15-01-26~15-02-01]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/02/02/movies-watched-in-2015-winter-vacation-2/">寒假观影[week02]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/01/25/v2ex-150125/">每周v2ex记录[15-01-19~15-01-25]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/01/25/movies-watched-in-2015-winter-vacation-1/">寒假观影[week01]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/01/22/summary-of-2015-january/">寒假计划 &amp; 提前的一月总结</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/01/20/using-telegram/">Telegram 使用中</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/01/19/v2ex-150119/">每周v2ex记录[15-01-12~15-01-18]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/01/12/Windows-8-1-VPN-connection-disappeared-in-Networks-Panal-Disable-OneDrive-in-Win8-1/">Windows 8.1 VPN connection disappeared in Networks Panal &amp; Disable OneDrive in Win8.1</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/01/12/v2ex-150111/">每周v2ex记录[15-01-06~15-01-11]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/01/05/v2ex-150104/">每周v2ex记录[14-12-29~15-01-04]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/01/01/annual-summary-of-2014/">年末总结</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/12/31/summary-of-2014-december/">十二月总结</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/12/29/v2ex-141228/">每周v2ex记录[14-12-22~14-12-28]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/12/22/v2ex-141221/">每周v2ex记录[14-12-16~14-12-21]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/12/15/v2ex-141215/">每周v2ex记录[14-12-08~14-12-14]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/12/07/v2ex-141207/">每周v2ex记录[14-11-24~14-11-07]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/12/07/summary-of-2014-november/">十一月总结</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/11/23/v2ex-141123/">每周v2ex记录[14-11-10~14-11-23]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/11/09/v2ex-141109/">每周v2ex记录[14-11-03~14-11-09]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/11/03/summary-of-2014-october/">十月总结</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/11/03/v2ex-141102/">每周v2ex记录[14-10-25~14-11-1]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/10/24/v2ex-141021/">每周v2ex记录[14-10-20~14-10-24]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/10/19/v2ex-141019/">每周v2ex记录[14-10-13~14-10-19]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/10/12/v2ex-141012/">每周v2ex记录[14-10-6~14-10-12]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/10/03/summary-of-2014-september/">九月总结</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/09/28/v2ex-140928/">每周v2ex记录[14-09-22~14-09-28]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/09/21/v2ex-140921/">每周v2ex记录[14-09-15~14-09-21]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/09/15/v2ex-140907/">每周v2ex记录[14-09-08~14-09-14]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/09/07/v2ex-140901/">每周v2ex记录[14-09-01~14-09-07]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/09/01/summary_of_2014_august/">八月总结——稍纵即逝的八月</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/09/01/v2ex_140825/">每周v2ex记录[14-08-25~14-08-31]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/08/24/v2ex_140823/">每周v2ex记录[14-08-18~14-08-24]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/08/24/lang_chao_zhi_dian/">《浪潮之巅》读书笔记</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/08/17/v2ex_140817/">每周v2ex记录[14-08-12~14-08-17]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/08/10/v2ex_140810/">每周v2ex记录[14-08-04~14-08-10]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/08/07/use_your_english_learning_note/">《把你的英语用起来！》读书笔记</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/08/03/v2ex_140802/">每周v2ex记录[14-08-02~14-08-03]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/08/03/summary_of_2014_june_and_july/">六七月小结</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/08/02/blog_record/">博客各种更变记录</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/08/01/blog_build_almost_complete/">博客基本弄完了～</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/08/01/write_ahead/">写在本博客的前头</a>
+                                </li>
+                                
+                                </div>
+                            </ul>
+                        </div>
+                    </li>
+                    
+                    
+					<li>
+						<a class="fa fa-list" href="#"><i class="fa fa-angle-left"></i>&nbsp;&nbsp;Friendly Link</a>
+						<div class="mp-level page-list">
+							<h2 ><i class="fa fa-list"></i>
+								Friendly Link</h2>
+							<a class="mp-back" href="#">back</a>
+							<ul>
+                                <li>
+									<a class="fa fa-link" href="http://blog.csdn.net/hcbbt" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;My&nbsp;CSDN&nbsp;blog</a>
+                                </li>
+                                <li>
+									<a class="fa fa-link" href="http://mycodebattle.com/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;PureFrog's&nbsp;blog</a>
+                                </li>
+                                <li>
+									<a class="fa fa-link" href="http://changyuheng.github.io/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;changyuheng's&nbsp;blog</a>
+                                </li>
+                                <li>
+									<a class="fa fa-link" href="http://jimmy66.com/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;星光's&nbsp;blog</a>
+									<a class="fa fa-link" href="http://www.hello1995.com/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;hello1995's&nbsp;blog</a>
+                                </li>
+							</ul>
+						</div>
+					</li>
+                    <li class="mp-pjax"><a class="fa fa-user" href="/about">&nbsp;&nbsp;&nbsp;About me</a></li>
+                    <li><a class="fa fa-github" href="https://github.com/illuz" target="_blank">&nbsp;&nbsp;&nbsp;Github</a></li>
+
+                </ul>
+
+            </div>
+        </nav>
+        <div id="pjax">
+            <div class="pjax-hidden" style="display: none">
+                
+                    <a  data-pjax href="/2015/04/28/v2ex-change-to-double/">每周一发的 V2EX 转为每两周一发</a>
+                
+                    <a  data-pjax href="/2015/04/20/v2ex-150420/">每周v2ex记录[15-04-06~15-04-20]</a>
+                
+                    <a  data-pjax href="/2015/04/16/one-interview/">某次面经</a>
+                
+                    <a  data-pjax href="/2015/04/06/v2ex-150406/">每周v2ex记录[15-03-30~15-04-05]</a>
+                
+                    <a  data-pjax href="/2015/03/30/v2ex-150330/">每周v2ex记录[15-03-23~15-03-29]</a>
+                
+                    <a  data-pjax href="/2015/03/28/github-is-fxxked/">GitHub is Fxxked by GFVV in China</a>
+                
+                    <a  data-pjax href="/2015/03/23/got-100-days-streak/">Github 100 Day Streak 达成！</a>
+                
+                    <a  data-pjax href="/2015/03/23/v2ex-150322/">每周v2ex记录[15-03-16~15-03-22]</a>
+                
+                    <a  data-pjax href="/2015/03/16/v2ex-150316/">每周v2ex记录[15-03-09~15-03-15]</a>
+                
+                    <a  data-pjax href="/2015/03/09/v2ex-150308/">每周v2ex记录[15-03-02~15-03-08]</a>
+                
+                    <a  data-pjax href="/2015/03/01/summary-of-2015-febrary/">二月总结</a>
+                
+                    <a  data-pjax href="/2015/03/01/v2ex-150301/">每周v2ex记录[15-02-16~15-03-01]</a>
+                
+                    <a  data-pjax href="/2015/03/01/movies-watched-in-2015-winter-vacation-5/">寒假观影[The end]</a>
+                
+                    <a  data-pjax href="/2015/02/17/movies-watched-in-2015-winter-vacation-4/">寒假观影[week04]</a>
+                
+                    <a  data-pjax href="/2015/02/16/v2ex-150215/">每周v2ex记录[15-02-09~15-02-15]</a>
+                
+                    <a  data-pjax href="/2015/02/09/movies-watched-in-2015-winter-vacation-3/">寒假观影[week03]</a>
+                
+                    <a  data-pjax href="/2015/02/09/v2ex-150208/">每周v2ex记录[15-02-02~15-02-08]</a>
+                
+                    <a  data-pjax href="/2015/02/02/v2ex-150201/">每周v2ex记录[15-01-26~15-02-01]</a>
+                
+                    <a  data-pjax href="/2015/02/02/movies-watched-in-2015-winter-vacation-2/">寒假观影[week02]</a>
+                
+                    <a  data-pjax href="/2015/01/25/v2ex-150125/">每周v2ex记录[15-01-19~15-01-25]</a>
+                
+                    <a  data-pjax href="/2015/01/25/movies-watched-in-2015-winter-vacation-1/">寒假观影[week01]</a>
+                
+                    <a  data-pjax href="/2015/01/22/summary-of-2015-january/">寒假计划 &amp; 提前的一月总结</a>
+                
+                    <a  data-pjax href="/2015/01/20/using-telegram/">Telegram 使用中</a>
+                
+                    <a  data-pjax href="/2015/01/19/v2ex-150119/">每周v2ex记录[15-01-12~15-01-18]</a>
+                
+                    <a  data-pjax href="/2015/01/12/Windows-8-1-VPN-connection-disappeared-in-Networks-Panal-Disable-OneDrive-in-Win8-1/">Windows 8.1 VPN connection disappeared in Networks Panal &amp; Disable OneDrive in Win8.1</a>
+                
+                    <a  data-pjax href="/2015/01/12/v2ex-150111/">每周v2ex记录[15-01-06~15-01-11]</a>
+                
+                    <a  data-pjax href="/2015/01/05/v2ex-150104/">每周v2ex记录[14-12-29~15-01-04]</a>
+                
+                    <a  data-pjax href="/2015/01/01/annual-summary-of-2014/">年末总结</a>
+                
+                    <a  data-pjax href="/2014/12/31/summary-of-2014-december/">十二月总结</a>
+                
+                    <a  data-pjax href="/2014/12/29/v2ex-141228/">每周v2ex记录[14-12-22~14-12-28]</a>
+                
+                    <a  data-pjax href="/2014/12/22/v2ex-141221/">每周v2ex记录[14-12-16~14-12-21]</a>
+                
+                    <a  data-pjax href="/2014/12/15/v2ex-141215/">每周v2ex记录[14-12-08~14-12-14]</a>
+                
+                    <a  data-pjax href="/2014/12/07/v2ex-141207/">每周v2ex记录[14-11-24~14-11-07]</a>
+                
+                    <a  data-pjax href="/2014/12/07/summary-of-2014-november/">十一月总结</a>
+                
+                    <a  data-pjax href="/2014/11/23/v2ex-141123/">每周v2ex记录[14-11-10~14-11-23]</a>
+                
+                    <a  data-pjax href="/2014/11/09/v2ex-141109/">每周v2ex记录[14-11-03~14-11-09]</a>
+                
+                    <a  data-pjax href="/2014/11/03/summary-of-2014-october/">十月总结</a>
+                
+                    <a  data-pjax href="/2014/11/03/v2ex-141102/">每周v2ex记录[14-10-25~14-11-1]</a>
+                
+                    <a  data-pjax href="/2014/10/24/v2ex-141021/">每周v2ex记录[14-10-20~14-10-24]</a>
+                
+                    <a  data-pjax href="/2014/10/19/v2ex-141019/">每周v2ex记录[14-10-13~14-10-19]</a>
+                
+                    <a  data-pjax href="/2014/10/12/v2ex-141012/">每周v2ex记录[14-10-6~14-10-12]</a>
+                
+                    <a  data-pjax href="/2014/10/03/summary-of-2014-september/">九月总结</a>
+                
+                    <a  data-pjax href="/2014/09/28/v2ex-140928/">每周v2ex记录[14-09-22~14-09-28]</a>
+                
+                    <a  data-pjax href="/2014/09/21/v2ex-140921/">每周v2ex记录[14-09-15~14-09-21]</a>
+                
+                    <a  data-pjax href="/2014/09/15/v2ex-140907/">每周v2ex记录[14-09-08~14-09-14]</a>
+                
+                    <a  data-pjax href="/2014/09/07/v2ex-140901/">每周v2ex记录[14-09-01~14-09-07]</a>
+                
+                    <a  data-pjax href="/2014/09/01/summary_of_2014_august/">八月总结——稍纵即逝的八月</a>
+                
+                    <a  data-pjax href="/2014/09/01/v2ex_140825/">每周v2ex记录[14-08-25~14-08-31]</a>
+                
+                    <a  data-pjax href="/2014/08/24/v2ex_140823/">每周v2ex记录[14-08-18~14-08-24]</a>
+                
+                    <a  data-pjax href="/2014/08/24/lang_chao_zhi_dian/">《浪潮之巅》读书笔记</a>
+                
+                    <a  data-pjax href="/2014/08/17/v2ex_140817/">每周v2ex记录[14-08-12~14-08-17]</a>
+                
+                    <a  data-pjax href="/2014/08/10/v2ex_140810/">每周v2ex记录[14-08-04~14-08-10]</a>
+                
+                    <a  data-pjax href="/2014/08/07/use_your_english_learning_note/">《把你的英语用起来！》读书笔记</a>
+                
+                    <a  data-pjax href="/2014/08/03/v2ex_140802/">每周v2ex记录[14-08-02~14-08-03]</a>
+                
+                    <a  data-pjax href="/2014/08/03/summary_of_2014_june_and_july/">六七月小结</a>
+                
+                    <a  data-pjax href="/2014/08/02/blog_record/">博客各种更变记录</a>
+                
+                    <a  data-pjax href="/2014/08/01/blog_build_almost_complete/">博客基本弄完了～</a>
+                
+                    <a  data-pjax href="/2014/08/01/write_ahead/">写在本博客的前头</a>
+                
+                
+                    <a data-pjax href="/categories/01-生活/">&nbsp;&nbsp;01. 生活</a>
+                
+                    <a data-pjax href="/categories/02-学习/">&nbsp;&nbsp;02. 学习</a>
+                
+                    <a data-pjax href="/categories/03-工作/">&nbsp;&nbsp;03. 工作</a>
+                
+                    <a data-pjax href="/categories/05-扯/">&nbsp;&nbsp;05. 扯</a>
+                
+                    <a data-pjax href="/categories/06-读书/">&nbsp;&nbsp;06. 读书</a>
+                
+                    <a data-pjax href="/categories/10-Tech/">&nbsp;&nbsp;10. Tech</a>
+                
+                    <a data-pjax href="/categories/10-电影/">&nbsp;&nbsp;10. 电影</a>
+                
+                    <a data-pjax href="/categories/99-其他/">&nbsp;&nbsp;99. 其他</a>
+                
+                
+                    <a data-pjax href="/tags/01-日常/">&nbsp;&nbsp;01. 日常</a>
+                
+                    <a data-pjax href="/tags/02-折腾/">&nbsp;&nbsp;02. 折腾</a>
+                
+                    <a data-pjax href="/tags/03-v2ex记录/">&nbsp;&nbsp;03. v2ex记录</a>
+                
+                    <a data-pjax href="/tags/03-学习/">&nbsp;&nbsp;03. 学习</a>
+                
+                    <a data-pjax href="/tags/04-笔记/">&nbsp;&nbsp;04. 笔记</a>
+                
+                    <a data-pjax href="/tags/04-英语/">&nbsp;&nbsp;04. 英语</a>
+                
+                    <a data-pjax href="/tags/归档-2014-08/">&nbsp;&nbsp;归档_2014-08</a>
+                
+                    <a data-pjax href="/tags/归档-2014-09/">&nbsp;&nbsp;归档_2014-09</a>
+                
+                    <a data-pjax href="/tags/归档-2014-10/">&nbsp;&nbsp;归档_2014-10</a>
+                
+                    <a data-pjax href="/tags/归档-2014-11/">&nbsp;&nbsp;归档_2014-11</a>
+                
+                    <a data-pjax href="/tags/归档-2014-12/">&nbsp;&nbsp;归档_2014-12</a>
+                
+                    <a data-pjax href="/tags/归档-2015-01/">&nbsp;&nbsp;归档_2015-01</a>
+                
+                    <a data-pjax href="/tags/归档-2015-02/">&nbsp;&nbsp;归档_2015-02</a>
+                
+                    <a data-pjax href="/tags/归档-2015-03/">&nbsp;&nbsp;归档_2015-03</a>
+                
+                    <a data-pjax href="/tags/归档-2015-04/">&nbsp;&nbsp;归档_2015-04</a>
+                
+                <a data-pjax class="fa fa-user" href="/about">&nbsp;&nbsp;&nbsp;About me</a>
+            </div>
+            <nav class="nexus">
+                <li  style="border-left: 1px solid #c6d0da;">
+                    <a id="trigger" href="#"><i class="fa fa-bars"></i></a>
+                </li>
+                <li ><a id="nexus-back" data-pjax href="/">IlluZ&#39;s Blog</a></li>
+                
+                <div id="nav-container">
+                    <div class="post-navbar" style="line-height: 63px;display:none">
+                        <li id="navbar-title"><a href="#">博客基本弄完了～</a></li>
+                        <li id="navbar-toc" style="border-left: none">
+                            <a style="padding-right: 15px">
+                                <span id="toc-content" >Introduction</span><i class="fa fa-chevron-down" ></i>
+                            </a>
+                            <div class="hidden-box">
+                                <ul id="toc"></ul>
+                            </div>
+                        </li>
+                    </div>
+                </div>
+                
+            </nav>
+
+            <div class="scroller">
+            <div class="scroller-inner">
+
+
+<!-- -->
+<!--<body class="post-template">-->
+<!---->
+  
+
+<main class="content" role="main">
+    <article class="post" >
+    <span class="post-meta">
+                  <div class="tag-tile">
+                      
+                      
+                      <a data-pjax href='/tags/01-日常/' style='color:#D5D5D5'>01. 日常</a>
+                      
+                      <a data-pjax href='/tags/02-折腾/' style='color:#D5D5D5'>02. 折腾</a>
+                      
+                      <a data-pjax href='/tags/归档-2014-08/' style='color:#D5D5D5'>归档_2014-08</a>
+                      
+                      
+                  </div>
+                <h1 class="post-title" style="margin: 14px 0;color:#50585D">博客基本弄完了～</h1>
+
+                    <div class="post-meta">
+                        Post on<span class="fa fa-clock-o"></span>
+                        <time datetime="2014-08-01T15:53:39.000Z"
+                              itemprop="datePublished">2014-08-01</time>
+                    </div>
+    </span>
+
+        <section class="post-content">
+            <p>终于把博客折腾地差不多了，多谢Changyuheng朋友的耐心指点～<br>之后如果有空再折腾吧，就先这样放着。</p>
+<p>最近老是奇怪为什么我提交了那么多次，Contributions上面老是看不到更新…我还以为Github有什么特殊的限制，今天终于去求助搜索引擎，发现了原来是本地的user.name设置错了…<a href="https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile" target="_blank" rel="external">https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile</a><br>真是不小心，这下子又空白了一片了…</p>
+<p>由于中央“净网”活动，墙变得好厚…真是令人郁闷。<br>这几天七牛图库还暂停了内容管理，也就是无法上传图片…本来还想贴个图片的说…</p>
+<p>弄完博客就要开始耐心写博客了～<br>这几天写篇例行的月份总结。</p>
+<hr>
+<h2 id="测试下一些简单的功能：">测试下一些简单的功能：</h2><p>下面没什么内容了。</p>
+<p>代码：<br><figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line"><span class="preprocessor">#<span class="keyword">include</span> &lt;cstdio&gt;</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">int</span> n, t;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span><br><span class="line"></span>&#123;</span><br><span class="line">	<span class="built_in">scanf</span>(<span class="string">"%d"</span>, &amp;t);</span><br><span class="line">	<span class="keyword">while</span> (t--) &#123;</span><br><span class="line">		<span class="built_in">scanf</span>(<span class="string">"%d"</span>, &amp;n);</span><br><span class="line">		<span class="keyword">int</span> ans = <span class="number">0</span>;</span><br><span class="line">		<span class="keyword">while</span> (n != <span class="number">0</span>) &#123;</span><br><span class="line">			ans += n / <span class="number">5</span>;</span><br><span class="line">			n /= <span class="number">5</span>;</span><br><span class="line">		&#125;</span><br><span class="line">		<span class="built_in">printf</span>(<span class="string">"%d\n"</span>, ans);</span><br><span class="line">	&#125;</span><br><span class="line">	<span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></p>
+<p>Gist:（Keal主题贴Gist有个bug，从首页打开会显示不出来，需要刷新）</p>
+<script src="https://gist.github.com/illuz/6287dfb5fee2f4d1e429.js"></script>
+
+<p>jsfiddle：一个类似Gist的功能，貌似只能贴Javascript/CSS什么的，我这里就不贴了。</p>
+<p>数学公式测试：<br>$\sqrt{x}$<br>$\surd[x^2+y^2]$<br>$\overline{m+n}$<br>$\underbrace{ a+b+\cdots+z }_{26}$</p>
+<p>Markdown+html混合测试：</p>
+<blockquote>
+<ol>
+<li><s>POJ 2186 - Popular Cows</s></li>
+<li>POJ 3249 - Test for Jobh</li>
+<li>POJ 3592 - Instantaneous Transference</li>
+<li><h1>Look! Styles and colors</h1>
+
+</li>
+</ol>
+</blockquote>
+<p>html字体与颜色：</p>
+<p style="font-family:verdana;color:red"><br>This text is in Verdana and red</p>
+
+<p style="font-family:times;color:green"><br>This text is in Times and green</p>
+
+<p style="font-size:30px">This text is 30 pixels high</p>
+
+<p></p><h2 style="background-color:red">This is a heading</h2><p></p>
+<p style="background-color:green">This is a paragraph.</p>
+
+
+
+<h1 style="font-family:verdana">A heading</h1><br><p style="font-family:arial;color:red;font-size:20px;">A paragraph.</p><br><br><h1 style="text-align:center">居中测试</h1>
+
+
+<p>表格测试：</p>
+<table width="200" height="200" border="0" bgcolor="#000000"><br>  <tr><br>    <td> </td><br>  </tr><br></table>
+
+<table border="1"><br>  <tr><br>    <th>Month</th><br>    <th>Savings</th><br>  </tr><br>  <tr><br>    <td>January</td><br>    <td>$100</td><br>  </tr><br></table>
+
+<hr>
+<p>本地测试表现都不是很好，虽然都能显示出来，不足的是html语句间间隙太大了，而且果然出现了诟病的表格前大片空行的问题。无奈，希望以后版本能解决。</p>
+<p>待会用feedly进行订阅测试，用手机测试下手机下表现如何。</p>
+
+        </section>
+        <hr/>
+        <nav class="pagination" style="width:auto" role="pagination">
+            
+            <a data-pjax class="newer-posts" href="/2014/08/02/blog_record/">← Prev Post</a>
+            
+            <a class="share-button" data-original-title title>Share this Post</a>
+            
+            <a data-pjax class="older-posts" href="/2014/08/01/write_ahead/">Next Post →</a>
+            
+        </nav>
+        <section id="comment">
+            <div id="comment-box"></div>
+            
+            <div id="disqus_thread"></div>
+            <script type="text/javascript">
+                if (document.URL.indexOf('://localhost') === -1) {
+                    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+                    var disqus_shortname = 'illuzsblog';
+
+                    /* * * DON'T EDIT BELOW THIS LINE * * */
+                    (function() {
+                        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                    })();
+                }
+            </script>
+            <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+            
+        </section>
+
+
+    </article>
+</main>
+
+
+  
+<footer class="site-footer">
+    
+    <a class="subscribe icon-feed" href="atom.xml"><span class="tooltip">Subscribe!</span></a>
+    
+    <div class="inner">
+        <section class="copyright"><a href="/"></a> &copy; IlluZ's Blog 2014</section>
+        <section class="poweredby">Published with <a target="_blank" href="http://hexo.io/">Hexo   </a> and Theme by <a target="_blank" href="https://github.com/yuche/hexo-theme-kael">Kael</a></section>
+    </div>
+</footer>
+</div>
+</div><!-- /scroller -->
+
+</div><!-- /pusher -->
+</div><!-- /container -->
+</div>
+
+<!-- Easter eggs -->
+
+<div class="egg animated">
+    <a id="close-button" href="#">X</a>
+    <div class="block">
+        <div class="loading">
+            <span class="ball1"></span>
+            <span class="ball2"></span>
+        </div>
+    </div>
+</div>
+  
+<script src="//cdn.staticfile.org/jquery/1.11.0/jquery.min.js"></script>
+<script>
+    if (!window.jQuery) {
+        var script = document.createElement('script');
+        script.src = "/js/jquery.min.js";
+        document.body.appendChild(script);
+    }
+</script>
+<script type="text/javascript" src="/js/lib.js"></script>
+<script type="text/javascript" src="/js/main.js"></script>
+
+
+
+
+
+
+</body>
+</html>

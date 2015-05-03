@@ -1,0 +1,2686 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[IlluZ's Blog]]></title>
+  <subtitle><![CDATA[Go ahead.]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://illuz.github.com/"/>
+  <updated>2015-05-03T12:11:47.133Z</updated>
+  <id>http://illuz.github.com/</id>
+  
+  <author>
+    <name><![CDATA[illuz]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[每周一发的 V2EX 转为每两周一发]]></title>
+    <link href="http://illuz.github.com/2015/04/28/v2ex-change-to-double/"/>
+    <id>http://illuz.github.com/2015/04/28/v2ex-change-to-double/</id>
+    <published>2015-04-28T02:14:06.000Z</published>
+    <updated>2015-05-03T12:11:47.133Z</updated>
+    <content type="html"><![CDATA[<p>从 V2EX 各种事件被世人所知（如麦X事件），到被 GFVV 墙，再到网站备案，（个人感觉）论坛小白越来越多，有质量的帖子越来越少了，能记录下来的帖子也不多了。</p>
+<p>所以今后这个系列改为每两周一发。</p>
+<p>Sigh..</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>从 V2EX 各种事件被世人所知（如麦X事件），到被 GFVV 墙，再到网站备案，（个人感觉）论坛小白越来越多，有质量的帖子越来越少了，能记录下来的帖子也不多了。</p>
+<p>所以今后这个系列改为每两周一发。</p>
+<p>Sigh..</p>
+]]>
+    </summary>
+    
+      <category term="03. v2ex记录" scheme="http://illuz.github.com/tags/03-v2ex%E8%AE%B0%E5%BD%95/"/>
+    
+      <category term="归档_2015-04" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2015-04/"/>
+    
+      <category term="02. 学习" scheme="http://illuz.github.com/categories/02-%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[每周v2ex记录[15-04-06~15-04-20]]]></title>
+    <link href="http://illuz.github.com/2015/04/20/v2ex-150420/"/>
+    <id>http://illuz.github.com/2015/04/20/v2ex-150420/</id>
+    <published>2015-04-20T02:34:54.000Z</published>
+    <updated>2015-05-03T12:11:47.133Z</updated>
+    <content type="html"><![CDATA[<p>上周跑杭州了，这次是两周的份~</p>
+<hr>
+<ol>
+<li><p><a href="https://www.v2ex.com/t/182390" target="_blank" rel="external">那些我希望在一开始使用 Zsh(oh-my-zsh) 时就知道的</a><br>不错的一篇文章，不过被刷屏了…</p>
+</li>
+<li><p><a href="https://www.v2ex.com/t/183547" target="_blank" rel="external">V2EX 隐藏节点统计</a><br>V2EX 的另一面。（误）</p>
+</li>
+<li><p><a href="https://www.v2ex.com/t/183798" target="_blank" rel="external">你们都用 python 做什么开发？除了 web 开发外.</a><br>总结下：科学计算、机器学习、数据分析、数据转换、服务器脚本、自动化运维、自动化测试、安全、算股票、代码生成器。</p>
+</li>
+<li><p><a href="https://www.v2ex.com/t/183618" target="_blank" rel="external">我也做了个 Markdown 编辑器，支持三大平台，已开源</a><br>非常棒！地址：<a href="https://github.com/egrcc/Mango" target="_blank" rel="external">https://github.com/egrcc/Mango</a><br>第一次听说 <a href="http://nwjs.io/" target="_blank" rel="external">NW.js</a>，看起来很酷。</p>
+</li>
+<li><p><a href="https://www.v2ex.com/t/184083" target="_blank" rel="external">github 如何运用 git 进行多人合作开发？</a><br>虽然知道，不过经验丰富者的见解的确让人受益匪浅啊！</p>
+</li>
+<li><p><a href="https://www.v2ex.com/t/184310" target="_blank" rel="external">假如一个字母对应一个网站，不看收藏夹，你能填满吗？</a><br><a href="http://shaw.ml/" target="_blank" rel="external">http://shaw.ml/</a> 挺好玩的。<br>顺便可以看看 v 友们都上的什么网站。</p>
+</li>
+<li><p><a href="https://www.v2ex.com/t/184271" target="_blank" rel="external">不擅长算法和数据结构的程序员就不是好程序员吗？</a><br>这帖子引来各种喷，足足有 100+ 条。<br>喜欢这句：『这种程序员的可替代性是100%』。</p>
+</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>上周跑杭州了，这次是两周的份~</p>
+<hr>
+<ol>
+<li><p><a href="https://www.v2ex.com/t/182390" target="_blank" rel="external">那些我希望在一开始使用 Zsh(oh-my-zsh) 时就]]>
+    </summary>
+    
+      <category term="03. v2ex记录" scheme="http://illuz.github.com/tags/03-v2ex%E8%AE%B0%E5%BD%95/"/>
+    
+      <category term="归档_2015-04" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2015-04/"/>
+    
+      <category term="02. 学习" scheme="http://illuz.github.com/categories/02-%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[某次面经]]></title>
+    <link href="http://illuz.github.com/2015/04/16/one-interview/"/>
+    <id>http://illuz.github.com/2015/04/16/one-interview/</id>
+    <published>2015-04-16T13:57:50.000Z</published>
+    <updated>2015-05-03T12:11:47.123Z</updated>
+    <content type="html"><![CDATA[<p>上周四中午突然看到某街的招聘网页更新了校招的时间，居然是周五中午，权衡了下，当机立断买了车票赶往杭州。折腾了几天，终于拿到了的 offer。<br>虽然笔试和面试是都是很简单的题目，应朋友的要求，写出来 share 一下。</p>
+<h2 id="笔试：（共两小时）">笔试：（共两小时）</h2><p>分为两部分，基础题是不管什么职位都要做的，然后是各个职位的题目。</p>
+<h3 id="基础题：">基础题：</h3><p>都是些基础的内容，我能想出来的就只有：</p>
+<h4 id="选择题：">选择题：</h4><ol>
+<li><code>13 * 6 = 80</code> 在什么进制下成立。</li>
+<li>给入栈顺序，问合法出栈顺序。</li>
+<li>设计模式的几个原则。</li>
+<li>居然考 <code>port channel</code>，听都没听过，又不是考 CCIE。</li>
+<li>（后面的忘了。想起来再补充。）</li>
+</ol>
+<h4 id="作答题:">作答题:</h4><ol>
+<li><p><strong>有一组任务要完成，并且有些任务要在其它任务完成之后才能开始，每个任务都有自己的执行时间。求每个任务的完成顺序和完成时间。要求自己设计结构及算法。</strong></p>
+<p>把每个任务看作图上的一下节点，就是红果果的拓扑排序，不是很难。<br>不过如果用矩阵去存这个有向无环图会有点浪费，我是用每个节点维护一个 next 数组，以及当前节点入度。每次要取出入度为 0 的本来想用优先队列实现，感觉不靠谱（因为操作时会改变），最后就暴力了。</p>
+<p>事后的考虑：可能考虑并发和多线程会加分。</p>
+</li>
+<li><p><strong>用户有不少优惠券，给你本次消费金额，求出最佳的那张优惠券。要求设计优惠券的结构及算法。</strong></p>
+<p>遍历一遍，找出最优的。<br>要考虑到的是：优惠券重复、折扣一样的情况。</p>
+</li>
+</ol>
+<h3 id="职位题（后台研发\应用开发\运维_都是同一套题）">职位题（后台研发\应用开发\运维 都是同一套题）</h3><p>后台研发就两作答题。</p>
+<ol>
+<li><p>俩有序数组，问它们有没有相同的元素。<br>算法题。<br>有几种做法：1. 暴力，时间复杂度<code>O(n^2)</code>；2. 二分，时间复杂度<code>O(nlogn)</code>；3. Hash，时间复杂度<code>O(n)</code>，不过要用<code>O(n)</code>的空间；4. 用双指针，<code>O(n)</code>时间，<code>O(1)</code>空间。<br>很明显，第四种是最优的啦。<br>还算不是很难，不过面试时提到了下，听说有很多坑，比如：数组有序不代表顺序一样，数组可能会非常大什么的。</p>
+</li>
+<li><p>进行性能瓶颈分析。<br>这题应该是考运维的吧。不是很懂，就瞎扯了。（好像当时还扯蛮多的，面试时问我怎么想，我说脑补）<br>具体可以看看这篇博文：<a href="http://listly.blog.51cto.com/914978/202979" target="_blank" rel="external">性能测试瓶颈分析步骤</a>。（我发现跟我脑补的差不多 = =）</p>
+</li>
+</ol>
+<hr>
+<h2 id="面试">面试</h2><p>笔试完当晚就通知第二天早上面试了。<br>第二天到公司，有不少人已经在等了，等了 40 分钟才轮到我，我也是体验到了一把面试前的等待了。</p>
+<h3 id="一面">一面</h3><p>第一面是技术面，首先自我介绍，然后问各种简历上的东西，各种挖简历上的东西，问项目遇到的问题，项目用到的技术呀。有些不是很清楚的只能各种瞎掰 TAT，幸好面试官也不是很懂，混过去了 =w=。（以后再也不敢在简历上乱写了）<br>问了一项目里面 SQL 数据库的表，然后找了个点提了些建议。（事后看了一篇讲 MySQL 内部实现的文章，简直茅塞顿开，为什么没早点看呢）还问了个 grep 的简单使用。<br>另外问我 Github 上的项目，我说就一些算法的东西和几个无聊做的 Win32 游戏和 Cocos2d-x 游戏，然后又是各种问游戏，我又不怎么玩游戏，没有聊起来，就聊了游戏的设计还有其中的算法。我说我只是玩玩，项目都很小，然后面试官就批评我不能小看自己的项目，我知道错了 &gt;.&lt;，我也没想到随便 push 上去的几个小游戏会被问到。<br>然后聊笔试中的内容，我就讲了我后来发现的几个错误，就是有序数组那题里面的，他说那题坑很多，然后换了几个姿势来问我，问我大数据怎么办，我说大数据双指针也是可以的。<br>然后要我用通俗的语言给女朋友描述栈，只能表示首先要有个女朋友 QAQ。我口舌那么笨，吞吞吐吐讲了下。然后又要我描述指针，感觉各种扣分 &gt;A&lt;。<br>最后问我还有什么问题，我就问一下在这个职位能学到什么之类的问题（事先准备的问题，在这里 thx “侠姐”）。</p>
+<p>紧接着就把我带到楼上进行二面。</p>
+<h3 id="二面">二面</h3><p> 现在想想，不知道二面算是技术面还是 HR 面。<br> 总之，面试官先告诉我，他这是最后一面了，也就是他是最终 BOSS。<br> 然后看简历问项目。（又是项目！）<br> 简单问了下简历上的东西后，就开始各种问家庭情况，为什么要选这个公司，有没有女朋友啦（sad story）。对了，还问我为何不考研，不出国。<br> 还问我有没有参加过其他的招聘，我表示这次是我的初面，所以会很紧江，有些回答很不清楚啊。他说你不要紧张，如果刚才面试回答不满意，现在可以补充一下，然后我就扯了下我的 ACM 队里的情况（我好机智）。<br> 然后就是例行问我有什么问题，我没准备太多这种问题，于是就问了几个现场想到的问题，问在这公司能变全栈么 &gt;.&lt;，发现好傻。<br> 然后就没有然后了，二面就这样结束了。</p>
+<hr>
+<p>面试就两面，说好的手写 KMP\Quick-sort\RB-Tree 呢。（开玩笑的）</p>
+<p>这就是我上周的面试经历，如果有想到新的内容再补充上去，如果有什么问题或建议请提出来。<br>最后，非常感谢基友“侠姐”=w=。</p>
+<p>（PS，杭州空气的确不太行）</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>上周四中午突然看到某街的招聘网页更新了校招的时间，居然是周五中午，权衡了下，当机立断买了车票赶往杭州。折腾了几天，终于拿到了的 offer。<br>虽然笔试和面试是都是很简单的题目，应朋友的要求，写出来 share 一下。</p>
+<h2 id="笔试：（共两小时）">笔试]]>
+    </summary>
+    
+      <category term="01. 日常" scheme="http://illuz.github.com/tags/01-%E6%97%A5%E5%B8%B8/"/>
+    
+      <category term="归档_2015-04" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2015-04/"/>
+    
+      <category term="03. 工作" scheme="http://illuz.github.com/categories/03-%E5%B7%A5%E4%BD%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[每周v2ex记录[15-03-30~15-04-05]]]></title>
+    <link href="http://illuz.github.com/2015/04/06/v2ex-150406/"/>
+    <id>http://illuz.github.com/2015/04/06/v2ex-150406/</id>
+    <published>2015-04-06T13:10:41.000Z</published>
+    <updated>2015-05-03T12:11:47.133Z</updated>
+    <content type="html"><![CDATA[<ol>
+<li><p><a href="https://www.v2ex.com/t/180636" target="_blank" rel="external">如何完美的在网上保护个人隐私？</a><br>很值得考虑和借鉴。</p>
+</li>
+<li><p><a href="https://www.v2ex.com/t/181127" target="_blank" rel="external">Google 发布 Chrome ARC Beta，可以在 Windows、Mac、Linux 版的 Chrome 中直接运行 Android 程序！</a><br>最近懒得折腾，等这东西火一点再来学，成本比较低。</p>
+</li>
+<li><p><a href="https://www.v2ex.com/t/181560" target="_blank" rel="external">看雪学院（看雪论坛）——有没有 V2 的朋友常去转转的</a><br>讨论安全的一帖。<br>想想我也是看黑 X 和黑防长大的，可惜被家里人封杀了。而且家里没电脑，就长歪（？）了。</p>
+</li>
+<li><p><a href="https://www.v2ex.com/t/181522" target="_blank" rel="external">四个象限划分各大网站</a><br>新形式的引战帖。</p>
+</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<ol>
+<li><p><a href="https://www.v2ex.com/t/180636" target="_blank" rel="external">如何完美的在网上保护个人隐私？</a><br>很值得考虑和借鉴。</p>
+</li>
+<li><p><a href]]>
+    </summary>
+    
+      <category term="03. v2ex记录" scheme="http://illuz.github.com/tags/03-v2ex%E8%AE%B0%E5%BD%95/"/>
+    
+      <category term="归档_2015-04" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2015-04/"/>
+    
+      <category term="02. 学习" scheme="http://illuz.github.com/categories/02-%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[每周v2ex记录[15-03-23~15-03-29]]]></title>
+    <link href="http://illuz.github.com/2015/03/30/v2ex-150330/"/>
+    <id>http://illuz.github.com/2015/03/30/v2ex-150330/</id>
+    <published>2015-03-30T02:34:56.000Z</published>
+    <updated>2015-05-03T12:11:47.133Z</updated>
+    <content type="html"><![CDATA[<ol>
+<li><p><a href="https://www.v2ex.com/t/178712" target="_blank" rel="external">功能强大的 markdown 编辑器： Markdown Plus</a><br>又一款强力的 Markdown 编辑器。<br>在线测试：<a href="http://mdp.tylingsoft.com/index.zh_CN.html" target="_blank" rel="external">http://mdp.tylingsoft.com/index.zh_CN.html</a></p>
+</li>
+<li><p><a href="https://www.v2ex.com/t/179299" target="_blank" rel="external">Markdown 简历工具 DeerCV：不找工作，你也应该拥有一份完美简历</a><br>DeerCV 又出了个好东西。</p>
+</li>
+<li><p><a href="https://www.v2ex.com/t/179296" target="_blank" rel="external">代码写累了大家一般上什么网站放松下</a> (一楼高能）<br>一般我写累了就不看电脑了。<br>手机看漫画吧。<br>平时常逛 B 站，Feedly，V2EX，Twitter 和 Reddit。</p>
+</li>
+<li><p><a href="https://www.v2ex.com/t/179321" target="_blank" rel="external">Python 进阶必看的经典书籍</a><br>好多资源，一本满足。</p>
+</li>
+<li><p><a href="https://www.v2ex.com/t/179347" target="_blank" rel="external">macbook 发热计划 2</a><br>没 Mac，有了再来玩。</p>
+</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<ol>
+<li><p><a href="https://www.v2ex.com/t/178712" target="_blank" rel="external">功能强大的 markdown 编辑器： Markdown Plus</a><br>又一款强力的 Markdown ]]>
+    </summary>
+    
+      <category term="03. v2ex记录" scheme="http://illuz.github.com/tags/03-v2ex%E8%AE%B0%E5%BD%95/"/>
+    
+      <category term="归档_2015-03" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2015-03/"/>
+    
+      <category term="02. 学习" scheme="http://illuz.github.com/categories/02-%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[GitHub is Fxxked by GFVV in China]]></title>
+    <link href="http://illuz.github.com/2015/03/28/github-is-fxxked/"/>
+    <id>http://illuz.github.com/2015/03/28/github-is-fxxked/</id>
+    <published>2015-03-28T07:14:43.000Z</published>
+    <updated>2015-05-03T12:11:47.120Z</updated>
+    <content type="html"><![CDATA[<p>2015/03/27, GitHub is hit by DDoS attack.</p>
+<blockquote>
+<p><a href="https://news.ycombinator.com/item?id=9275041" target="_blank" rel="external">Hacker News</a><br>Someone in the middle between a client outside China and Baidu, allegedly it should be the Great Fire Wall, changed the javascript file from Baidu and added some code so that any client executing the javascript file will periodically access <a href="https://github.com/greatfire/" target="_blank" rel="external">https://github.com/greatfire/</a> and <a href="https://github.com/cn-nytimes/" target="_blank" rel="external">https://github.com/cn-nytimes/</a>. This means any user who is accessing a site using Baidu Analytics will be an attacker to github.</p>
+</blockquote>
+<p>Billions of Chinese computers are used as Botnet to DDoS GitHub.(“全民肉鸡”)<br>And then the GitHub is blocked by GFVV.<br>Now in China it is hard to visit github.com.</p>
+<p>Anyway, this blog is based on GitHub Page, so it is blocked in China, too.<br>That means that I can talk about some sensitive topic freely?<br>No, I don’t want to be ‘Chashuibiao’(it means I was fxcked by someone).</p>
+<p>Though most of my blogs are written in Chinese, and now it cannot visited directly in China.<br><strong>I will keep writing blogs here. :-)</strong><br>Because I have many friends here! I believe they can visit my blog in some way.</p>
+<p>I want to say: ‘If you cannot visit my blog, send me a email and I will teach you how to do it’, but if someone cannot visit my blog then how did he see what I said.</p>
+<p>This joke is cold.</p>
+<hr>
+<p>My English is poor, if there was something wrong please tell me.<br>Thank you for reading.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>2015/03/27, GitHub is hit by DDoS attack.</p>
+<blockquote>
+<p><a href="https://news.ycombinator.com/item?id=9275041" target="_blank" rel=]]>
+    </summary>
+    
+      <category term="01. 日常" scheme="http://illuz.github.com/tags/01-%E6%97%A5%E5%B8%B8/"/>
+    
+      <category term="归档_2015-03" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2015-03/"/>
+    
+      <category term="05. 扯" scheme="http://illuz.github.com/categories/05-%E6%89%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Github 100 Day Streak 达成！]]></title>
+    <link href="http://illuz.github.com/2015/03/23/got-100-days-streak/"/>
+    <id>http://illuz.github.com/2015/03/23/got-100-days-streak/</id>
+    <published>2015-03-23T01:44:46.000Z</published>
+    <updated>2015-05-03T12:11:47.120Z</updated>
+    <content type="html"><![CDATA[<p><a href="https://github.com/illuz" target="_blank" rel="external">My Github</a></p>
+<hr>
+<h3 id="成就达成！">成就达成！</h3><p>自从加入 <a href="http://code-marathon.github.io/" target="_blank" rel="external">Code Marathon / 编程马拉松 / プログラミングマラソン</a> 坚持至今，虽然中间 Github 抽风让我断了几天只好从新再来。<br>不过，100 天总算达成了~<br>Cheers~</p>
+<hr>
+<h3 id="来几篇文章激励一下">来几篇文章激励一下</h3><ul>
+<li><a href="http://ejohn.org/blog/write-code-every-day/" target="_blank" rel="external">Write Code Every Day</a></li>
+<li><a href="http://robert-kowalski.de/blog/what-happened-while-contributing-to-open-source-on-a-daily-basis-for-one-year/" target="_blank" rel="external">What happened while contributing to Open Source on a daily basis for one year</a> 这位 robertkowalski 大哥已经快 <a href="https://github.com/robertkowalski/" target="_blank" rel="external">400 day</a> 了。</li>
+<li><a href="https://ryanseys.com/blog/177-days-of-github/" target="_blank" rel="external">177 Days of GitHub</a></li>
+</ul>
+<p>引用下 <a href="http://ejohn.org/blog/write-code-every-day/" target="_blank" rel="external">Write Code Every Day</a> 的一段话：</p>
+<blockquote>
+<p>I decided to set a couple rules for myself:</p>
+<ol>
+<li>I must write code every day. I can write docs, or blog posts, or other things but it must be in addition to the code that I write.</li>
+<li>It must be useful code. No tweaking indentation, no code re-formatting, and if at all possible no refactoring. (All these things are permitted, but not as the exclusive work of the day.)</li>
+<li>All code must be written before midnight.</li>
+<li>The code must be Open Source and up on Github.</li>
+</ol>
+</blockquote>
+<p>我很同意他的说法，Contributions 要有意义，不能只是调整个缩进，加些没用的话什么的。不然就没意思了，又不是贴吧签到。</p>
+<hr>
+<h3 id="我这_100_天都干了什么">我这 100 天都干了什么</h3><p>和 robertkowalski 比起来我的 Github 实在没什么内容，到下笔时也没有加入任何 organizations，没哪个 repo 有超过一位数的 star。（泪目）<br>不过我仍坚持不懈地 commit，因为我的 Github 又不是拿来 show 的，而是用来 share 的。<br>Coding 已经成为我的爱好了，（很快就会变成我的工作了），不过开源才是王道。</p>
+<p>我的 Github 现在主要就几个 Repositories：</p>
+<ul>
+<li><a href="https://github.com/illuz/illuz.github.io" target="_blank" rel="external">illuz.github.io</a><br>也就是这个博客。</li>
+<li><a href="https://github.com/illuz/leetcode" target="_blank" rel="external">leetcode</a><br>用多种语言写的 Leetcode 的题解，也是近期 commit 最多的 Repo 之一。不过已经快将所有题目做完了，要开始收尾了。</li>
+<li><a href="https://github.com/illuz/WayToACM" target="_blank" rel="external">WayToACM</a><br>我的第一个 Repo，用来管理在 ACM 时期写的题解，不过开 Repo 时我的很多代码都保存在 CSDN 的博客上，没有保存本地，以前的代码太乱太糟，没有兴趣去爬下来。<br>这个 Repo 已经不太经常 commit 了，偶尔做几题才会 commit 一下。</li>
+<li><a href="https://github.com/illuz/Solutions-For-Show-Me-the-Code" target="_blank" rel="external">Solutions-For-Show-Me-the-Code</a><br>Python 的练习项目 <a href="https://github.com/Yixiaohan/show-me-the-code" target="_blank" rel="external">Show Me the Code</a> 的题解，很不好意思的是 Python 功力还不够，只能一边没一边做。</li>
+<li><a href="https://github.com/illuz/SmallRPG" target="_blank" rel="external">SmallRPG</a><br>大学课程『游戏程序设计』做的小游戏，基于一个非常简单的 Win32 GDI 写的游戏引擎。<br>这个 Repo 就 commit 了一次，不多说了。</li>
+<li><a href="https://github.com/illuz/Learning" target="_blank" rel="external">Learning</a><br>学习时产生的一些文件和我的 vim/bash 配置文件什么的，没多少内容。</li>
+<li><a href="https://github.com/illuz/PyTricks" target="_blank" rel="external">PyTricks</a><br>这几天看到的一个小项目，挺有趣的，就 fork 下来，贡献了几发。</li>
+</ul>
+<hr>
+<h3 id="我学到了什么">我学到了什么</h3><p>才 100 天，根本还不能真正学到什么。</p>
+<p>硬要说的话，就是：<br><strong>Coding is funny!</strong></p>
+<p>所以我会坚持下去的！<br>目标 365 Days！</p>
+<hr>
+<p><em>END</em></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><a href="https://github.com/illuz" target="_blank" rel="external">My Github</a></p>
+<hr>
+<h3 id="成就达成！">成就达成！</h3><p>自从加入 <a href="http:/]]>
+    </summary>
+    
+      <category term="01. 日常" scheme="http://illuz.github.com/tags/01-%E6%97%A5%E5%B8%B8/"/>
+    
+      <category term="归档_2015-03" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2015-03/"/>
+    
+      <category term="02. 学习" scheme="http://illuz.github.com/categories/02-%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[每周v2ex记录[15-03-16~15-03-22]]]></title>
+    <link href="http://illuz.github.com/2015/03/23/v2ex-150322/"/>
+    <id>http://illuz.github.com/2015/03/23/v2ex-150322/</id>
+    <published>2015-03-23T01:04:12.000Z</published>
+    <updated>2015-05-03T12:11:47.133Z</updated>
+    <content type="html"><![CDATA[<ol>
+<li><p><a href="https://www.v2ex.com/t/177216" target="_blank" rel="external">你怎么看 12306 推出的图片验证码？</a><br>早在 Google 的网站上见过这种验证码了，不过人家 Google 的验证码并不是只是这种，而是几种轮流出现的。<br>单一的形式就是一个非常大的漏洞。</p>
+</li>
+<li><p><a href="https://www.v2ex.com/t/177565" target="_blank" rel="external">12306 售票网站新版验证码识别对抗</a><br>所以没几天就被攻破了。<br>思路是切割图片+百度识图。难得百度会发点力。</p>
+</li>
+<li><p><a href="https://www.v2ex.com/t/177809" target="_blank" rel="external">撸了一个 123306 验证码生成玩意儿</a><br>不仅被攻破，还有人做了生成器。乖不哭，你已经有进步了。<br><img src="http://ww1.sinaimg.cn/large/6a5b0e3bgw1eqa2l1vcljj20gu0dldhx.jpg" alt="香菜"></p>
+</li>
+<li><p><a href="https://www.v2ex.com/t/178060" target="_blank" rel="external">如何收看日本的电视台？</a><br>我倒是没有看生肉的需求。<br>个人只上过 niconico。不过日语水平不足，只能看些音乐和鬼畜。</p>
+</li>
+<li><p><a href="https://www.v2ex.com/t/178486" target="_blank" rel="external">续 V2EX 的帖子统计现在补充评论数了</a><br>之前有做过统计了，这是后续，不过没什么看点。<br><a href="https://esd.cc/v2ex/" target="_blank" rel="external">传送门</a>。</p>
+</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<ol>
+<li><p><a href="https://www.v2ex.com/t/177216" target="_blank" rel="external">你怎么看 12306 推出的图片验证码？</a><br>早在 Google 的网站上见过这种验证码了，不过人家 G]]>
+    </summary>
+    
+      <category term="03. v2ex记录" scheme="http://illuz.github.com/tags/03-v2ex%E8%AE%B0%E5%BD%95/"/>
+    
+      <category term="归档_2015-03" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2015-03/"/>
+    
+      <category term="02. 学习" scheme="http://illuz.github.com/categories/02-%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[每周v2ex记录[15-03-09~15-03-15]]]></title>
+    <link href="http://illuz.github.com/2015/03/16/v2ex-150316/"/>
+    <id>http://illuz.github.com/2015/03/16/v2ex-150316/</id>
+    <published>2015-03-16T01:44:06.000Z</published>
+    <updated>2015-05-03T12:11:47.130Z</updated>
+    <content type="html"><![CDATA[<p>近来一直在准备找工作，没怎么逛 V2，这周只有 5 篇。</p>
+<hr>
+<ol>
+<li><p><a href="https://www.v2ex.com/t/175511" target="_blank" rel="external">一句话黑你所知道的技术</a><br>各种高级黑，各种暴露年龄。</p>
+</li>
+<li><p><a href="http://www.v2ex.com/t/176448" target="_blank" rel="external">Foreign LINUX - 在 Windows 上无缝运行 ArchLinux</a><br>简直炫酷！</p>
+</li>
+<li><p><a href="http://www.v2ex.com/t/176104" target="_blank" rel="external">京东三月图书活动，满 199-100，又要剁一次手了。</a><br>京东链接：<a href="http://sale.jd.com/act/8uPhYfakV6WHi.html?cpdad=1DLSUE" target="_blank" rel="external">http://sale.jd.com/act/8uPhYfakV6WHi.html?cpdad=1DLSUE</a><br>还是有几本好书的，穷人只能拉基友团购剁手 TAT。</p>
+</li>
+<li><p><a href="http://www.v2ex.com/t/175582" target="_blank" rel="external">Slash - 基于 atom-shell 开发的开源离线文档阅读工具</a><br>离线文档阅读个人感觉 Zeal 就不错了。<br>不过还是赞个。</p>
+</li>
+<li><p><a href="https://www.v2ex.com/t/176526" target="_blank" rel="external">有没有什么列表总结一下 host 在 Google Code 上的著名项目？</a><br>其实大部分都转到 Github 了，不然 Google Code 干嘛关了？</p>
+</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>近来一直在准备找工作，没怎么逛 V2，这周只有 5 篇。</p>
+<hr>
+<ol>
+<li><p><a href="https://www.v2ex.com/t/175511" target="_blank" rel="external">一句话黑你所知道的技术</a><]]>
+    </summary>
+    
+      <category term="03. v2ex记录" scheme="http://illuz.github.com/tags/03-v2ex%E8%AE%B0%E5%BD%95/"/>
+    
+      <category term="归档_2015-03" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2015-03/"/>
+    
+      <category term="02. 学习" scheme="http://illuz.github.com/categories/02-%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[每周v2ex记录[15-03-02~15-03-08]]]></title>
+    <link href="http://illuz.github.com/2015/03/09/v2ex-150308/"/>
+    <id>http://illuz.github.com/2015/03/09/v2ex-150308/</id>
+    <published>2015-03-09T05:53:49.000Z</published>
+    <updated>2015-05-03T12:11:47.130Z</updated>
+    <content type="html"><![CDATA[<ol>
+<li><p><a href="https://www.v2ex.com/t/174127" target="_blank" rel="external">现在有什么比较好用的云播软件</a><br>各种“樯橹灰飞烟灭”方案，各种脚本，不忍直视，默默分享。</p>
+</li>
+<li><p><a href="https://www.v2ex.com/t/174485" target="_blank" rel="external">哪里可以找到自由版权的视频制作素材(图片、特效、短片等)</a><br>RT。</p>
+</li>
+<li><p><a href="https://www.v2ex.com/t/174448" target="_blank" rel="external">大家用什么方案把 markdown 转 pdf？</a><br>有不少方案。<br>我正常都是用：Sublime Text 的 Markdown Editing 插件写内容，用 Chrome 打印成 PDF。</p>
+</li>
+<li><p><a href="https://www.v2ex.com/t/174650" target="_blank" rel="external">PHP 开发者实践-草根码农创业失败小结</a><br>一个 PHP 开发者的总结，内容不少。</p>
+</li>
+<li><p><a href="https://www.v2ex.com/t/175081" target="_blank" rel="external">我的第一个 Android APP:智取华容道</a><br>14 天零基础开发一个 Android APP…<br>这哥们太厉害了。</p>
+</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<ol>
+<li><p><a href="https://www.v2ex.com/t/174127" target="_blank" rel="external">现在有什么比较好用的云播软件</a><br>各种“樯橹灰飞烟灭”方案，各种脚本，不忍直视，默默分享。</p>
+</]]>
+    </summary>
+    
+      <category term="03. v2ex记录" scheme="http://illuz.github.com/tags/03-v2ex%E8%AE%B0%E5%BD%95/"/>
+    
+      <category term="归档_2015-03" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2015-03/"/>
+    
+      <category term="02. 学习" scheme="http://illuz.github.com/categories/02-%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[二月总结]]></title>
+    <link href="http://illuz.github.com/2015/03/01/summary-of-2015-febrary/"/>
+    <id>http://illuz.github.com/2015/03/01/summary-of-2015-febrary/</id>
+    <published>2015-03-01T13:57:02.000Z</published>
+    <updated>2015-05-03T12:11:47.123Z</updated>
+    <content type="html"><![CDATA[<p>寒假前讲了好多计划，现在来打脸了。（最近打脸打多了，脸都肿了 QAQ）<br>寒假完成度最高的是”看电影”，其它都或多或少坑了。</p>
+<p>首先是看了 30+ 部电影，就冲这个，寒假算是过得值了。<br>还看完了《网球王子》（之前一直在看），还有《十二国记》，都还行。</p>
+<p>跟老妈学了几道我喜欢的小菜，然后就没怎么再动了…</p>
+<p>看了一点点的 ‘Cocos-2d’ ，真的只有一点点。<br>看了一章的 ‘Windows 内核’ ，已跪，寒假根本没办法看太多。而且我发现 Windows 太不对胃口了，想了想我还是好好学 Linux 吧，以后就混 Linux 了。</p>
+<p>带了几本书回家，迷迷糊糊看完了《黄金时代》，文艺细胞不够看不太懂。<br>看了几章《松本行弘的程序世界》，内容还是很多的，棒棒哒。</p>
+<p>Github streaking 78 days ~ yeah.</p>
+<p>寒假老妈心疼我瘦了几斤，使劲喂，又胖了好多斤了。爬山倒是有爬几次，玩 Ingress 还到处跑，也没少动 =.=，还是胖了好多。</p>
+<p>今年过年没拿多少红包。过几年就要发红包了。<br>不玩微信，没升级支付宝，所以就今年就没抢红包了。</p>
+<p>都是泪啊…</p>
+<hr>
+<p>要擦干眼泪来好好 YY 这个月的事情了。<br>3 月 1 号开学，没法在家过元宵，也是苦逼。<br>这学期也就三个月，很快就要大四了，不读研的也就跟毕业差不多了。<br>这学期看看招聘，去面试面试涨涨经验，然后好好深入学习 Linux 吧。</p>
+<p>这个月的话，好像还没什么好说的。</p>
+<ol>
+<li>Github 照旧</li>
+<li>看完《松本行弘的程序世界》，看其他书</li>
+<li>安排学习 Linux</li>
+<li>面试涨经验</li>
+<li>锻炼减肥</li>
+</ol>
+<p>没很具体的任务，把这几个做好就行了。</p>
+<hr>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>寒假前讲了好多计划，现在来打脸了。（最近打脸打多了，脸都肿了 QAQ）<br>寒假完成度最高的是”看电影”，其它都或多或少坑了。</p>
+<p>首先是看了 30+ 部电影，就冲这个，寒假算是过得值了。<br>还看完了《网球王子》（之前一直在看），还有《十二国记》，都还行。<]]>
+    </summary>
+    
+      <category term="01. 日常" scheme="http://illuz.github.com/tags/01-%E6%97%A5%E5%B8%B8/"/>
+    
+      <category term="归档_2015-03" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2015-03/"/>
+    
+      <category term="01. 生活" scheme="http://illuz.github.com/categories/01-%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[每周v2ex记录[15-02-16~15-03-01]]]></title>
+    <link href="http://illuz.github.com/2015/03/01/v2ex-150301/"/>
+    <id>http://illuz.github.com/2015/03/01/v2ex-150301/</id>
+    <published>2015-03-01T03:52:36.000Z</published>
+    <updated>2015-05-03T12:11:47.130Z</updated>
+    <content type="html"><![CDATA[<p>2月27日， V2EX 被墙，意料之中的事情。<br>不过这不会直接影响我继续填这个坑的 :) 。</p>
+<hr>
+<ol>
+<li><p><a href="https://www.v2ex.com/t/170729" target="_blank" rel="external">整理了我一些常用的 Python 库</a><br>LZ 的个人常用 Python 库，我觉得 V2 旁边的相关信息里东西也很不错。</p>
+</li>
+<li><p><a href="https://www.v2ex.com/t/171906" target="_blank" rel="external">JavaScript 要如何入门</a><br>老话题了，不过不少人回答，质量也不错。</p>
+</li>
+<li><p><a href="https://www.v2ex.com/t/172077" target="_blank" rel="external">刚发现用 IFTTT 可以实现 V2EX 的回复实时提醒</a><br>第一次发现，实测可行。不过这对于我这种潜水党是没多大用处了。</p>
+</li>
+<li><p><a href="https://www.v2ex.com/t/172276" target="_blank" rel="external">python 该如何处理 json 中的中文</a><br>Python 的编码实在坑。</p>
+</li>
+<li><p><a href="https://www.v2ex.com/t/172915" target="_blank" rel="external">关于 Python 多线程效率问题</a><br>cpu密集型：<code>multiprocessing</code><br>io密集型：<code>multithreading</code></p>
+</li>
+<li><p><a href="https://www.v2ex.com/t/173280" target="_blank" rel="external">关于 20150227 这事的想法</a><br>不做评论。</p>
+</li>
+</ol>
+<hr>
+<p>好文推荐： <a href="http://zh.lucida.me/blog/developer-reading-list/" target="_blank" rel="external">程序员必读书单</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>2月27日， V2EX 被墙，意料之中的事情。<br>不过这不会直接影响我继续填这个坑的 :) 。</p>
+<hr>
+<ol>
+<li><p><a href="https://www.v2ex.com/t/170729" target="_blank" rel="exter]]>
+    </summary>
+    
+      <category term="03. v2ex记录" scheme="http://illuz.github.com/tags/03-v2ex%E8%AE%B0%E5%BD%95/"/>
+    
+      <category term="归档_2015-03" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2015-03/"/>
+    
+      <category term="02. 学习" scheme="http://illuz.github.com/categories/02-%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[寒假观影[The end]]]></title>
+    <link href="http://illuz.github.com/2015/03/01/movies-watched-in-2015-winter-vacation-5/"/>
+    <id>http://illuz.github.com/2015/03/01/movies-watched-in-2015-winter-vacation-5/</id>
+    <published>2015-03-01T03:14:20.000Z</published>
+    <updated>2015-05-03T12:11:47.123Z</updated>
+    <content type="html"><![CDATA[<p>寒假结束了。<br>看了好多电影，算了下，有 4+8+8+5+9=34 部。<br>这个寒假值了~</p>
+<hr>
+<h3 id="(02-16)_星运里的错_The_Fault_in_Our_Stars_和_明日边缘_Edge_of_Tomorrow">(02.16) <a href="http://movie.douban.com/subject/22733673/" target="_blank" rel="external">星运里的错 The Fault in Our Stars</a> 和 <a href="http://movie.douban.com/subject/4746257/" target="_blank" rel="external">明日边缘 Edge of Tomorrow</a></h3><p>这两部都是去年比较不错的电影。</p>
+<p>《星运里的错》还是挺虐的，虽然也挺没逻辑的，不过我还是一个人看得很感动的。<br>影评说有点韩剧了… 如果韩剧几百集都是这玩意的话，我是不敢想象了…<br>我们或许应该活在当下，珍惜现在。</p>
+<p>《明日边缘》这名字略文艺，这片也在香港叫《异空战士》，也真够二的。<br>剧情就像游戏一样，不完成任务就一直 loop，不过那么多周目男主也不疯了。<br>总的来说，很有娱乐性，让我看得很 high，这种新颖的剧情感觉不错。（后来发现这电影是从日本小说改编的，日本人脑洞不错）。</p>
+<hr>
+<h3 id="(02-21)外星醉汉PK地球神_PK_和_三傻大闹宝莱坞_3_Idiots">(02.21)<a href="http://movie.douban.com/subject/10741643/" target="_blank" rel="external">外星醉汉PK地球神 PK</a> 和 <a href="http://movie.douban.com/subject/3793023/" target="_blank" rel="external">三傻大闹宝莱坞 3 Idiots</a></h3><p>大年初几，和堂弟堂妺看了PK，下午又和表弟表妹看了三傻。<br>宝莱坞也不不错的片嘛。（原来就有好吧）</p>
+<p>《外星醉汉PK地球神》阿三的反迷信电影，围绕“我们信仰的神到底是什么”这个话题。<br>男主本人就是外星人，好没说服力啊…</p>
+<p>《三傻》久闻盛名，今日一看，感觉还行，讨论了现代教育的现状，还是很有启发的。（好好地给表弟表妹们上了一课 =w=）摘豆瓣几句评论：“学习是为了完善人生，而非享乐人生。”，个人总结：“技术宅改变一切（误”。<br>话说片名叫 3 dioits，结果男主屌炸天，一点都不傻。<br>不过男配角A跳楼没死，还能让他醒来恢复，回校参加校招，也是很不合逻辑啊。</p>
+<p>这两部电影都挺有深度的，用欢乐的剧情讲了蛮深刻的道理。虽然是同一个导演，同一个男主演，看下来都很赞。</p>
+<p>从这两部电影中我学到了一个道理：<strong>阿三很喜欢唱歌</strong>。(多冷的隆冬~)</p>
+<hr>
+<h3 id="(02-23)移动迷宫_The_Maze_Runner">(02.23)<a href="http://movie.douban.com/subject/21349345/" target="_blank" rel="external">移动迷宫 The Maze Runner</a></h3><p>做为科幻片，故事相对比较单调，剧情和人设都还不够。还有整片没讲好，我这种弱智观众完全没看到影片表现出来的逻辑。<br>总之这片不是很好。（看豆瓣评论逗逗就够了）</p>
+<hr>
+<h3 id="(02-24)亲爱的">(02.24)<a href="http://movie.douban.com/subject/25798222/" target="_blank" rel="external">亲爱的</a></h3><p>黄渤和郝蕾的演技很棒。<br>一来就虐，让我从头纠心到尾，这说明这片很不错，给我妈看肯定哭成泪人了。<br>不知道这片有没有带有政治色彩，不管怎样，我是学会了一个道理：以后有孩子了一定要保护好。</p>
+<hr>
+<h3 id="(02-25)人再囧途之泰囧_和_普罗米修斯_Prometheus">(02.25)<a href="http://movie.douban.com/subject/10574622/" target="_blank" rel="external">人再囧途之泰囧</a> 和 <a href="http://movie.douban.com/subject/3771562/" target="_blank" rel="external">普罗米修斯 Prometheus</a></h3><p>看了豆瓣才发现，我看的《人再囧途之泰囧》又叫《人在囧途2》…<br>我第一部都还没看就看第二部了，不过连导演都换了，剧情上应该没什么联系吧。<br>这是徐峥的处女作，不过太生硬了，让我很失望，他还是好好地当演员比较好。<br>王宝强这猪队友真是让人看不下去，太二了，这就是所谓的囧，我算是见识到了。</p>
+<p>《普罗米修斯》这片是看猎奇和特效的，不过世界观还是不错的，就是篇幅太短，没法讲得很精彩。这部片又叫异形前传，好吧我没看过异形，我第一次了解这个世界观。<br>女主自己剖腹产真是暴力，让人印象深刻…</p>
+<hr>
+<h3 id="(02-26)魔女宅急便_魔女の宅急便">(02.26)<a href="http://movie.douban.com/subject/1307811/" target="_blank" rel="external">魔女宅急便 魔女の宅急便</a></h3><p>宫老的这部片子整体来说剧情弱了一点啊，不过音乐和作画足以弥补。<br>少女成长的故事告诉我们，每个人都有飞不起来，画不出来的时候，经历过之后就会更懂得其中的意义了。成长有时候会伴随着痛苦的。<br>“每一个人都有他与生俱来的特质，最后一定能苦尽甘来”。</p>
+<hr>
+<p><em>(The End)</em></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>寒假结束了。<br>看了好多电影，算了下，有 4+8+8+5+9=34 部。<br>这个寒假值了~</p>
+<hr>
+<h3 id="(02-16)_星运里的错_The_Fault_in_Our_Stars_和_明日边缘_Edge_of_Tomorrow">(02.16) ]]>
+    </summary>
+    
+      <category term="01. 日常" scheme="http://illuz.github.com/tags/01-%E6%97%A5%E5%B8%B8/"/>
+    
+      <category term="归档_2015-03" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2015-03/"/>
+    
+      <category term="01. 生活" scheme="http://illuz.github.com/categories/01-%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[寒假观影[week04]]]></title>
+    <link href="http://illuz.github.com/2015/02/17/movies-watched-in-2015-winter-vacation-4/"/>
+    <id>http://illuz.github.com/2015/02/17/movies-watched-in-2015-winter-vacation-4/</id>
+    <published>2015-02-17T04:59:12.000Z</published>
+    <updated>2015-05-03T12:11:47.123Z</updated>
+    <content type="html"><![CDATA[<p>年末客人不少，再加上爬山，所以本周只看了点。</p>
+<hr>
+<h3 id="(02-09)千与千寻_千と千尋の神隠し">(02.09)<a href="http://movie.douban.com/subject/1291561/" target="_blank" rel="external">千与千寻 千と千尋の神隠し</a></h3><p>宫老的神片，果然看了太多各种不同的电影要来部神片调剂调剂，虽然看过好几遍了，还是看得十分过瘾！</p>
+<p>果然最好看的是小白找回名字的那段！<br>还有钱婆婆说的这句话：</p>
+<blockquote>
+<p>一度あったことは忘れないものさ<br>曾经发生过的事情是不会忘记的</p>
+<p>思い出せないだけで<br>只是想不起来而已</p>
+</blockquote>
+<hr>
+<h3 id="(02-10)前目的地_Predestination_和_雪国列车_설국열차">(02.10)<a href="http://movie.douban.com/subject/20278505/" target="_blank" rel="external">前目的地 Predestination</a> 和 <a href="http://movie.douban.com/subject/3071441/" target="_blank" rel="external">雪国列车 설국열차</a></h3><p>前目的地，这部科幻片的整个剧情只需一句话，不过刻画和描述的不错，在这里就不剧透了。<br>看了好久才发现是科幻片。<br>吐槽一句：岁月会改变一个人。</p>
+<p>我是看过龙斌大叔的吐槽再来看雪国列车的，不得不说棒子们的电影也有一流的水准了，再看看国内，唉。<br>我觉得这种横版过关游戏似的电影，狂热爱好者可以写个简单的像素游戏来玩，结局是“后来，延续白种人香火的重要使命，落在了那头熊的身上”(原话来自豆瓣短评)。<br>不过，这里面也描写了人性，还是有深度的。</p>
+<hr>
+<h3 id="(02-12)独立游戏大电影_Indie_Game:_The_Movie">(02.12)<a href="http://movie.douban.com/subject/7015793/" target="_blank" rel="external">独立游戏大电影 Indie Game: The Movie</a></h3><p>作为专业是有做游戏方向的我来说，这个纪录片确实不错，反正我是看得很开心，也给了我不少启发，这样就够了。<br>里面几款游戏都看过别人玩，没想到背后有这些故事，也是很触动。<br>看了下豆瓣的评论，很赞同“慎以独立游戏制为职业目标”这个观点，因为这个赌博风险太高，他们可是拼上老命去做这游戏的。不过这事情可以做为业余无压力去做，就像没事画画写字一样。</p>
+<h3 id="(02-13)智取威虎山">(02.13)<a href="http://movie.douban.com/subject/10807909/" target="_blank" rel="external">智取威虎山</a></h3><p>一句话，和家里人看得很开心。<br>引用豆瓣短评：“徐克发挥其八成半功力，被片头片尾的韩庚拉低。打虎和村庄保卫战很精彩，结尾太夸张太过 ”，片头被家里客人告知前面有个韩庚，5 星变 4 星。好好的红色片为何会有电视剧偶像（应该是）。</p>
+<hr>
+<p>希望下周继续~</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>年末客人不少，再加上爬山，所以本周只看了点。</p>
+<hr>
+<h3 id="(02-09)千与千寻_千と千尋の神隠し">(02.09)<a href="http://movie.douban.com/subject/1291561/" target="_blank" r]]>
+    </summary>
+    
+      <category term="01. 日常" scheme="http://illuz.github.com/tags/01-%E6%97%A5%E5%B8%B8/"/>
+    
+      <category term="归档_2015-02" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2015-02/"/>
+    
+      <category term="01. 生活" scheme="http://illuz.github.com/categories/01-%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[每周v2ex记录[15-02-09~15-02-15]]]></title>
+    <link href="http://illuz.github.com/2015/02/16/v2ex-150215/"/>
+    <id>http://illuz.github.com/2015/02/16/v2ex-150215/</id>
+    <published>2015-02-16T05:39:36.000Z</published>
+    <updated>2015-05-03T12:11:47.130Z</updated>
+    <content type="html"><![CDATA[<p>东西不是很多，因为年要来了，希望下周有空发。</p>
+<hr>
+<ol>
+<li><p><a href="http://www.v2ex.com/t/169700" target="_blank" rel="external">目前 V2EX [收藏, 点击, 感谢] 最多的帖子</a><br>排行榜传送门：<a href="https://esd.cc/v2ex/" target="_blank" rel="external">https://esd.cc/v2ex/</a><br>里面的收藏排行最有干货了，还惊现榜中榜：<a href="https://www.v2ex.com/t/77480" target="_blank" rel="external">截止到目前V2EX上收藏人数最多的56个帖子</a><br>另外挖到一神帖：<a href="https://www.v2ex.com/t/28375" target="_blank" rel="external">卖春药了。三种全新自制春药。</a>，看 #15 Livid 献身卖萌。<br>esd.cc 里面还统计了 Segmentfault 和 Segmentfault_blog 的数据，还是不错的。</p>
+</li>
+<li><p><a href="https://www.v2ex.com/t/170027" target="_blank" rel="external">想离职了，找个什么合适的理由？</a><br>以后要跳槽了就可以来这帖子找找，哈哈。<br>比如：“老板的发型太土。”</p>
+</li>
+<li><p><a href="http://www.v2ex.com/t/170575" target="_blank" rel="external">深入计算机内在的分析: 当你在读我的博客时计算机都干了什么</a><br>不错的文章，<a href="http://yafeilee.me/blogs/54db6c7b6c69341204140000" target="_blank" rel="external">博文直通车</a>。</p>
+</li>
+<li><p><a href="http://www.v2ex.com/t/170794" target="_blank" rel="external">监控网站是否宕机的免费工具总结，妈妈再也不用担心我的网站了!</a><br>很棒的总结，干货。</p>
+</li>
+<li><p><a href="https://www.v2ex.com/t/170996" target="_blank" rel="external">为什么基础很好的程序员写的代码依旧很烂？</a><br>关于程序员好坏与代码质量的一些争论，看高手们讨论是很受益的。</p>
+</li>
+<li><p><a href="http://www.v2ex.com/t/170305" target="_blank" rel="external">关于用代理加速 git clone</a><br>git 是可以支持用 SOCKS5 的。<br>这帖有几个方法让终端的 git 自动走代理，比较喜欢的是：</p>
+<blockquote>
+<pre><code>git config --global http<span class="class">.proxy</span> <span class="string">'socks5://127.0.0.1:8080'</span>
+git config --global https<span class="class">.proxy</span> <span class="string">'socks5://127.0.0.1:8080'</span>
+</code></pre></blockquote>
+</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>东西不是很多，因为年要来了，希望下周有空发。</p>
+<hr>
+<ol>
+<li><p><a href="http://www.v2ex.com/t/169700" target="_blank" rel="external">目前 V2EX [收藏, 点击, 感谢] 最多]]>
+    </summary>
+    
+      <category term="03. v2ex记录" scheme="http://illuz.github.com/tags/03-v2ex%E8%AE%B0%E5%BD%95/"/>
+    
+      <category term="归档_2015-02" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2015-02/"/>
+    
+      <category term="02. 学习" scheme="http://illuz.github.com/categories/02-%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[寒假观影[week03]]]></title>
+    <link href="http://illuz.github.com/2015/02/09/movies-watched-in-2015-winter-vacation-3/"/>
+    <id>http://illuz.github.com/2015/02/09/movies-watched-in-2015-winter-vacation-3/</id>
+    <published>2015-02-09T07:13:29.000Z</published>
+    <updated>2015-05-03T12:11:47.120Z</updated>
+    <content type="html"><![CDATA[<p>年末在帮家里大扫除，发晚了…</p>
+<h3 id="(02-02)_超体_Lucy">(02.02) <a href="http://movie.douban.com/subject/24404677/" target="_blank" rel="external">超体 Lucy</a></h3><p>之前传得很神，连我都知道这部电影，说明宣传做得不错 -.- 。<br>看完之后感觉还不错，不过整片都在拍女主，简直就是个人秀，这风格不太喜欢。<br>片中还有些不合逻辑的情节，明明有了超能力了，还那么磨蹭，简直看不下去了，直接都放倒就好了。<br>这剧情对于看了多年动漫的我来说，脑洞还不够大，得到超能力后完全可以大搞一场的，真不知道发挥 =w=。</p>
+<hr>
+<h3 id="(02-03)_消失的爱人_Gone_Girl">(02.03) <a href="http://movie.douban.com/subject/21318488/" target="_blank" rel="external">消失的爱人 Gone Girl</a></h3><p>非常棒的剧情悬疑片！<br>最后女主没被捉起来，真是不痛快，这是要出续集的样子。<br>被捉就大快人心了。</p>
+<p>不得不说女主在里面非常聪明，故事发展也让人意想不到，女主最后居然猴急了，真是可怕。<br>豆瓣上评价：“年度最佳date movie💄”，真是恶意满满。</p>
+<p>还有那只男主抱那只猫的场景真是很有感觉。</p>
+<hr>
+<h3 id="(02-04)_互联网之子_The_Internet’s_Own_Boy:_The_Story_of_Aaron_Swartz_和_社交网络_The_Social_Network">(02.04) <a href="http://movie.douban.com/subject/25785114/" target="_blank" rel="external">互联网之子 The Internet’s Own Boy: The Story of Aaron Swartz</a> 和 <a href="http://movie.douban.com/subject/3205624/" target="_blank" rel="external">社交网络 The Social Network</a></h3><p>今天一下子看了两部传记类的电影。<br>抛开人物来看这两部电影，[互联网之子]是通篇介绍 Aaron Swartz 的生平事迹，相比来说，[社交网络]更多的是讲 Mark Zuckerberg 怎么创造 Facebook ，惹上官司，故事性比较强，比较容易看得下去。<br>不过[互联网之子]比较令人动容， Aaron Swartz 的确是个天才，不得不为他的死感到惋惜。</p>
+<p>看到[互联网之子]中人们游行喊的口号，不得让人感到天朝环境之恶劣…</p>
+<blockquote>
+<p>Internet freedom’s under attack, what do we do?<br>互联网自由被侵犯，我们该做什么？</p>
+</blockquote>
+<p>看 [社交网络] 里 Mark Zuckerberg 怎样从一个“工科猥琐男”（豆瓣评论语）如何变成史上最年轻的亿万富翁，我发现：“技术宅也能改变世界！”。<br>我还发现：事情一旦扯上钱就会变得不单纯了。<br>我会努力卖萌，不变成 Nerd 的！</p>
+<hr>
+<h3 id="(02-05)加勒比海盗1：黑珍珠号的诅咒_Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl">(02.05)<a href="http://movie.douban.com/subject/1298070/" target="_blank" rel="external">加勒比海盗1：黑珍珠号的诅咒 Pirates of the Caribbean: The Curse of the Black Pearl</a></h3><h3 id="(02-06)加勒比海盗2：聚魂棺_Pirates_of_the_Caribbean:_Dead_Man’s_Chest">(02.06)<a href="http://movie.douban.com/subject/1315574/" target="_blank" rel="external">加勒比海盗2：聚魂棺 Pirates of the Caribbean: Dead Man’s Chest</a></h3><h3 id="(02-07)加勒比海盗3：世界的尽头_Pirates_of_the_Caribbean:_At_World’s_End">(02.07)<a href="http://movie.douban.com/subject/1418192/" target="_blank" rel="external">加勒比海盗3：世界的尽头 Pirates of the Caribbean: At World’s End</a></h3><h3 id="(02-08)加勒比海盗4：惊涛怪浪_Pirates_of_the_Caribbean:_On_Stranger_Tides">(02.08)<a href="http://movie.douban.com/subject/3227410/" target="_blank" rel="external">加勒比海盗4：惊涛怪浪 Pirates of the Caribbean: On Stranger Tides</a></h3><p><em>这个系列电影我已经放在电脑中好多年了，就是没看，这次终于一口气看完（，可以删掉不再占空间了）。</em></p>
+<p>四部都很好看，就是老外的无厘头电影那种类型… 第二部连发哥都来出演了。<br>不过还是感觉第一部最棒的，后面剧情越来越扯，什么海怪，复活，美人鱼，真是够了。<br>这剧的女主 Elizabeth 感觉很纠结，一会被 Will 和 Norrington 抢，一会亲 Jack 船长，不过最后好像选了 Will ，不过 Will 变成了海怪她也很苦逼。<br>在网上看了下评论，发现这片还是腐女很喜欢看的片，特别是第 4 部，居然有人认为 Barbossa 和 Jack 才是男女主角，好腐…<br>（看我英文名字那么溜，其实我是边看 wikipedia 边写的…）</p>
+<hr>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>年末在帮家里大扫除，发晚了…</p>
+<h3 id="(02-02)_超体_Lucy">(02.02) <a href="http://movie.douban.com/subject/24404677/" target="_blank" rel="external">超体]]>
+    </summary>
+    
+      <category term="01. 日常" scheme="http://illuz.github.com/tags/01-%E6%97%A5%E5%B8%B8/"/>
+    
+      <category term="归档_2015-02" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2015-02/"/>
+    
+      <category term="01. 生活" scheme="http://illuz.github.com/categories/01-%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[每周v2ex记录[15-02-02~15-02-08]]]></title>
+    <link href="http://illuz.github.com/2015/02/09/v2ex-150208/"/>
+    <id>http://illuz.github.com/2015/02/09/v2ex-150208/</id>
+    <published>2015-02-09T07:01:39.000Z</published>
+    <updated>2015-05-03T12:11:47.130Z</updated>
+    <content type="html"><![CDATA[<ol>
+<li><p><a href="http://www.v2ex.com/t/167582" target="_blank" rel="external">4 个函数穿透代理，暴露真实 IP 地址！！亲测属实</a><br>真是太可怕了，ss 也不能隐藏 IP ，连局域网的地址都暴露无疑。<br>听说只好开 Firefox 的 NoScript 才能真正隐藏。</p>
+</li>
+<li><p><a href="http://www.v2ex.com/t/167723" target="_blank" rel="external">[预告] 最新的 V2EX 收藏 Top 50 即将完成</a><br>不错的想法，坐等成果。</p>
+</li>
+<li><p><a href="http://www.v2ex.com/t/167969" target="_blank" rel="external">晒桌面！</a><br>各路人马装逼秀桌面。</p>
+</li>
+<li><p><a href="http://www.v2ex.com/t/167775" target="_blank" rel="external">你的 linux 上都有什么值得推荐的软件？</a><br>以前有过类似的帖子，不过这帖还是挺火的，内容不少，有很多不错的推荐。</p>
+</li>
+<li><p><a href="http://www.v2ex.com/t/168854" target="_blank" rel="external">Linux 下的毁灭脚本</a><br>闲着没事的可以玩玩 =w=</p>
+</li>
+<li><p><a href="http://www.v2ex.com/t/168688" target="_blank" rel="external">键盘、键盘大家都用的什么的啊？</a><br>又是 show time 系列…</p>
+</li>
+<li><p><a href="http://www.v2ex.com/t/169294" target="_blank" rel="external">去广告软件最强总结篇</a><br>仅供参考。</p>
+</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<ol>
+<li><p><a href="http://www.v2ex.com/t/167582" target="_blank" rel="external">4 个函数穿透代理，暴露真实 IP 地址！！亲测属实</a><br>真是太可怕了，ss 也不能隐藏 IP ，连局域网]]>
+    </summary>
+    
+      <category term="03. v2ex记录" scheme="http://illuz.github.com/tags/03-v2ex%E8%AE%B0%E5%BD%95/"/>
+    
+      <category term="归档_2015-02" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2015-02/"/>
+    
+      <category term="02. 学习" scheme="http://illuz.github.com/categories/02-%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[每周v2ex记录[15-01-26~15-02-01]]]></title>
+    <link href="http://illuz.github.com/2015/02/02/v2ex-150201/"/>
+    <id>http://illuz.github.com/2015/02/02/v2ex-150201/</id>
+    <published>2015-02-02T02:00:05.000Z</published>
+    <updated>2015-05-03T12:11:47.130Z</updated>
+    <content type="html"><![CDATA[<p>没什么干货，感觉 V2 上水帖越来越多了…</p>
+<hr>
+<ol>
+<li><p><a href="http://www.v2ex.com/t/165371" target="_blank" rel="external">有关 java 与百度套装[java 官网上的一些东西，确认是官方行为]</a><br>以后得去 <a href="http://www.oracle.com/technetwork/java/index.html" target="_blank" rel="external">Oracle 官网</a>下了， java.com 节操已掉，或者在搜索的时候加个“纯净版”关键字。</p>
+</li>
+<li><p><a href="http://www.v2ex.com/t/166676" target="_blank" rel="external">来讲讲你们做过的毕业设计吧</a><br>大神们的装逼秀高大上时间。</p>
+</li>
+<li><p><a href="http://www.v2ex.com/t/166697" target="_blank" rel="external">做一个二次元图站, 附带 api, 欢迎使用</a><br>Mark 之。</p>
+</li>
+<li><p><a href="http://www.v2ex.com/t/167259" target="_blank" rel="external">ConoHA、Linode、DO 及 Vultr 四家 VPS 服务商个人评测及使用感想</a><br>总结：如果只是搭建SS服务最好使用DO，如果对于服务器需求很高那么Linode是你的首选。如果流量需求巨大那么ConoHA是你的最佳伴侣。如果要用Win的VPS。。。ConoHA和Vultr你看着选吧。</p>
+</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>没什么干货，感觉 V2 上水帖越来越多了…</p>
+<hr>
+<ol>
+<li><p><a href="http://www.v2ex.com/t/165371" target="_blank" rel="external">有关 java 与百度套装[java 官网上的一]]>
+    </summary>
+    
+      <category term="03. v2ex记录" scheme="http://illuz.github.com/tags/03-v2ex%E8%AE%B0%E5%BD%95/"/>
+    
+      <category term="归档_2015-02" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2015-02/"/>
+    
+      <category term="02. 学习" scheme="http://illuz.github.com/categories/02-%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[寒假观影[week02]]]></title>
+    <link href="http://illuz.github.com/2015/02/02/movies-watched-in-2015-winter-vacation-2/"/>
+    <id>http://illuz.github.com/2015/02/02/movies-watched-in-2015-winter-vacation-2/</id>
+    <published>2015-02-01T16:18:39.000Z</published>
+    <updated>2015-05-03T12:11:47.120Z</updated>
+    <content type="html"><![CDATA[<p>寒假尽量每天一部电影 =w=。<br>稍微记录下喜欢的台词和观影感受。</p>
+<hr>
+<h3 id="(01-26)_复仇者联盟_The_Avengers">(01.26) <a href="http://movie.douban.com/subject/1866479/" target="_blank" rel="external">复仇者联盟 The Avengers</a></h3><p>这里面的人物，<br>只看了美国队长，雷神，绿巨人，<br>不认识钢铁侠，黑寡妇，鹰眼。</p>
+<p>雷神2还是我唯一一部在影院看的电影，一部 3D 电影，然后我发现我看电影也晕 3D…（当时我居然还没看过第一部）<br>美国队长是我在火车上太无聊，跟基友从他的手机传过来的，超低画质。<br>（突然发现这是个悲伤的故事）</p>
+<p>为什么会看这部？因为我有个朋友是漫威迷，整天跟我扯超级英雄，这部刚好让我一锅踹，来了解一下..</p>
+<p>感受的话，其实没什么… 这种商业片只是卖特效和大牌来着，大牌对我来说是没用的，所以我的唯一感受就是特效不错，还有让我认识了不少漫威英雄。</p>
+<hr>
+<h3 id="(01-27)_肖申克的救赎_The_Shawshank_Redemption">(01.27) <a href="http://movie.douban.com/subject/1292052/" target="_blank" rel="external">肖申克的救赎 The Shawshank Redemption</a></h3><p>非常棒的作品！真是不负胜名啊！<br>剧情、台词等各个方面都是非常不错的，网上有很多各种评价和考据，我就不一一再评价了。</p>
+<p>印象深刻的一段是 Brooks 出狱不适应社会后自杀， Redding 听闻后说的话：</p>
+<blockquote>
+<p>（00:59:05）</p>
+<p>布鲁斯不是疯了 他只是被体制化了<br>Brooks ain’t no bug. He’s just institutionalized.</p>
+<p>…</p>
+<p>我告诉你，这些围墙很有趣的<br>But I tell you these walls are funny.</p>
+<p>开始，你恨它们 接着，你适应了它们<br>First you hate them. Then you get used to them.</p>
+<p>时间久了 你开始离不开它们<br>Enough time passes… you get so you depend on them.</p>
+<p>那就是被体制化了<br>That’s “institutionalized.”</p>
+</blockquote>
+<p>让我想起 GFW …<br>墙内的人们也要被 institutionalize 了。</p>
+<p>印象深刻的当然不止这段，还有不少。<br>以后还要多看几遍，这电影值得细细品味。</p>
+<hr>
+<h3 id="(01-28)_银河护卫队_Guardians_of_the_Galaxy">(01.28) <a href="http://movie.douban.com/subject/7065154/" target="_blank" rel="external">银河护卫队 Guardians of the Galaxy</a></h3><p>豆瓣的评分只有 8.0 。 我觉得这都是特效分…<br>整片一贯的好莱坞商业骗票房的大片，不喜欢，情节逻辑太烂，还拖剧情，中文翻译更差，无力吐槽。<br>对漫威的评价已下降。<br>不过据说 3D 效果不错，但是前天刚看了复仇者，这片比起来没更好。</p>
+<p>整片的亮点只有卖萌的树人，以及它的那句台词：<br><code>I am Groot</code></p>
+<hr>
+<h3 id="(01-29)_阿甘正传_Forrest_Gump">(01.29) <a href="http://movie.douban.com/subject/1292720/" target="_blank" rel="external">阿甘正传 Forrest Gump</a></h3><p>个人给这部电影的评价会比 肖申克的救赎 还高，节奏紧凑，剧情也引人入胜。</p>
+<p>这个”傻子”的一生让人回味无穷。</p>
+<p>最大的感受就是这部片里面粗话比较少，相比之下 肖申克的救赎 等其它的电影里的台词都带很多 fx<em>k, sh</em>t 和 as*，可能这是因为主人公的性格吧(笑)。<br>还有里面好多各种讽刺，美国总统被刺杀了好多次，还有提到一些梗，像”乒乓外交”什么的，估计是编的。</p>
+<p>总之这是部关于美国历史和人生哲学的电影。</p>
+<hr>
+<h3 id="(01-30)_一步之遥_和_一个人的武林">(01.30) <a href="http://movie.douban.com/subject/6126442/" target="_blank" rel="external">一步之遥</a> 和 <a href="http://movie.douban.com/subject/24695277/" target="_blank" rel="external">一个人的武林</a></h3><p>找很多朋友求推荐印象深刻的电影，收到了不少建议，够这个寒假看的了。<br>可能是中国人比较习惯看中文片，里面有不少 14 年的国产电影的。<br>于是就先挑了几部来看。</p>
+<p>看完《一步之遥》，发现我没看懂…<br>然后跑去看了知乎的一个问题：[《一步之遥》到底讲啥?][ybzy_zhihu]，发现这部片子各种致敬，各种玄机，各种隐喻，各种嘲讽。<br>我是没看明白，我只看到姜文（马走日）在里面各种装疯卖傻，渣特效，不合逻辑，母女撕逼。没有黑这电影的意思，只是我的历史太渣（从小经常挂）没看到什么隐喻，电影看得少没发现什么致敬。<br>总之，我对这电影的影响比较深刻的就是电影中故意到处提到的带着口音的洋文 “I do”。</p>
+<p>然后紧接着就和老爸一起看了甄子丹的《一个人的武林》，个人感觉不错，脍炙人口，也很合老爸的口味。<br>看了好久才发现反派是王宝强演的… 看豆瓣上好多黑他的，不忍想为他鸣不平，做为初次试水武打片，他已经做得不错了。<br>打斗不错，就不纠结为什么甄子丹（夏侯武）允许被放出来协肋调查了。</p>
+<hr>
+<h3 id="(01-31)_潘神的迷宫_El_laberinto_del_fauno">(01.31) <a href="http://movie.douban.com/subject/1767042/" target="_blank" rel="external">潘神的迷宫 El laberinto del fauno</a></h3><p>很神奇的一部电影，整片下来感觉不错，一气呵成，很有 feel 。<br>亦真亦假的情节，让我看完电影后还会思考到底有没有潘神，结局到底是哪个。这神奇的电影就是一部童话，不过有些血腥，还有股浓浓的反战味道。</p>
+<p>后面上尉被反杀的场景十分血腥，但又大快人心。<br>我爸看了后面一部份，他表示上尉自己缝裂嘴，是个真男人…</p>
+<hr>
+<h3 id="(02-01)_分手大师">(02.01) <a href="http://movie.douban.com/subject/24879858/" target="_blank" rel="external">分手大师</a></h3><p>做为国产片，已经做得不错了，一路看下来很欢乐，很脑残，如果有人说那些梗都被用过了，那可能是我没在微博和臭百上看过段子的原因。<br>这是我单纯对电影的评价，当然我也不知道演艺圈是怎么样，邓超是干嘛的，杨幂脚怎么了，我都不知道，我是在刚才才在豆瓣上看来主演列表才发现有杨幂，至于哪个是她我才不会去想，我只是庆幸没有事先上豆瓣逛真是太对了。<br>印象深刻的场景？那就是鸟巢很漂亮，好想站在上面。</p>
+<hr>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>寒假尽量每天一部电影 =w=。<br>稍微记录下喜欢的台词和观影感受。</p>
+<hr>
+<h3 id="(01-26)_复仇者联盟_The_Avengers">(01.26) <a href="http://movie.douban.com/subject/1866479]]>
+    </summary>
+    
+      <category term="01. 日常" scheme="http://illuz.github.com/tags/01-%E6%97%A5%E5%B8%B8/"/>
+    
+      <category term="归档_2015-02" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2015-02/"/>
+    
+      <category term="01. 生活" scheme="http://illuz.github.com/categories/01-%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[每周v2ex记录[15-01-19~15-01-25]]]></title>
+    <link href="http://illuz.github.com/2015/01/25/v2ex-150125/"/>
+    <id>http://illuz.github.com/2015/01/25/v2ex-150125/</id>
+    <published>2015-01-25T14:40:22.000Z</published>
+    <updated>2015-05-03T12:11:47.130Z</updated>
+    <content type="html"><![CDATA[<p>这周考试浪费了一天，回家浪费了一天，断电浪费了一天…</p>
+<hr>
+<ol>
+<li><p><a href="http://www.v2ex.com/t/164375" target="_blank" rel="external">一个阅读 android 各个版本源码的网站</a><br>其实有好几个。<br><a href="http://grepcode.com/project/repository.grepcode.com/java/ext/com.google.android/android/" target="_blank" rel="external">GrepCode</a>；<br><a href="http://androidxref.com/" target="_blank" rel="external">AndroidXref</a>；<br><a href="https://android.googlesource.com/?format=HTML" target="_blank" rel="external">GoogleSorurce</a>。</p>
+</li>
+<li><p><a href="http://www.v2ex.com/t/164906" target="_blank" rel="external">[180 天 180 个网站] 第一天</a><br>老外发起的，<a href="http://jenniferdewalt.com/" target="_blank" rel="external">180 websites in 180 days</a>。<br>好像是一个不小的坑，mark 下，说不定有人会跳进去。</p>
+</li>
+<li><p>Windows 10 Preview 9926 相关。<br><strong>讨论：</strong><br><a href="http://www.v2ex.com/t/164966" target="_blank" rel="external">http://www.v2ex.com/t/164966</a><br><a href="http://www.v2ex.com/t/164963" target="_blank" rel="external">http://www.v2ex.com/t/164963</a><br><strong>下载：</strong></p>
+<blockquote>
+<p>Chinese (Simplified)<br>Windows 10 Technical Preview (x64) Download (4.06 GB)<br><a href="http://iso.esd.microsoft.com/W9TPI/B6B0A0278A90510669EAB90ABF80B22A/Windows10_TechnicalPreview_x64_ZH-CN_9926.iso" target="_blank" rel="external">http://iso.esd.microsoft.com/W9TPI/B6B0A0278A90510669EAB90ABF80B22A/Windows10_TechnicalPreview_x64_ZH-CN_9926.iso</a><br>MD5: 39F660C94C54B07B416B47F5E8BA2AB9A8CEB593<br>Windows 10 Technical Preview (x86) Download (3.13 GB)<br><a href="http://iso.esd.microsoft.com/W9TPI/B6B0A0278A90510669EAB90ABF80B22A/Windows10_TechnicalPreview_x32_ZH-CN_9926.iso" target="_blank" rel="external">http://iso.esd.microsoft.com/W9TPI/B6B0A0278A90510669EAB90ABF80B22A/Windows10_TechnicalPreview_x32_ZH-CN_9926.iso</a><br>MD5: A6691C15D59B3ED3C0ACB642CBDFF9AE4B7FB19E</p>
+</blockquote>
+</li>
+<li><p><a href="http://www.v2ex.com/t/163367" target="_blank" rel="external">“在浏览器里输入网址，按下回车键之后发生了什么”</a><br>里面有很多资料可以涨姿势。</p>
+</li>
+</ol>
+<hr>
+<h3 id="网站搜刮：">网站搜刮：</h3><ol>
+<li>微软的好东西… <a href="https://www.modern.ie" target="_blank" rel="external">https://www.modern.ie</a><br>让我眼前一亮的网站，不过没具体用过，不知道好不好用。<br><strong>用途：</strong><blockquote>
+<p>下载虚拟机：下载OS X, Linux或Windows版的IE测试虚拟机<br>网站扫描：扫描常见代码问题<br>RemoteIE: Use Azure RemoteApp to test your site on IE on Windows 10 Technical Preview from anywhere<br>兼容性报告：扫描modern IE不再支持的代码<br>浏览器截屏：获取你网站的截屏。</p>
+</blockquote>
+</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>这周考试浪费了一天，回家浪费了一天，断电浪费了一天…</p>
+<hr>
+<ol>
+<li><p><a href="http://www.v2ex.com/t/164375" target="_blank" rel="external">一个阅读 android 各个版本源码]]>
+    </summary>
+    
+      <category term="03. v2ex记录" scheme="http://illuz.github.com/tags/03-v2ex%E8%AE%B0%E5%BD%95/"/>
+    
+      <category term="归档_2015-01" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2015-01/"/>
+    
+      <category term="02. 学习" scheme="http://illuz.github.com/categories/02-%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[寒假观影[week01]]]></title>
+    <link href="http://illuz.github.com/2015/01/25/movies-watched-in-2015-winter-vacation-1/"/>
+    <id>http://illuz.github.com/2015/01/25/movies-watched-in-2015-winter-vacation-1/</id>
+    <published>2015-01-25T14:17:41.000Z</published>
+    <updated>2015-05-03T12:11:47.120Z</updated>
+    <content type="html"><![CDATA[<p>寒假尽量每天一部电影 =w=。<br>稍微记录下喜欢的台词和观影感受。</p>
+<hr>
+<h3 id="(01-21)_幽灵公主_もののけ姫">(01.21) <a href="http://movie.douban.com/subject/1297359/" target="_blank" rel="external">幽灵公主　もののけ姫</a></h3><p>最喜欢 <code>アシタカ</code> 和 <code>サン</code> 在 <code>シシ神</code> 的头被打下后暴走后的场景[01:55:00+]：</p>
+<blockquote>
+<p>「サン、力を貸しておくれ」<br>桑，我们需要你的帮忙</p>
+<p>「いやだ！お前も人間の味方だ！その女を連れてさっさと行っちまえ！」<br>不帮！就连你也站在人类那边！你最好快带着这个坏女人滚吧！</p>
+<p>「サン」<br>桑</p>
+<p>「来るな！人間なんか大嫌いだ！」<br>滚开，我恨每一个人类</p>
+<p>「私は人間だ。そなたも、人間だ。」<br>我是人类。但…你也是。</p>
+<p>「だまれ！私は山犬だ!!」<br>闭嘴！我是山犬！！</p>
+<p>「サン」<br>桑</p>
+<p>「寄るなー！」<br>不要过来！</p>
+<p>「すまない。なんとか止めようとしたんだが。」<br>对不起。我已经尽力了</p>
+<p><strong>「もう終わりだ、なにもかも。森は死んだ。」</strong><br><strong>完了，一切都完了。森林死了。</strong></p>
+<p><strong>「まだ終わらない。私たちが生きているのだから。」</strong><br><strong>还没有结束。至少你跟我还活着。</strong></p>
+</blockquote>
+<p>泪目…<br>这部电影看了好几遍还是这么喜欢。宫老的电影可以看一辈子。<br>BGM 也是超赞的！久石让做的 OST 也是绝配！</p>
+<hr>
+<h3 id="(01-22)_少年时代_Boyhood">(01.22) <a href="http://movie.douban.com/subject/2209575/" target="_blank" rel="external">少年时代 Boyhood</a></h3><p>其实看完感觉没有多大触动….可能是因为地域不同没什么带入感吧。</p>
+<ol>
+<li><p>Mason 老爸在小 Mason 玩不动保龄球时教训他：</p>
+<blockquote>
+<p>Wish we could use the bumpers.<br>希望我们能用球道护栏。</p>
+<p>Bumpers are for kids!<br>护栏是给小孩子用的！</p>
+<p>What are you, two years old? You don’t want the bumpers.<br>你呢，你才两岁吗？你不需要护栏的。</p>
+<p><strong>Life doesn’t  give you bumpers.</strong><br><strong>生活不会给你护栏</strong></p>
+</blockquote>
+</li>
+<li><p>Mason 老妈在把年轻 Mason 和 Samantha 赶出家门时忍不住泪目，对 Mason 说：</p>
+<blockquote>
+<p>You know what’s next? It’s my fucking funeral!<br>你说接下来是什么？是我的葬礼！</p>
+</blockquote>
+</li>
+<li><p>在影片的最后 Mason 和一个妺子聊起了时间：</p>
+<blockquote>
+<p>You know how everyone’s always saying, “Seize the moment”?<br>你知道人人都会说”把握此刻”吧？<br>I don’t known, I’m kinda thinking it’s the other way around.<br>不知道，我想的恰恰相反。<br><strong>You know, like, the moment seize us.</strong><br><strong>我感觉是，此刻在把握我们。</strong></p>
+</blockquote>
+</li>
+</ol>
+<hr>
+<h3 id="(01-23)_布达佩斯大饭店_The_Grand_Budapest_Hotel">(01.23) <a href="http://movie.douban.com/subject/11525673/" target="_blank" rel="external">布达佩斯大饭店 The Grand Budapest Hotel</a></h3><p>喜剧类的，剧情一般，整片就是在看导演的风格…<br>其实看不太懂。所以也没什么印象很深刻的场景（喜剧类就是一笑而过的）。</p>
+<p>看了下豆瓣的影评，发现影评的人都好厉害。而且很会喷。<br>幸好我写的不是影评。</p>
+<hr>
+<h3 id="(01-24)_X战警：逆转未来_X-Men:_Days_of_Future_Past">(01.24) <a href="http://movie.douban.com/subject/10485647/" target="_blank" rel="external">X战警：逆转未来 X-Men: Days of Future Past</a></h3><p>讲的是金刚狼穿越的故事（看来老外也喜欢穿越剧）。<br>果然印象最深刻的是用金刚狼做 VPN 来让 Chales 和未来 Chales 聊天的事。 It’s cool!</p>
+<p>最后果然还是大团圆。 果然老外也喜欢 Happy End。<br>没虐真是太好了！</p>
+<hr>
+<h3 id="(01-25)_家里白天一直断电，出门找朋友玩了…">(01.25) 家里白天一直断电，出门找朋友玩了…</h3><hr>
+<p>以上。<br>下周继续看。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>寒假尽量每天一部电影 =w=。<br>稍微记录下喜欢的台词和观影感受。</p>
+<hr>
+<h3 id="(01-21)_幽灵公主_もののけ姫">(01.21) <a href="http://movie.douban.com/subject/1297359/" targe]]>
+    </summary>
+    
+      <category term="01. 日常" scheme="http://illuz.github.com/tags/01-%E6%97%A5%E5%B8%B8/"/>
+    
+      <category term="归档_2015-01" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2015-01/"/>
+    
+      <category term="10. 电影" scheme="http://illuz.github.com/categories/10-%E7%94%B5%E5%BD%B1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[寒假计划 & 提前的一月总结]]></title>
+    <link href="http://illuz.github.com/2015/01/22/summary-of-2015-january/"/>
+    <id>http://illuz.github.com/2015/01/22/summary-of-2015-january/</id>
+    <published>2015-01-21T16:25:47.000Z</published>
+    <updated>2015-05-03T12:11:47.123Z</updated>
+    <content type="html"><![CDATA[<p>从 ACM 退役后就没怎么干事（虽然玩 ACM 也没干什么事），学了丁点 JS 的东西，然后就是复习考试，长跪不起 QAQ…</p>
+<p>今年寒假算挺长的，所以可以找点事玩玩，不过正常寒假，不，假期我都会很颓废的，因此还是不要抱太大的期待了。<br>不管能否完成，我还是做下计划，<s>来提高下B 格</s>，来让寒假有点目标可以做 :)。</p>
+<p>突然发现已经一月末了，回头再写个一月总结二月计划内容有点冲突，于是我机智的来偷个懒，本文就兼任一月总结吧 =w=，反正一月接下去也不会再干什么事了。</p>
+<p>So，先来个一月总结：</p>
+<ol>
+<li>看了大半本 <a href="http://book.douban.com/subject/10546125/" target="_blank" rel="external">「Javascript 高级程序设计」</a> ，真乃神书！内容非常充实！</li>
+<li>简单学了下 <code>jQuery</code> ，第一次碰前端，感觉还不错。</li>
+<li>然后接下来就是期末考试了，复习了不少，算还学得不少的样子，估计下个月就忘了，所以我做了[笔记]。</li>
+<li><code>#56 tomatoes a week</code> 这学期的份已经都做完了，没有缺漏。以后可能不会再硬性要求自己完成了，养成习惯就好了。</li>
+<li><code>Github*365</code> 这个月成功连打！ 不像上个月由于意外就断了。</li>
+<li><a href="http://illuz.github.io/2015/01/20/using-telegram/" target="_blank" rel="external">接触了 Telegram</a>， 决定渐渐不用腾讯的产品，已经把空间关了。</li>
+<li>回到家里了，用大电视看了几部电影。</li>
+</ol>
+<hr>
+<p>然后就是寒假计划了，我们的寒假是到三月一号的，所以这计划正好可以管整个二月 =.=。</p>
+<ol>
+<li>学做饭。这个想了很久的，此时不学，更待何时！ 已经大三了，这是生存技能！</li>
+<li>看电影。一直看的二次元的东西，都没怎么看过电影，有时候会跟别人拱不上话题，趁家里买了大电视，这个寒假好好补补电影。</li>
+<li>学习下 <code>Windows</code> 内核。这是下学期去我哥公司实习的预习。不是很酷吗？</li>
+<li>学习下 <code>Cocos-2d</code>。下学期学校的逗逼课程需要用到，预习。还算好玩。</li>
+<li>学习下 <code>Android</code>。纯兴趣，优先级不高。</li>
+<li>学习下 <code>Node.js</code>。同上。</li>
+<li>看些书。 带了几本书回去，希望能看完其中一本：<a href="http://book.douban.com/subject/3769383/" target="_blank" rel="external">&lt;寒江独钓 Windows 内核安全编程&gt;</a>,<a href="http://book.douban.com/subject/4121562/" target="_blank" rel="external">&lt;吃的真相&gt;</a>,<a href="http://book.douban.com/subject/6756090/" target="_blank" rel="external">&lt;松本行弘的程序世界&gt;</a>,<a href="http://book.douban.com/subject/1089243/" target="_blank" rel="external">&lt;黄金时代&gt;</a>。</li>
+<li>看学习视频。下了好多的说，不一定要 <code>Coursera</code> 上的教程啦，我看了点 <a href="http://v.163.com/special/opencourse/buildingdynamicwebsites.html" target="_blank" rel="external">哈佛大学公开课：构建动态网站</a> （<a href="http://pan.baidu.com/s/1c0GfnZ6" target="_blank" rel="external">度盘下载</a>） ，发现真的干货好多！所以会慢慢看下去的。</li>
+<li>每天 Github 不能断！</li>
+<li>锻炼身体。这是革命的本钱啊！（好久没爬山了）</li>
+</ol>
+<hr>
+<p>寒假如此颓废，那么要如何让我尽量执行计划呢？<br>这需要我的自觉(=w=)，还有合理的时间安排。<br>于是我决定把看电影放到下午，看完锻炼。上午就敲代码和学习吧，晚上看书？</p>
+<p>大概是这样，我已经放弃了思考。</p>
+<hr>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>从 ACM 退役后就没怎么干事（虽然玩 ACM 也没干什么事），学了丁点 JS 的东西，然后就是复习考试，长跪不起 QAQ…</p>
+<p>今年寒假算挺长的，所以可以找点事玩玩，不过正常寒假，不，假期我都会很颓废的，因此还是不要抱太大的期待了。<br>不管能否完成，我还是做]]>
+    </summary>
+    
+      <category term="01. 日常" scheme="http://illuz.github.com/tags/01-%E6%97%A5%E5%B8%B8/"/>
+    
+      <category term="归档_2015-01" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2015-01/"/>
+    
+      <category term="01. 生活" scheme="http://illuz.github.com/categories/01-%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Telegram 使用中]]></title>
+    <link href="http://illuz.github.com/2015/01/20/using-telegram/"/>
+    <id>http://illuz.github.com/2015/01/20/using-telegram/</id>
+    <published>2015-01-20T03:53:48.000Z</published>
+    <updated>2015-05-03T12:11:47.126Z</updated>
+    <content type="html"><![CDATA[<p>我的 Telegram id 是 hcbbt，欢迎加好友 +w+。</p>
+<p>Telegram Messenger 是一款跨平台的即时聊天应用，可以建立点对点的加密聊天，支持自毁模式，简洁，快速。</p>
+<p>相关链接：</p>
+<ol>
+<li><a href="http://www.zhihu.com/question/27314565" target="_blank" rel="external">国内外是否有比QQ更好用的即时通讯软件？</a></li>
+<li><a href="http://www.appinn.com/telegram-messenger/" target="_blank" rel="external">Telegram Messenger – 会加密的聊天应用[跨平台]</a></li>
+<li><a href="http://pan.baidu.com/s/1bnrS9jh" target="_blank" rel="external">[全平台制霸!]我上传到百度网盘</a></li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>我的 Telegram id 是 hcbbt，欢迎加好友 +w+。</p>
+<p>Telegram Messenger 是一款跨平台的即时聊天应用，可以建立点对点的加密聊天，支持自毁模式，简洁，快速。</p>
+<p>相关链接：</p>
+<ol>
+<li><a href="h]]>
+    </summary>
+    
+      <category term="02. 折腾" scheme="http://illuz.github.com/tags/02-%E6%8A%98%E8%85%BE/"/>
+    
+      <category term="归档_2015-01" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2015-01/"/>
+    
+      <category term="01. 生活" scheme="http://illuz.github.com/categories/01-%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[每周v2ex记录[15-01-12~15-01-18]]]></title>
+    <link href="http://illuz.github.com/2015/01/19/v2ex-150119/"/>
+    <id>http://illuz.github.com/2015/01/19/v2ex-150119/</id>
+    <published>2015-01-19T14:40:30.000Z</published>
+    <updated>2015-05-03T12:11:47.130Z</updated>
+    <content type="html"><![CDATA[<p>这周都在考试，没怎么逛 V2EX，还是水得很。</p>
+<hr>
+<ol>
+<li><p><a href="http://www.v2ex.com/t/161321" target="_blank" rel="external">求个人 wiki 或个人知识管理工具</a><br>知识管理我一直用的 Cmd Markdown + Evernote，不过没什么效率，也不是很好管理，主要是可以在手机上离线看比较方便。</p>
+<p>看来可以考虑试试 wiki 或其他工具了。</p>
+</li>
+<li><p><a href="http://www.v2ex.com/t/161454" target="_blank" rel="external">ChinaGDG 视频中心发布，大量 Google 技术视频优酷上看</a><br>第一时间同步 Youtube 上 Google Developers 频道的优秀技术视频到优酷上，如 Android、Web 等技术，方便国内开发者学习。视频已包含英文字幕，部分视频还有来自国内志愿者提供的中文翻译字幕。<br>真是辛苦了。</p>
+</li>
+<li><p><a href="http://www.v2ex.com/t/161977" target="_blank" rel="external">[福利]百度阿里腾讯等 50 个笔试卷 PDF 合集</a><br>虽说是留邮箱发的，但这帖还是非常热门啊。<br>网盘公开出来：<a href="http://pan.baidu.com/s/1pJHm0I3" target="_blank" rel="external">http://pan.baidu.com/s/1pJHm0I3</a> 密码:f9y4</p>
+</li>
+<li><p><a href="http://www.v2ex.com/t/162940" target="_blank" rel="external">上大学究竟是为了上大学还是找工作还是学习?</a><br>各种答案…<br>反正我是为了学习了找工作的 :)</p>
+</li>
+<li><p><a href="http://www.v2ex.com/t/162917" target="_blank" rel="external">Windows 下的类 Unix 开发环境推荐</a><br>ConEmu64 + git for windows + Virtualbox<br>表示有钱还是入 Mac 好…</p>
+</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>这周都在考试，没怎么逛 V2EX，还是水得很。</p>
+<hr>
+<ol>
+<li><p><a href="http://www.v2ex.com/t/161321" target="_blank" rel="external">求个人 wiki 或个人知识管理工具</a>]]>
+    </summary>
+    
+      <category term="03. v2ex记录" scheme="http://illuz.github.com/tags/03-v2ex%E8%AE%B0%E5%BD%95/"/>
+    
+      <category term="归档_2015-01" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2015-01/"/>
+    
+      <category term="02. 学习" scheme="http://illuz.github.com/categories/02-%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Windows 8.1 VPN connection disappeared in Networks Panal & Disable OneDrive in Win8.1]]></title>
+    <link href="http://illuz.github.com/2015/01/12/Windows-8-1-VPN-connection-disappeared-in-Networks-Panal-Disable-OneDrive-in-Win8-1/"/>
+    <id>http://illuz.github.com/2015/01/12/Windows-8-1-VPN-connection-disappeared-in-Networks-Panal-Disable-OneDrive-in-Win8-1/</id>
+    <published>2015-01-12T04:04:30.000Z</published>
+    <updated>2015-05-03T12:11:47.133Z</updated>
+    <content type="html"><![CDATA[<p>Today I want to connect to my VPN, but to find that there is not any VPN in my Networks list.<br>I work in win8.1 and had set up the VPN connection for a long time. I used it last week, but today it disappeared.<br>Then I google this issue for solutions. And after checking some invalid solutions such as <code>turn on Telephony service</code>, <code>turn on RRAS service</code>, I remembered that I had turned the OneDrive off last week. I had tried some wrong way before turning it off. Maybe these cause this VPN issue.<br>Yes, it’s right.<br><strong>I turn off the <code>Network List Service</code> and reboot, the VPN comes back and works.</strong></p>
+<hr>
+<p>And there is thr right way to turn off OneDrive in Win8.1:<br>(Edited from <a href="http://www.howtogeek.com/167058/how-to-disable-skydrive-integration-in-windows-8.1/" target="_blank" rel="external">How to Disable SkyDrive / OneDrive Integration in Windows 8.1</a>)</p>
+<ol>
+<li>Win8.1 Home Edition:</li>
+</ol>
+<ul>
+<li>Open up the Registry Editor by using the <code>WIN + R</code> key combination, entering <code>regedit.exe</code>, and hitting enter. Then, navigate down to <code>HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows</code>.</li>
+<li>You will probably need to create the <code>OneDrive key</code> as shown on the left-hand side of the screenshot below by right-clicking on Windows and choosing <code>New</code> -&gt; <code>Key</code>. Once you’ve done that, create the <code>DisableFileSync</code> key on the right-hand side, and give it a value of 1.</li>
+<li>Reboot.</li>
+</ul>
+<ol>
+<li>Win8.1 Pro:<ul>
+<li>Launch <code>Group Policy Editor</code> by pressing the <code>WIN + R</code> simultaneously, typing <code>gpedit.msc</code> and hitting Enter.</li>
+<li>Beneath the Local Computer Policy section, navigate to <code>Computer Configuration\Administrative Templates\Windows Components\OneDrive</code> and then double click the entry labeled <code>Prevent the usage of OneDrive for file storage</code> to the right.</li>
+<li>Select <code>Enabled</code> and then click <code>OK</code>.</li>
+<li>Reboot.</li>
+</ul>
+</li>
+</ol>
+<p>My operation is Win8.1 pro. I used the second way and it works.<br>Good luck.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Today I want to connect to my VPN, but to find that there is not any VPN in my Networks list.<br>I work in win8.1 and had set up the VPN ]]>
+    </summary>
+    
+      <category term="02. 折腾" scheme="http://illuz.github.com/tags/02-%E6%8A%98%E8%85%BE/"/>
+    
+      <category term="归档_2015-01" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2015-01/"/>
+    
+      <category term="10. Tech" scheme="http://illuz.github.com/categories/10-Tech/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[每周v2ex记录[15-01-06~15-01-11]]]></title>
+    <link href="http://illuz.github.com/2015/01/12/v2ex-150111/"/>
+    <id>http://illuz.github.com/2015/01/12/v2ex-150111/</id>
+    <published>2015-01-12T01:46:05.000Z</published>
+    <updated>2015-05-03T12:11:47.130Z</updated>
+    <content type="html"><![CDATA[<ol>
+<li><p><a href="http://www.v2ex.com/t/159555" target="_blank" rel="external">大家是如何治疗颈椎病的？</a><br>果断用几本 C/C++ 的厚书垫高了笔记本。</p>
+</li>
+<li><p><a href="http://www.v2ex.com/t/159632" target="_blank" rel="external">请列举对你影响最深刻或最喜欢的书,三本。</a><br>今年要看些好书了。比如王小波的书。</p>
+</li>
+<li><p><a href="http://www.v2ex.com/t/160269" target="_blank" rel="external">2014 年你都看了哪些不错的书？</a><br>年经帖… 和上面那个差不多，不过内容也还可以。</p>
+</li>
+<li><p><a href="http://www.v2ex.com/t/160275" target="_blank" rel="external">iOS 学习资料整理</a><br>前往 GitHub 查看更多内容: <a href="https://github.com/Aufree/trip-to-iOS" target="_blank" rel="external">https://github.com/Aufree/trip-to-iOS</a></p>
+</li>
+<li><p><a href="http://www.v2ex.com/t/160523" target="_blank" rel="external">树莓派菜鸟入门</a><br>树莓派还是很炫酷的玩意的，虽然我没玩过…</p>
+</li>
+<li><p><a href="http://www.v2ex.com/t/160825" target="_blank" rel="external">老话重提，让你的网站打开的更快 </a><br>主要是关于 Wordpress 的，讨论质量很高。</p>
+</li>
+<li><p><a href="http://www.v2ex.com/t/161130" target="_blank" rel="external">大家一般都是怎么样备份自己的网站和项目呢？</a><br>大部分都是用 Dropbox 或 Git。很不放心虚拟机里的东西，看来可以搞一个。</p>
+</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<ol>
+<li><p><a href="http://www.v2ex.com/t/159555" target="_blank" rel="external">大家是如何治疗颈椎病的？</a><br>果断用几本 C/C++ 的厚书垫高了笔记本。</p>
+</li>
+<li><]]>
+    </summary>
+    
+      <category term="03. v2ex记录" scheme="http://illuz.github.com/tags/03-v2ex%E8%AE%B0%E5%BD%95/"/>
+    
+      <category term="归档_2015-01" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2015-01/"/>
+    
+      <category term="02. 学习" scheme="http://illuz.github.com/categories/02-%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[每周v2ex记录[14-12-29~15-01-04]]]></title>
+    <link href="http://illuz.github.com/2015/01/05/v2ex-150104/"/>
+    <id>http://illuz.github.com/2015/01/05/v2ex-150104/</id>
+    <published>2015-01-05T03:52:54.000Z</published>
+    <updated>2015-05-03T12:11:47.130Z</updated>
+    <content type="html"><![CDATA[<ol>
+<li><p><a href="http://v2ex.com/t/158007" target="_blank" rel="external">经典 APP 源码集合（ 11 个）</a><br>是 APICloud 网站的分享，用来学习是非常不错的。</p>
+</li>
+<li><p><a href="http://v2ex.com/t/158049" target="_blank" rel="external">都有哪些有用的第三方 JS 库呢？</a><br>好多 JS 库资源。</p>
+</li>
+<li><p><a href="http://v2ex.com/t/158387" target="_blank" rel="external">怎么培养算法不错，但是工程能力较弱的实习生</a><br>这说的不就是我吗。<br>我喜欢这句：一个人只有靠自己培养自己。</p>
+</li>
+</ol>
+<h3 id="搜刮得到网址：">搜刮得到网址：</h3><ol>
+<li><p><a href="https://edit.czbix.com/editor" target="_blank" rel="external">StackEdit 无限制版本</a><br>比较喜欢 StackEdit 的 PDF 导出功能，可惜后面变成付费功能了。<br>不过 StackEdit 是开源的，可以自己搭建出来无限制功能的。<br>但是这个网站虽然是搭建的，导出 PDF 却有些问题… 先收藏着吧。</p>
+</li>
+<li><p><a href="http://builtwith.com/" target="_blank" rel="external">BuiltWith</a><br>非常棒的网站，可以看一个网站用到了什么技术。</p>
+</li>
+<li><p><a href="https://github.com/h4writer/enablegoogleinbox" target="_blank" rel="external">在 Firefox 上使用 inbox</a><br>真是太棒了！正用着:D</p>
+</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<ol>
+<li><p><a href="http://v2ex.com/t/158007" target="_blank" rel="external">经典 APP 源码集合（ 11 个）</a><br>是 APICloud 网站的分享，用来学习是非常不错的。</p>
+</l]]>
+    </summary>
+    
+      <category term="03. v2ex记录" scheme="http://illuz.github.com/tags/03-v2ex%E8%AE%B0%E5%BD%95/"/>
+    
+      <category term="归档_2015-01" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2015-01/"/>
+    
+      <category term="02. 学习" scheme="http://illuz.github.com/categories/02-%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[年末总结]]></title>
+    <link href="http://illuz.github.com/2015/01/01/annual-summary-of-2014/"/>
+    <id>http://illuz.github.com/2015/01/01/annual-summary-of-2014/</id>
+    <published>2015-01-01T09:05:13.000Z</published>
+    <updated>2015-05-03T12:11:47.120Z</updated>
+    <content type="html"><![CDATA[<p>又是一年过去了，我好像干了不少傻事，让我来总结总结。</p>
+<p>翻了一下 2014 年的博客，我发现居然每个月都有写总结规划，坚持下来回过头来看好有成就感。（附上链接： <a href="http://blog.csdn.net/hcbbt/article/category/2232625" target="_blank" rel="external">1~5 月</a> 和 <a href="http://illuz.github.io/categories/01-%E7%94%9F%E6%B4%BB/" target="_blank" rel="external">6~12 月</a>，八月初在 Github 搭建了这个博客，所以前面的总结是写在 CSDN 上的，后面的才写在本博客上。）<br>看了一番各月总结，以及其他博客的总结，觉得这次总结就不要太长篇大论了，简单归纳一下就好。</p>
+<hr>
+<h3 id="看完的书">看完的书</h3><p>（已丢在豆列里面了：<a href="http://www.douban.com/doulist/36708593/" target="_blank" rel="external">戳此查看豆列</a>）</p>
+<ol>
+<li>汇编语言</li>
+<li>Python基础教程</li>
+<li>暗时间 （看完这本书开始接触思维类的书籍）</li>
+<li>批判性思维 （学到了很多东西）</li>
+<li>学会提问 （批判性思维第二本）</li>
+<li>自私的基因 （我的三观）</li>
+<li>浪潮之巅 （<a href="http://illuz.github.io/2014/08/24/lang_chao_zhi_dian/" target="_blank" rel="external">读书笔记</a>）</li>
+<li>怎样解题 （其实没怎么看懂）</li>
+<li>把你的英语用起来！ （<a href="http://illuz.github.io/2014/08/07/use_your_english_learning_note/" target="_blank" rel="external">读书笔记</a>）</li>
+<li>搞定 无压工作的艺术 （GTD 一般的书）</li>
+<li>设计心理学 （作者貌似很大牌，感觉一般搬）</li>
+<li>迷茫的旅行商 一个无处不在的计算机算法问题 （算法科普书）</li>
+<li>超越时空 （物理科普书）</li>
+<li>数学：确定性的丧失 （数学历史书，科普书）</li>
+</ol>
+<h4 id="年度最佳书籍"><strong>年度最佳书籍</strong></h4><p>看过的书里面好多我都非常喜欢，比如 暗时间 批判性思维 自私的基因 浪潮之巅等，我今年的思想的成熟都离不开这些书。<br>要从中选出一本我最喜欢的书不太好选，想了下决定是：<strong>《自私的基因》</strong>，虽然现在已经差不多忘了里面的内容了，但是其思想已经慢慢渗透到我的大脑中，作为一本生物学的科普书，它着实改变了我的三观。</p>
+<p>明年也要看各种书~</p>
+<hr>
+<h3 id="看完的动漫漫画">看完的动漫漫画</h3><p>今年还是看了不少漫画和动漫的，每次拿起手机就打开布卡翻看更新，每次打开电脑总是习惯性打开 B 站，简直没救。<br>虽然看过的是不少，但是具体看完的话且印象比较深的就这几部了：</p>
+<ol>
+<li>花牌情缘</li>
+<li>月刊少女</li>
+<li>妖尾</li>
+<li>水星领航员</li>
+<li>攻壳特攻队</li>
+<li>魔笛Magi</li>
+<li>希德尼亚的骑士</li>
+<li>寄生兽</li>
+<li>甘城光辉游乐园</li>
+<li>棋魂</li>
+</ol>
+<h4 id="年度最佳动漫漫画（从今年看完的里面选）"><strong>年度最佳动漫漫画</strong>（从今年看完的里面选）</h4><p><strong>水星领航员</strong> 当之无愧！<br>最爱这种治愈系的了，而且音乐不能更赞！<br>偶尔随机音乐听到水星的歌，仿佛整个世界都舒坦下来。</p>
+<p>其实一些热血类运动类的动漫和漫画我还是很喜欢的，作为玩 ACM 的表示很有代入感，比如 花牌情缘 妖尾 棋魂。</p>
+<h3 id="玩过的技术：">玩过的技术：</h3><p>（说是玩过，其实仅仅是玩过而已）</p>
+<ol>
+<li>汇编语言</li>
+<li>Python</li>
+<li>ActionScript</li>
+</ol>
+<p>一个都快遗忘的链接：<br><a href="http://www.cnblogs.com/vamei/p/3458615.html" target="_blank" rel="external">一天能学会的计算机技术</a><br>明年要刷这个技能列表了。</p>
+<hr>
+<h3 id="成就：">成就：</h3><h4 id="1-_ACM_区域赛铜奖">1. ACM 区域赛铜奖</h4><p>努力了一年半来的成果，意料之内，不过已经非常满意了！</p>
+<h4 id="2-_从未挂科">2. 从未挂科</h4><p>大二发奋学习（大概），还拿了一等奖学金。（得意）</p>
+<h4 id="3-_发条番茄钟_#8_tomatoes_a_day#">3. 发条番茄钟 <code>#8 tomatoes a day#</code></h4><p><code>#8 tomatoes a day#</code> 就是每天至少 8 个番茄钟。<br>后面改为 <code>#56 tomatoes a week#</code> 了。<br>从 4 月开始的自我监督方法，还是很有效果的。<br>曾经使用过 我爱当学霸 来监督学习，简直斯巴达，而且功能多后台占用也不少，比较适合无法控制自己的人。<br>相比之下，我喜欢使用 发条番茄钟 这个 Android APP ，我还是很有自觉的。前段时间刚达成了“每周100+番茄”的成就。</p>
+<h4 id="4-_每周_V2EX_记录">4. 每周 V2EX 记录</h4><p>今年认识了 V2EX 这个论坛，感觉十分幸运，从此就混 V2EX 了。<br>在论坛上经常会有很多精彩的帖子，让我受益匪浅，于是我就开始记录下来，已经坚持了不少周了。</p>
+<h4 id="5-_每月总结">5. 每月总结</h4><p>“五日三省吾身”，每个月做个总结和规划，感觉不错。</p>
+<hr>
+<h3 id="满意的事情">满意的事情</h3><p>上面的各种成就。<br>以及今年锻炼了不少，挺满意的。<br>认识了很多朋友。<br>看了很多书，大部分是从图书馆借的书，估计我是学校学生借书量排行榜的第一页（如果有这东西的话）。</p>
+<hr>
+<h3 id="剁手">剁手</h3><p>（我一般不怎么乱花钱的。）<br>双 11 买了几本书。<br>用奖学金买了 Sumsung 840 Pro 128G，中端的 SSD，花了 760 大洋。</p>
+<hr>
+<h3 id="需要改进之处">需要改进之处</h3><ol>
+<li>开了各种坑，还没填完。 这是多年的老病了，好高骛远…（难道因为我属鸡）<br>为了解决这个问题， 2015 年我开坑后，那阶段还是专心去学习，不要三分种热度。</li>
+<li>表达能力和英文水平还需提高。</li>
+<li>情商需要提高，我就是那种不会“读空气”的人。</li>
+</ol>
+<hr>
+<h3 id="各种悲伤的事情">各种悲伤的事情</h3><p>今年我的身边发生了很多变故，不想多说。<br>直接导致了我做出了各种决定。</p>
+<hr>
+<h3 id="2015_年计划">2015 年计划</h3><p>本来想写 寒假计划，半学期计划 的，想想还是到时候再写比较好。<br>这里就简单扯下 2015 年总体计划。</p>
+<p>2015 年我就大四了，由于我不想读研，于是就需要好好考虑实习工作的事了。<br>所以计划大三下去给我哥的公司帮忙，也算实习吧，当然各种充电和学习是必要的，不然就要落后了。<br>然后好好准备一下，大四找家合意的公司工作实习了。</p>
+<p>感觉自己修行各种不够，我要各种学习，我的兴趣和好奇心可没这么小。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>又是一年过去了，我好像干了不少傻事，让我来总结总结。</p>
+<p>翻了一下 2014 年的博客，我发现居然每个月都有写总结规划，坚持下来回过头来看好有成就感。（附上链接： <a href="http://blog.csdn.net/hcbbt/article/catego]]>
+    </summary>
+    
+      <category term="01. 日常" scheme="http://illuz.github.com/tags/01-%E6%97%A5%E5%B8%B8/"/>
+    
+      <category term="归档_2015-01" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2015-01/"/>
+    
+      <category term="01. 生活" scheme="http://illuz.github.com/categories/01-%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[十二月总结]]></title>
+    <link href="http://illuz.github.com/2014/12/31/summary-of-2014-december/"/>
+    <id>http://illuz.github.com/2014/12/31/summary-of-2014-december/</id>
+    <published>2014-12-31T14:03:51.000Z</published>
+    <updated>2015-05-03T12:11:47.123Z</updated>
+    <content type="html"><![CDATA[<p>每个月一直有写总结， PureFrog 童鞋还来催我写年末总结，于是<s>这次十二月总结和年末总结一起写了</s>，年末总结不好写，还是决定分开写了。</p>
+<p>首先是腊月的总结，来发流水帐：</p>
+<ol>
+<li>之前看了一半 <pro git=""> 感觉太深奥，于是这次先看廖雪峰的 Git 教程，看得差不多了。</pro></li>
+<li>每天一发 leetcode + Github push 基本做到了，中间有几天 Github 有点问题，让我断连了，只能重头开始连击。希望能坚持一年，达成 Github * 365。</li>
+<li>前几天晚上刷了 <a href="http://codeforces.com/contest/500" target="_blank" rel="external">CodeForces 的 Goodbye 2014</a>，被虐爆了，不过很开心 :)。</li>
+<li>《数学：确定性的丧失》终于看完了~ 用这本原版是 82 年出版的数学史亏我耐着看完了，感想就是：数学简直就是玄学，看着公理的崩塌，感觉不明觉厉。</li>
+<li>借了本 《Javascript 高级程序设计》来看，好厚啊，正在跟着这个<a href="http://www.crimx.com/2014/05/15/how-to-learn-javascript-properly/" target="_blank" rel="external">教程</a>学。 为了一个问题想看原文，于是研究出一个<a href="http://blog.csdn.net/hcbbt/article/details/42072545" target="_blank" rel="external">在已经消失的 <em>皮皮书屋</em> 里面快速找英文电子书的方法</a>。</li>
+<li>六级已经考完了，已经过了只是玩玩而已，感觉六级题目好傻逼，这次的报名费算是浪费了，下次不报了，英语还是自学吧。</li>
+<li>Coursera 又各种逃课了。难道是上个月立 flag 的原因？</li>
+<li>学校离我们近的那个操场在整修，于是这个月各种偷懒，没怎么锻炼的。</li>
+<li>这个月各种做期末大实验，游戏程序设计被抱大腿，自个做了个简单的 Win32 游戏，没办法，只能用老师发的坑爹 Win API 引擎。代码已丢 <a href="https://github.com/illuz/SmallRPG" target="_blank" rel="external">Github</a> 上了，挫代码求不拍。</li>
+<li>看完了 《棋魂》，感觉不错，听说漫画还有个北斗篇，有空看看。不过听说由于韩国方面的原因，漫画被腰斩了。</li>
+<li>双 12 后帮家里网购了台 60 吋夏普，回去要好好下大片来享受享受。</li>
+</ol>
+<p>这边顺道计划下一月，虽然后面有明年整年计划（大概会写）。</p>
+<ol>
+<li>继续学习 Git, Javascript, 刷 LeetCode, Github，学习 Android, Linux。</li>
+<li>看新借的 《大众天文学》 上册。</li>
+<li>复习备考。</li>
+<li>学习 R 语言，这是个新坑。</li>
+<li>有时间看看 《Head First 设计模式》 和 《代码大全》 是时候开始接触这类书了，放在书架上都积灰了。</li>
+<li>估计附近的那个操场这学期是没法跑步了，有机会还是跑去远一点操场锻炼锻炼。</li>
+</ol>
+<p>具体就是这样，接下来写年末总结，估计挺花时间的。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>每个月一直有写总结， PureFrog 童鞋还来催我写年末总结，于是<s>这次十二月总结和年末总结一起写了</s>，年末总结不好写，还是决定分开写了。</p>
+<p>首先是腊月的总结，来发流水帐：</p>
+<ol>
+<li>之前看了一半 <pro git=""> 感觉太深奥]]>
+    </summary>
+    
+      <category term="01. 日常" scheme="http://illuz.github.com/tags/01-%E6%97%A5%E5%B8%B8/"/>
+    
+      <category term="归档_2014-12" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2014-12/"/>
+    
+      <category term="01. 生活" scheme="http://illuz.github.com/categories/01-%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[每周v2ex记录[14-12-22~14-12-28]]]></title>
+    <link href="http://illuz.github.com/2014/12/29/v2ex-141228/"/>
+    <id>http://illuz.github.com/2014/12/29/v2ex-141228/</id>
+    <published>2014-12-29T06:57:20.000Z</published>
+    <updated>2015-05-03T12:11:47.130Z</updated>
+    <content type="html"><![CDATA[<p>真心水货….</p>
+<hr>
+<ol>
+<li><p><a href="http://v2ex.com/t/156181" target="_blank" rel="external">国产软件数字证书打包下载 附拉黑教程 远离BD卫士</a><br>年末各个公司各个部门都很拼啊。</p>
+</li>
+<li><p><a href="http://www.v2ex.com/t/157019" target="_blank" rel="external">V2Keep - 收集 V2EX 的好帖子</a><br>作者也很喜欢 V2ex 啊，看看我，只会自个收集在 zybuluo 再发出来。<br>真是太弱。</p>
+</li>
+<li><p><a href="http://v2ex.com/t/157198" target="_blank" rel="external">现在跟别人说自己会编程真是个巨大的挑战</a><br>“电脑修得好，好人当到老！”<br>正常多年不见的同学突然来找我就是要我帮忙修电脑，或者来要我帮忙做计算机的作业，也不好意思拒绝，说多都是泪啊。</p>
+</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>真心水货….</p>
+<hr>
+<ol>
+<li><p><a href="http://v2ex.com/t/156181" target="_blank" rel="external">国产软件数字证书打包下载 附拉黑教程 远离BD卫士</a><br>年末各个公司各个部门]]>
+    </summary>
+    
+      <category term="03. v2ex记录" scheme="http://illuz.github.com/tags/03-v2ex%E8%AE%B0%E5%BD%95/"/>
+    
+      <category term="归档_2014-12" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2014-12/"/>
+    
+      <category term="02. 学习" scheme="http://illuz.github.com/categories/02-%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[每周v2ex记录[14-12-16~14-12-21]]]></title>
+    <link href="http://illuz.github.com/2014/12/22/v2ex-141221/"/>
+    <id>http://illuz.github.com/2014/12/22/v2ex-141221/</id>
+    <published>2014-12-22T04:08:24.000Z</published>
+    <updated>2015-05-03T12:11:47.130Z</updated>
+    <content type="html"><![CDATA[<p>又是满满的水分了…</p>
+<hr>
+<ol>
+<li><p><a href="https://www.v2ex.com/t/154410" target="_blank" rel="external">Python 练习册，每天一个小程序 :-)</a><br>Problems: <a href="https://github.com/Yixiaohan/show-me-the-code" target="_blank" rel="external">https://github.com/Yixiaohan/show-me-the-code</a><br>Python 的各种练习，已star~<br>另外找到一个：<br>Problems: <a href="https://projecteuler.net/problems" target="_blank" rel="external">https://projecteuler.net/problems</a><br>Solutions: <a href="https://github.com/pcx/projecteuler" target="_blank" rel="external">https://github.com/pcx/projecteuler</a></p>
+</li>
+<li><p><a href="http://v2ex.com/t/154344" target="_blank" rel="external">「wen.lu」正式开源，让 google 无处不在吧，么么哒</a><br>反代是很神奇的玩意，已star~<br>还有几个 google 反代网站，没翻墙时可以将就一下：<br><a href="https://xie.lu" target="_blank" rel="external">https://xie.lu</a> 感觉不错，有 scholar 和 code 搜索。<br><a href="http://www.886404.com/" target="_blank" rel="external">http://www.886404.com/</a>  之前经常用，不过有广告。</p>
+</li>
+<li><p><a href="http://v2ex.com/t/155186" target="_blank" rel="external">IMDB 评选的 2014 年度十佳电影</a><br>居然十部都没看过…<br>寒假一定要用家里的新电视好好看看。</p>
+</li>
+<li><p><a href="http://v2ex.com/t/155471" target="_blank" rel="external">大家平时都收藏了哪些十分好用的工具软件呢？分享出来造福大家好吗？</a><br>各种神器都爆出来了~记录俩：<br><a href="http://type.so/cool-tools.html" target="_blank" rel="external">1. type.so的神器</a>（偏向 Mac 的神器）<br><a href="https://techllage.com/87-android" target="_blank" rel="external">2. Android 实用小工具集合</a>（里面就喜欢 Sharp，其它好像没那么实用）<br>让我想起以前知乎的一个很火的帖子：<a href="http://www.zhihu.com/question/20772002" target="_blank" rel="external">有哪些工具或者软件堪称神器？</a></p>
+</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>又是满满的水分了…</p>
+<hr>
+<ol>
+<li><p><a href="https://www.v2ex.com/t/154410" target="_blank" rel="external">Python 练习册，每天一个小程序 :-)</a><br>Probl]]>
+    </summary>
+    
+      <category term="03. v2ex记录" scheme="http://illuz.github.com/tags/03-v2ex%E8%AE%B0%E5%BD%95/"/>
+    
+      <category term="归档_2014-12" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2014-12/"/>
+    
+      <category term="02. 学习" scheme="http://illuz.github.com/categories/02-%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[每周v2ex记录[14-12-08~14-12-14]]]></title>
+    <link href="http://illuz.github.com/2014/12/15/v2ex-141215/"/>
+    <id>http://illuz.github.com/2014/12/15/v2ex-141215/</id>
+    <published>2014-12-15T00:48:06.000Z</published>
+    <updated>2015-05-03T12:11:47.130Z</updated>
+    <content type="html"><![CDATA[<ol>
+<li><a href="http://v2ex.com/t/152536" target="_blank" rel="external">Linux 有哪些特性明显强于 OSX? (对于中级用户而言)</a><br>说着说着就要打起来了=.=<br>看来Linux党还是很多啊</li>
+<li><a href="http://v2ex.com/t/152661" target="_blank" rel="external">用了 win8.1 之后</a><br>最近很多圣战…</li>
+<li><a href="http://v2ex.com/t/153013" target="_blank" rel="external">国内外的业界漫画推荐</a><br>业界漫画…笑了一下。<br><a href="http://www.xkcd.com/" target="_blank" rel="external">http://www.xkcd.com/</a><br><a href="http://abstrusegoose.com/" target="_blank" rel="external">http://abstrusegoose.com/</a></li>
+<li><a href="http://v2ex.com/t/153243" target="_blank" rel="external">一些关于密码破解的知识</a><br>内容还不错，其实对密码学还是不太了解。</li>
+<li><a href="http://v2ex.com/t/153352" target="_blank" rel="external">自学 python 后你用 Python 做过哪些有趣的项目</a>（本周最佳~）<br>非常酷炫的各种Python项目。</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<ol>
+<li><a href="http://v2ex.com/t/152536" target="_blank" rel="external">Linux 有哪些特性明显强于 OSX? (对于中级用户而言)</a><br>说着说着就要打起来了=.=<br>看来Linux党还]]>
+    </summary>
+    
+      <category term="03. v2ex记录" scheme="http://illuz.github.com/tags/03-v2ex%E8%AE%B0%E5%BD%95/"/>
+    
+      <category term="归档_2014-12" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2014-12/"/>
+    
+      <category term="02. 学习" scheme="http://illuz.github.com/categories/02-%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[每周v2ex记录[14-11-24~14-11-07]]]></title>
+    <link href="http://illuz.github.com/2014/12/07/v2ex-141207/"/>
+    <id>http://illuz.github.com/2014/12/07/v2ex-141207/</id>
+    <published>2014-12-07T14:01:14.000Z</published>
+    <updated>2015-05-03T12:11:47.130Z</updated>
+    <content type="html"><![CDATA[<p>12月回了老家一趟，所以都又偷懒了一周….</p>
+<ol>
+<li><a href="http://v2ex.com/t/149939" target="_blank" rel="external">发现一个很 Cool 的云端 IDE</a><br>之前就知道Koding和Neutron<br>另外找到了一篇介绍了13个云 IDE 的文章：<a href="http://www.hongkiat.com/blog/cloud-ide-developers/" target="_blank" rel="external">13 Cloud IDEs For Web Developers</a></li>
+<li><a href="http://v2ex.com/t/150510" target="_blank" rel="external">关于开源软件许可协议</a><br>之前刚查过，顺便记下：<br><a href="http://choosealicense.com/" target="_blank" rel="external">Choosing an OSS license</a><br><a href="http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html" target="_blank" rel="external">如何选择开源许可证？</a></li>
+<li><a href="http://v2ex.com/t/152013" target="_blank" rel="external">马上要学 Javascript 了，请问用犀牛书还是乌龟还是猫头鹰？</a><br>比较同意这个看法：<br>JavaScript DOM编程艺术-&gt;蝴蝶-&gt;JavaScript高级程序设计<br>犀牛用来查的<br>另外附上一篇好文：<a href="http://www.crimx.com/2014/05/15/how-to-learn-javascript-properly/" target="_blank" rel="external">「译」如何正确学习JavaScript</a> </li>
+<li><a href="http://v2ex.com/t/152051" target="_blank" rel="external">可发弹幕的极简二次元在线（个人）电台。</a><br>萌货收藏！<a href="http://itorr.sinaapp.com/fm/#!1769079977" target="_blank" rel="external">http://itorr.sinaapp.com/fm/#!1769079977</a></li>
+<li><a href="http://v2ex.com/t/152166" target="_blank" rel="external">上学、上班路上学英语，什么姿势好？</a><br>学姿势…</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>12月回了老家一趟，所以都又偷懒了一周….</p>
+<ol>
+<li><a href="http://v2ex.com/t/149939" target="_blank" rel="external">发现一个很 Cool 的云端 IDE</a><br>之前就知道Kodin]]>
+    </summary>
+    
+      <category term="03. v2ex记录" scheme="http://illuz.github.com/tags/03-v2ex%E8%AE%B0%E5%BD%95/"/>
+    
+      <category term="归档_2014-12" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2014-12/"/>
+    
+      <category term="02. 学习" scheme="http://illuz.github.com/categories/02-%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[十一月总结]]></title>
+    <link href="http://illuz.github.com/2014/12/07/summary-of-2014-november/"/>
+    <id>http://illuz.github.com/2014/12/07/summary-of-2014-november/</id>
+    <published>2014-12-07T13:49:15.000Z</published>
+    <updated>2015-05-03T12:11:47.123Z</updated>
+    <content type="html"><![CDATA[<p>每个月回顾总结的时候都有一个感受，就是时间不够用，又浪费了一个月了…<br>这周回家一趟，都在颓废，于是就没干什么事都在玩，v2ex和本月总结都拖了一个星期。<br>真是往事不堪回首啊。</p>
+<hr>
+<h3 id="新番">新番</h3><p>唔…上个月的总结扯了些在看的十月番，这个月又有变化了。<br>上个月追的《火星异种》、《晨曦公主》和《虫师 续章》我都没追下去，也就是说，上个月还在看的列表里面现在只剩下《寄生兽》和《日常系的异能战斗》了，我真是善变的男人（笑）。<br>其实不是我不喜欢这几部作品，《火星异种》和《晨曦公主》我追漫画去了，《虫师》由于有事错过了几次，还没来得急补。<br>不过这个月又多追了几部：《七大罪》、《七人魔法使》、《甘城光辉游乐园》、《我，要成为双马尾》还有《银仙》。<br>其中《七人魔法使》我之前漫画看过了，《七大罪》在一口气追完动漫后把漫画看掉了，所以说不定我下个月会又给扔掉了=w=。<br>《我，要成为双马尾》十分无节操，最新一话作画开始崩了，也很有可能被我弃。《银仙》是火车上补的，不知道能不能坚持追完。<br>我是之前玩OSU!看了OP才发现阿京尼的《甘城光辉游乐园》很有爱，我很喜欢，不出意外应该会追完的。</p>
+<hr>
+<h3 id="前略，天国的计划君。。。">前略，天国的计划君。。。</h3><p>上个月的计划已跪…</p>
+<blockquote>
+<ol>
+<li>继续爆佛脚备战北京。</li>
+<li>补Coursera，不要坑太多了。</li>
+<li>背英语、日语，听ESL，大概可以开始看标准日本语了TAT，找个时间做套六级原题。</li>
+<li>看物理科普书《超越时空》和数学科普书《确定性的丧失》，网赛打完可以各种开坑其他的书了，比如设计模式、Android、Windows内核、Linux学习什么的。</li>
+<li>物色一些书来收藏。</li>
+<li>还有各种坑等我来填呢，比如ACGM坑和Github*365坑等。</li>
+<li>10月忙各种事没怎么锻炼，11月要好好锻炼了。</li>
+</ol>
+</blockquote>
+<p>说多了都是泪…<br>完成情况如下：</p>
+<ol>
+<li>被佛踢了一脚，北京打了个铁，ACM生涯遗憾收场了…</li>
+<li>没补成Coursera，课程倒是下了不少，都没咋看</li>
+<li>六级和标日都没搞定，Orz</li>
+<li>《超越时空》看完了，《数学：确定性的丧失》看了一半，已开各种开坑…</li>
+<li>双11买了《小王子》和《基督山伯爵》，希望会看。</li>
+<li>开Github*365坑了，已经坚持了近两周了~由于对Github不熟，最近暂时只能刷leetcode来更新，等学习通了Git后再来fork项目玩。</li>
+<li>11月有锻炼，但是这周回家又胖了几斤TAT…回学校要好好锻炼了…</li>
+</ol>
+<p>另外在家刷了下CodeCademy的javascript教程，以前留的坑终于补完了…<br>大牛说：“Codecademy会造成已掌握的错觉”，所以准备<a href="http://www.crimx.com/2014/05/15/how-to-learn-javascript-properly/" target="_blank" rel="external">再学学</a>。<br>回头借本相关的书系统看看，另外玩玩jQuery…</p>
+<p>简单说下《超越时空》，前面部分讲的各种理论，从牛顿力学到相对论再到量子物理，后面各种维度的扩展，变成超弦理论，最后面几章简直就是科幻小说的设定集，让人浮想连篇…按书上说的，想要成为第十维的主宰者，需要能够利用天体级的能量，这脑洞实在太大，感觉很多东西都弱爆了，利用这个设定可以YY很多的东西。<br>如果说《自私的基因》改变我的三观，让我对社会有了新的见解，那么《超越时空》也改变我的世界观了，让我认识到人类的渺小，我一个人的渺小…我都要重新<strong>思考人生</strong>了…<br>正在看的《数学：确定性的丧失》是关于数学史的，讲得还不错，不过很多部分在《费马大定理》里面看过了，希望后半本会让我出乎意料:)</p>
+<h3 id="计划（赶不上变化）">计划（赶不上变化）</h3><p>每月正片。</p>
+<ol>
+<li>学习Github，争取每天一题leetcode，然后有机会可以放心玩CodeForces了~</li>
+<li>看完《数学：确定性的丧失》，然后物色其他书来看:)</li>
+<li>持续填各种已经开的坑</li>
+<li>看《小王子》备战六级？</li>
+<li>借Javascript相关的书来看，系统学学。</li>
+<li>补Coursera是需要极高的自觉的，等我有网了就好好学…(flag)</li>
+<li>临近期末了，要各种作业和实验.各种复习了…</li>
+<li>锻炼</li>
+</ol>
+<p>近日整理evernote，找到去年的今年计划，发现异常多的坑…<br>只能表示：赶不上变化！&gt;.&lt;</p>
+<p>不过，我会加油的！</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>每个月回顾总结的时候都有一个感受，就是时间不够用，又浪费了一个月了…<br>这周回家一趟，都在颓废，于是就没干什么事都在玩，v2ex和本月总结都拖了一个星期。<br>真是往事不堪回首啊。</p>
+<hr>
+<h3 id="新番">新番</h3><p>唔…上个月的总结扯了些在]]>
+    </summary>
+    
+      <category term="01. 日常" scheme="http://illuz.github.com/tags/01-%E6%97%A5%E5%B8%B8/"/>
+    
+      <category term="归档_2014-12" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2014-12/"/>
+    
+      <category term="01. 生活" scheme="http://illuz.github.com/categories/01-%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[每周v2ex记录[14-11-10~14-11-23]]]></title>
+    <link href="http://illuz.github.com/2014/11/23/v2ex-141123/"/>
+    <id>http://illuz.github.com/2014/11/23/v2ex-141123/</id>
+    <published>2014-11-23T15:49:19.000Z</published>
+    <updated>2015-05-03T12:11:47.130Z</updated>
+    <content type="html"><![CDATA[<p>上周跑出去玩了，回来又忙其他的。<br>没错我偷懒了。</p>
+<hr>
+<ol>
+<li><a href="http://v2ex.com/t/145549" target="_blank" rel="external">十年两茫茫，论如何才能深入进去？</a><br>关键词：创业，人脉</li>
+<li><a href="http://v2ex.com/t/145736" target="_blank" rel="external">网易云课堂 计算机专业课程汇总</a><br><a href="http://study.163.com/curricula/cs.htm" target="_blank" rel="external">http://study.163.com/curricula/cs.htm</a><br>以后都不用上课了…直接网络课程</li>
+<li><a href="http://v2ex.com/t/146854" target="_blank" rel="external">没有废话的 Git 入门教程</a><br>各种大牛推荐了很多 Git 入门的教程，是时候开始入门 Git 了。:P</li>
+<li><a href="http://v2ex.com/t/148497" target="_blank" rel="external">BurstLink 开源翻墙工具 可能比 SS/SSH/VPN 要快</a><br>目测新潮流 = =</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>上周跑出去玩了，回来又忙其他的。<br>没错我偷懒了。</p>
+<hr>
+<ol>
+<li><a href="http://v2ex.com/t/145549" target="_blank" rel="external">十年两茫茫，论如何才能深入进去？</a><br>关]]>
+    </summary>
+    
+      <category term="03. v2ex记录" scheme="http://illuz.github.com/tags/03-v2ex%E8%AE%B0%E5%BD%95/"/>
+    
+      <category term="归档_2014-11" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2014-11/"/>
+    
+      <category term="02. 学习" scheme="http://illuz.github.com/categories/02-%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[每周v2ex记录[14-11-03~14-11-09]]]></title>
+    <link href="http://illuz.github.com/2014/11/09/v2ex-141109/"/>
+    <id>http://illuz.github.com/2014/11/09/v2ex-141109/</id>
+    <published>2014-11-09T11:18:27.000Z</published>
+    <updated>2015-05-03T12:11:47.130Z</updated>
+    <content type="html"><![CDATA[<ol>
+<li><p><a href="http://v2ex.com/t/143671" target="_blank" rel="external">免费的编程中文书籍索引</a><br>好久没有这么好的资源了，努力mark。<br>Github链接：<a href="https://github.com/justjavac/free-programming-books-zh_CN" target="_blank" rel="external">https://github.com/justjavac/free-programming-books-zh_CN</a></p>
+</li>
+<li><p><a href="http://v2ex.com/t/143682" target="_blank" rel="external">11•11 买点啥</a><br>准备光棍节买书了…目测物流又要忙死，希望能早点到货。</p>
+</li>
+<li><p><a href="http://v2ex.com/t/144005" target="_blank" rel="external">颜文字分享站点</a><br>再也不愁找不到颜文字了。(ﾉ∀`*)<br><a href="http://mengma.moe/" target="_blank" rel="external">http://mengma.moe/</a><br><a href="http://facemood.grtimed.com" target="_blank" rel="external">http://facemood.grtimed.com</a></p>
+</li>
+<li><p><a href="http://v2ex.com/t/143988" target="_blank" rel="external">编程学习到什么阶段适合读《代码大全》？</a><br>其实我也很关注这个问题，我那本买过来后就在软件工程复习时候拿出来翻了一下，表示看不太下去，反正慢慢看。</p>
+</li>
+<li><p><a href="http://v2ex.com/t/144517" target="_blank" rel="external">当老爸求经验</a><br>当然也可以问老爸哈哈。</p>
+</li>
+<li><p><a href="http://v2ex.com/t/144202" target="_blank" rel="external">程序员如何营销自己?</a><br>留言说：<br>“提升自身内功，自然愿者上钩。<br>GitHub — 展现你的代码功底，你的协作能力”<br>才顿悟Github是锻炼协作能力的，感觉我老是在玩单机版，看来得多试试其他用途了。</p>
+</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<ol>
+<li><p><a href="http://v2ex.com/t/143671" target="_blank" rel="external">免费的编程中文书籍索引</a><br>好久没有这么好的资源了，努力mark。<br>Github链接：<a href="ht]]>
+    </summary>
+    
+      <category term="03. v2ex记录" scheme="http://illuz.github.com/tags/03-v2ex%E8%AE%B0%E5%BD%95/"/>
+    
+      <category term="归档_2014-11" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2014-11/"/>
+    
+      <category term="02. 学习" scheme="http://illuz.github.com/categories/02-%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[十月总结]]></title>
+    <link href="http://illuz.github.com/2014/11/03/summary-of-2014-october/"/>
+    <id>http://illuz.github.com/2014/11/03/summary-of-2014-october/</id>
+    <published>2014-11-03T07:42:55.000Z</published>
+    <updated>2015-05-03T12:11:47.123Z</updated>
+    <content type="html"><![CDATA[<p>日月如梭，好快又到十一月了，14年只剩俩个月可以浪费了，到了年末是不是要来个14年总结啊。</p>
+<h3 id="新番">新番</h3><p>这个月又开始了一批新番了，其中最引人注目的是Fate/stay night重置了剧场版的UBW线，可惜我看了两集就看不下去了，难道我脱离中二了么…不不，我这个月追的《日常系的异能战斗》、《火星异种》、《寄生兽》都是很中二的。<br>可能是我已经形成了一定的胃口了=w=..貌似我现在只看轻松的校园后宫类番、脑洞向、猎奇向、剧情向的动漫漫画了。FSN这种剧场版看过，剧情也已经差不多玩过的，我就pass了。<br>而且我不是很萌吾王…虽然奈须蘑菇的脚本我都非常喜欢，但Fate系列、月姬系列和空境系列，我对她们的喜欢程度是递增的，可能是因为我对她们的了解程度不同吧，因为之前曾看过月姬和空境的脚本小说，而Fate的小说我没看完，加之空境剧场版和音乐加成，让人无法自拔，最萌黑桐和式姐这对了。<br>还有直死魔眼是曾让我中二发作的几种眼睛之一。（这个话题可以扯很多耶，回头开坑写个-.-）里面就Fate没有这个魔眼…<br>另外加成部分是与我喜欢看的Mugen游戏有关。Mugen里面的月姬系统有很多月姬的人物，而且也有两仪式，发招华丽，而且有各种有趣的改版人物，比如各种shiki各种len。（PS，我也很喜欢len）但是Fate系列的人物却不是很多，比较完整的角色也比较喜欢的就只有黑樱了，其他的人物都很挫。<br>自问自答：<br><strong>Q:</strong> Fate明明人物那么多，每个人的招数也很多，为什么在Mugen里面发展得这么不好？<br><strong>A:</strong> 虽然她们都是TYPE-MOON的产品，而且Fate的Mugen人物不是很多。究其原因，有个非常重要的，就是TYPE-MOON发布了很出名的格斗游戏MBAACC，也就是刚才提到的月姬系统，里面整合了月姬的大部分人物，以及两仪式。Fate虽然有FUC，但是个人感觉没MBAACC好玩，后来Mugen引入了月姬系统后，各种人物发展开来，Fate就比其他两个作品人物少了。<br>（个人见解，不客观）</p>
+<p>（我去这是总结么！STOP!）<br>总之，列下这个月我追的番。<br>《日常系的异能战斗》、《火星异种》、《寄生兽》、《晨曦公主》、《虫师 续章》。<br>当然有可能会半路觉得太无聊而弃番，也有可能追新的啦。</p>
+<h2 id="任务完成情况">任务完成情况</h2><p>正片开始了。<br>上个月计划：</p>
+<blockquote>
+<ol>
+<li>刷题抱佛脚备战西安和北京<em>（主线任务，其他都是支线任务）</em></li>
+<li>有时间继续写写ACGM坑。</li>
+<li>按时填<code>#56 tomatoes a week#</code>坑。</li>
+<li>日语坑可以考虑下。</li>
+<li>ESLPOD开刷，断断续续看小王子原版pdf吧。</li>
+<li>跟Coursera课。</li>
+<li>看书，看动漫，看漫画。啥时候开坑美剧…</li>
+<li>锻炼。</li>
+</ol>
+</blockquote>
+<p>完成情况：</p>
+<ol>
+<li>10月打完了西安赛区，拿了个铜奖，具体的西安之旅见我的<a href="http://blog.csdn.net/hcbbt/article/details/40581309" target="_blank" rel="external">写在CSDN博客的总结</a>。</li>
+<li>ACGM坑还是太大，填不完，而且还不知道用什么形式放出来，只能慢慢搞了…</li>
+<li>番茄坑一直没有掉，已经习惯了。</li>
+<li>Coursera上还有好多课程没看，而且还跑出去玩了，总不能带本日语书去看吧，说不定一不小心被拖到墙角一顿暴打。</li>
+<li>还没开始刷Orz…现在立马把mp3复制到手机上！</li>
+<li>Coursera正在赶呢，旅游荒废了好多TAT。</li>
+<li>ACG每天都在干。美剧的话，《硅谷》看了几集没看完，有空迅速略过，然后看《神盾局》。</li>
+<li>前面几天有锻炼，可是爆佛脚+旅游+回家一趟，后面完全没锻炼。</li>
+</ol>
+<p>这个月从西安回来然后各种原因回家了一趟，各种颓废，明明还有一场北京赛区，我的战争还没结束呢。<br>带了几本书回家，看完了一本：《迷茫的旅行商》，讲的TSP的历史，也就是传说中的NP难的旅行商问题，大概读了一遍让我对算法更加了解了，感觉还不错啦。里面提到的科幻短篇《抗体》让我很感兴趣，但是网上却找不到，貌似是连载在科幻杂志的，没那么容易找到。</p>
+<p>我居然又报了六级，嘛练练小心英语生疏了…<br>看来要开始准备了，于是我更新了手机的沪江开心词场，不是特别青睐它，而是因为这种软件都随便找啦，而且里面还有日语单词本。<br>离线了几本英语和日语的单词本来开始背诵咯。</p>
+<h2 id="计划">计划</h2><p>不能扯太多，赶紧来正文。<br>越来越不知道怎么写计划了…随便扯扯吧</p>
+<ol>
+<li>继续爆佛脚备战北京。</li>
+<li>补Coursera，不要坑太多了。</li>
+<li>背英语、日语，听ESL，大概可以开始看标准日本语了TAT，找个时间做套六级原题。</li>
+<li>看物理科普书《超越时空》和数学科普书《确定性的丧失》，网赛打完可以各种开坑其他的书了，比如设计模式、Android、Windows内核、Linux学习什么的。</li>
+<li>物色一些书来收藏。</li>
+<li>还有各种坑等我来填呢，比如ACGM坑和Github*365坑等。</li>
+<li>10月忙各种事没怎么锻炼，11月要好好锻炼了。</li>
+</ol>
+<h2 id="进路问题">进路问题</h2><p>读研还是工作？继续玩ACM还是开搞其他？</p>
+<p>第一个问题。<br>其实我偏向后者，感觉国内读研会很浪费时间，而且非本校进来的研究生会被本校的歧视（个人偏见）。<br>但是都不一定啦，父母是说随便我，有个高文凭会更容易找工作？一切都看情况啦。</p>
+<p>第二个问题。<br>个人还是很喜欢ACM的，ACM给我带来很多东西，让我认识了很多朋友，改变了我的人生（可惜玩了这么久还是一只菜鸟）。但是要不要继续搞ACM这个不是我一个人决定的，队友们貌似都不想干了，我也觉得挺累的，而且大四会各种忙，我没有信心能组新队友一起搞的比现在好。所以我偏向后者啦。<br>不是说不干啦，而是不是以比赛为目的去玩，因为ACM我对算法和数学兴趣都非常浓厚，所以即使接下去不搞比赛了，我也会继续学习算法和数学的，CF和TC有空还是会玩的！当然如果有机会继续玩ACM我也会继续玩啦。</p>
+<h2 id="一些坑">一些坑</h2><p>我很喜欢各种开坑啊。比如：</p>
+<ul>
+<li>准备开始开坑LeetCode。</li>
+<li>看了<a href="http://blog.csdn.net/yew1eb/article/details/8763057" target="_blank" rel="external">Topcoder好题推荐 by 白衣少年</a>，决定开个坑刷掉。</li>
+<li>以前留的BYVoid的网络流坑还没填完呢。</li>
+<li>如果开Github*365坑的话，那意味着我要开更多的开源坑了。</li>
+</ul>
+<p><em>END OF ESSAY</em></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>日月如梭，好快又到十一月了，14年只剩俩个月可以浪费了，到了年末是不是要来个14年总结啊。</p>
+<h3 id="新番">新番</h3><p>这个月又开始了一批新番了，其中最引人注目的是Fate/stay night重置了剧场版的UBW线，可惜我看了两集就看不下去了，难道]]>
+    </summary>
+    
+      <category term="01. 日常" scheme="http://illuz.github.com/tags/01-%E6%97%A5%E5%B8%B8/"/>
+    
+      <category term="归档_2014-11" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2014-11/"/>
+    
+      <category term="01. 生活" scheme="http://illuz.github.com/categories/01-%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[每周v2ex记录[14-10-25~14-11-1]]]></title>
+    <link href="http://illuz.github.com/2014/11/03/v2ex-141102/"/>
+    <id>http://illuz.github.com/2014/11/03/v2ex-141102/</id>
+    <published>2014-11-03T00:13:23.000Z</published>
+    <updated>2015-05-03T12:11:47.130Z</updated>
+    <content type="html"><![CDATA[<ol>
+<li><p><a href="http://v2ex.com/t/141811" target="_blank" rel="external">《程序员跳槽全攻略》限时免费链接</a><br>据说很棒，已下载到手机上看。<br>如果没限时了去找作者留言要或者去买。我没资格把他共享出来。</p>
+</li>
+<li><p><a href="http://v2ex.com/t/142267" target="_blank" rel="external">發現一個很邪惡的網站~</a><br>地址：<a href="http://Joker.org/" target="_blank" rel="external">http://Joker.org/</a><br>線上串流 .torrent 而且支持 magnet</p>
+</li>
+<li><p><a href="http://v2ex.com/t/142390" target="_blank" rel="external">曲径发布开源项目 qTunnel</a><br>Github： <a href="https://github.com/getqujing/qtunnel" target="_blank" rel="external">https://github.com/getqujing/qtunnel</a><br>qTunnel是一个轻量快速的网络隧道软件，可以帮助服务器和客户端之间传输加密数据。</p>
+</li>
+<li><p><a href="http://v2ex.com/t/143022" target="_blank" rel="external">hexo 的备份插件和百度 sitemap 插件</a><br>作为 hexo 使用者，mark下，虽然我还用不着。</p>
+</li>
+<li><p><a href="http://v2ex.com/t/142757" target="_blank" rel="external">[xCafe]黑洞第二个开放日</a><br>一个分享shadowsocks的网站。一直在用。<br>灰常感谢土豪们。<br>且用且珍惜。</p>
+</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<ol>
+<li><p><a href="http://v2ex.com/t/141811" target="_blank" rel="external">《程序员跳槽全攻略》限时免费链接</a><br>据说很棒，已下载到手机上看。<br>如果没限时了去找作者留言要或者去买。我没]]>
+    </summary>
+    
+      <category term="03. v2ex记录" scheme="http://illuz.github.com/tags/03-v2ex%E8%AE%B0%E5%BD%95/"/>
+    
+      <category term="归档_2014-11" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2014-11/"/>
+    
+      <category term="02. 学习" scheme="http://illuz.github.com/categories/02-%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[每周v2ex记录[14-10-20~14-10-24]]]></title>
+    <link href="http://illuz.github.com/2014/10/24/v2ex-141021/"/>
+    <id>http://illuz.github.com/2014/10/24/v2ex-141021/</id>
+    <published>2014-10-24T01:29:04.000Z</published>
+    <updated>2015-05-03T12:11:47.130Z</updated>
+    <content type="html"><![CDATA[<p>由于周末有事外出，不能上网，所以这周只到周五了。<br>虽然天数很少，但这周意外的有料:)。</p>
+<hr>
+<h3 id="1-_自学了_Android_基础，该怎么进阶？">1. <a href="http://v2ex.com/t/140214" target="_blank" rel="external">自学了 Android 基础，该怎么进阶？</a></h3><p>等俺Android基础也自学完了，也来进阶进阶&gt;&lt;。</p>
+<ul>
+<li>摘录1：<br><a href="http://segmentfault.com/blog/stormzhang/1190000000609851" target="_blank" rel="external">Android学习之路</a></li>
+<li><p>摘录2：</p>
+<blockquote>
+<ol>
+<li>挖一个复杂项目的坑开始填.</li>
+<li>开始看一些开源项目</li>
+<li>开始看Android的系统源码<br>建议先定好方向，然后从某个方向上开始进一步深化。</li>
+</ol>
+</blockquote>
+</li>
+<li><p>摘录3:</p>
+<blockquote>
+<p>做一个完整的、复杂一点的 App。从 UI 到数据库，会遇到各方面的问题，然后深入学习各个部分。<strong>最后，写一份几万字的总结</strong></p>
+</blockquote>
+</li>
+</ul>
+<h3 id="2-_Android_快速入门看什么？？">2. <a href="http://v2ex.com/t/140411" target="_blank" rel="external">Android 快速入门看什么？？</a></h3><p>先入门再谈进阶吧哈哈。<br>虽然下面资料我都有了，但是还是记录下吧，如果有新回复再补充。</p>
+<ul>
+<li><a href="http://developer.android.com/training/index.html" target="_blank" rel="external">官方 tutorial</a></li>
+<li><a href="http://stormzhang.github.io/android/2014/07/07/learn-android-from-rookie/" target="_blank" rel="external">Android学习之路</a></li>
+<li>《Learning Android 2nd Edition》</li>
+</ul>
+<h3 id="3-_发一个零基础学_Python">3. <a href="http://v2ex.com/t/140422" target="_blank" rel="external">发一个零基础学 Python</a></h3><p>Gitbook地址： <a href="http://looly.gitbooks.io/python-basic/" target="_blank" rel="external">http://looly.gitbooks.io/python-basic/</a><br>Github地址： <a href="https://github.com/looly/python-basic/" target="_blank" rel="external">https://github.com/looly/python-basic/</a><br>看评论好像不错的样子，可以推荐给需要的基友看。</p>
+<h3 id="4-_恐怖游轮评分_8-2，很想看，但是胆子小，会吓尿吗？">4. <a href="http://v2ex.com/t/140412" target="_blank" rel="external">恐怖游轮评分 8.2，很想看，但是胆子小，会吓尿吗？</a></h3><p>由一个恐怖电影钓出了很多重口的东西哈哈。<br>虽然我不重口，不过难得推荐的那么多，我也记录下，好像都是关于循环类的。</p>
+<blockquote>
+<p>无线循环类无线循环类的，可以从不那么恐怖的《Edge of Tomorrow》、短片《ROOM 8》、短片《Mouse-X》等入手。<br>近几年来的恐怖片佳作当属2012的《The Cabin in the Woods》。<br>AVG电子小说类游戏《Ever17》<br>电影《The Shining》<br>欢乐版本的《土拨鼠日》汤姆汉克斯<br>觉得不够刺激可以看《致命弯道》系列</p>
+</blockquote>
+<h3 id="5-_Code_Marathon(代码马拉松)，坚持才能看到彩虹">5. <a href="http://v2ex.com/t/140578" target="_blank" rel="external">Code Marathon(代码马拉松)，坚持才能看到彩虹</a></h3><p>很酷的东西，这种装逼的东西我喜欢&gt;&lt;。<br>待我比赛打完了就开始搞吧。（又是一个神坑的节奏）</p>
+<h3 id="6-_在线思维导图">6. <a href="http://v2ex.com/t/140520" target="_blank" rel="external">在线思维导图</a></h3><p>虽然我有安装了MindManager和XMind了。（听说XMind最新版能更新Evernote了，不错嘛，有机会在Windows也装下）<br>但是在线的脑图还是很酷的。<br>几个不错的在线思维导图get：</p>
+<ul>
+<li><a href="https://coggle.it/" target="_blank" rel="external">https://coggle.it/</a> 虽然是国外的，但现在不用翻墙</li>
+<li><a href="http://naotu.baidu.com/" target="_blank" rel="external">http://naotu.baidu.com/</a> 百度居然有这东西…</li>
+<li><a href="https://kozea.github.io/umlaut/" target="_blank" rel="external">https://kozea.github.io/umlaut/</a> 用json作图</li>
+<li><a href="http://www.memofon.com/" target="_blank" rel="external">http://www.memofon.com/</a> 用markdown写，神奇的想法</li>
+</ul>
+<h3 id="7-_10_分钟以内的励志视频（微电影）">7. <a href="http://v2ex.com/t/140620" target="_blank" rel="external"> 10 分钟以内的励志视频（微电影）</a></h3><p> 虽然自己不是很感冒，但是还是有可能拿去给别人看的。<br> 所以记录下。</p>
+<h3 id="8-_黑科技_for_小学生">8. <a href="http://v2ex.com/t/140736" target="_blank" rel="external">黑科技 for 小学生</a></h3><p><a href="https://photomath.net/" target="_blank" rel="external">https://photomath.net/</a><br>黑科技get。妈妈再也不用担心我的学习了。（虽然我用不上了）<br>给钱还能一步一步解，不过收费就只能表示呵呵了。</p>
+<h3 id="9-_Android_上展示_pdf">9. <a href="http://v2ex.com/t/140953" target="_blank" rel="external">Android 上展示 pdf</a></h3><p>虽然里面的帖子都歪楼了，不过之后说不定有大神回复，先收藏说不定能用上。<br>让我想起以前<a href="http://illuz.github.io/2014/08/10/v2ex_140810/" target="_blank" rel="external">收藏的</a>一个“<a href="http://v2ex.com/t/126842" target="_blank" rel="external">开源的，可以直接浏览 pdf 的网站程序</a>”帖子。</p>
+<h3 id="10-_教你快速理解_Unicode\UTF-8\UTF-16">10. <a href="http://v2ex.com/t/140835" target="_blank" rel="external">教你快速理解 Unicode\UTF-8\UTF-16</a></h3><p>收藏好几篇关于编码的很棒的文章：</p>
+<ul>
+<li><a href="http://objccn.io/issue-9-1/" target="_blank" rel="external">《NSString 与 Unicode》</a></li>
+<li><a href="http://www.ruanyifeng.com/blog/2007/10/ascii_unicode_and_utf-8.html" target="_blank" rel="external">《字符编码笔记：ASCII，Unicode和UTF-8》</a></li>
+<li><a href="https://www.cl.cam.ac.uk/~mgk25/ucs/utf-8-history.txt" target="_blank" rel="external">《UTF-8 history》</a></li>
+<li><a href="http://www.crifan.com/files/doc/docbook/char_encoding/release/html/char_encoding.html" target="_blank" rel="external">《字符编码详解》</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>由于周末有事外出，不能上网，所以这周只到周五了。<br>虽然天数很少，但这周意外的有料:)。</p>
+<hr>
+<h3 id="1-_自学了_Android_基础，该怎么进阶？">1. <a href="http://v2ex.com/t/140214" target="_]]>
+    </summary>
+    
+      <category term="03. v2ex记录" scheme="http://illuz.github.com/tags/03-v2ex%E8%AE%B0%E5%BD%95/"/>
+    
+      <category term="归档_2014-10" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2014-10/"/>
+    
+      <category term="02. 学习" scheme="http://illuz.github.com/categories/02-%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[每周v2ex记录[14-10-13~14-10-19]]]></title>
+    <link href="http://illuz.github.com/2014/10/19/v2ex-141019/"/>
+    <id>http://illuz.github.com/2014/10/19/v2ex-141019/</id>
+    <published>2014-10-19T15:09:43.000Z</published>
+    <updated>2015-05-03T12:11:47.130Z</updated>
+    <content type="html"><![CDATA[<p>我发现守在最热这个频道看的帖子内容老是那几篇，没有多少我感兴趣的…<br>以后可以多逛逛其他频道。</p>
+<hr>
+<ol>
+<li><p><a href="http://v2ex.com/t/139106" target="_blank" rel="external">阿里通信新出的”亲心小号”</a><br>新鲜事物。<br>表示看完想了不少。</p>
+</li>
+<li><p><a href="http://v2ex.com/t/139250" target="_blank" rel="external">编程马拉松：没有跑完全程，但问心无愧</a><br>Write code every day.<br>好激励人。搞得我也想来挖一坑了都。<br>不过我这种连普通签到都断签的家伙，肯定玩不动Orz。</p>
+</li>
+<li><p><a href="http://v2ex.com/t/139843" target="_blank" rel="external">人生的意义</a><br>羡慕中学生有大把的时间。<br>估计到我进入社会又要怀念学生的大把时光了。</p>
+</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>我发现守在最热这个频道看的帖子内容老是那几篇，没有多少我感兴趣的…<br>以后可以多逛逛其他频道。</p>
+<hr>
+<ol>
+<li><p><a href="http://v2ex.com/t/139106" target="_blank" rel="external">]]>
+    </summary>
+    
+      <category term="03. v2ex记录" scheme="http://illuz.github.com/tags/03-v2ex%E8%AE%B0%E5%BD%95/"/>
+    
+      <category term="归档_2014-10" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2014-10/"/>
+    
+      <category term="02. 学习" scheme="http://illuz.github.com/categories/02-%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[每周v2ex记录[14-10-6~14-10-12]]]></title>
+    <link href="http://illuz.github.com/2014/10/12/v2ex-141012/"/>
+    <id>http://illuz.github.com/2014/10/12/v2ex-141012/</id>
+    <published>2014-10-12T11:50:17.000Z</published>
+    <updated>2015-05-03T12:11:47.126Z</updated>
+    <content type="html"><![CDATA[<p>最近实验室的网络跪了，都没有怎么逛v2ex…</p>
+<hr>
+<h2 id="1-_美丽新世界：linux_下的惬意生活">1. <a href="http://v2ex.com/t/137202" target="_blank" rel="external">美丽新世界：linux 下的惬意生活</a></h2><p>人家的常用软件记录： <a href="https://github.com/yangyangwithgnu/the_new_world_linux" target="_blank" rel="external">https://github.com/yangyangwithgnu/the_new_world_linux</a><br>值得看看。</p>
+<h2 id="2-_Linux_和_OS_X_下的_LaTeX_工具">2. <a href="http://v2ex.com/t/137225" target="_blank" rel="external">Linux 和 OS X 下的 LaTeX 工具</a></h2><ol>
+<li>Linux上是TexLive + SublimeText and LaTeXing(SublimeText 插件）</li>
+<li>Mac下用TeXmacs</li>
+<li>texmaker有win/linux/mac版本</li>
+</ol>
+<p>里面还有一些配置和使用技巧。</p>
+<h2 id="3-_如何在大学里成为_IT_技术大神">3. <a href="http://v2ex.com/t/136697" target="_blank" rel="external">如何在大学里成为 IT 技术大神</a></h2><p>“不管哪个学校，如果你到大三的时候还没达到月入10k，根本不算大神，这个月入是固定收入，每个月不花太多精力。”<br>“成为线充比成为大神难多了……QAQ”<br>我已经跪了。</p>
+<h2 id="4-_讨论下百度云盘如何过滤毛片种子的？">4. <a href="http://v2ex.com/t/138243" target="_blank" rel="external">讨论下百度云盘如何过滤毛片种子的？</a></h2><p>默默转发。</p>
+<h2 id="5-_发现了一家免费清理屏幕的服务">5. <a href="http://v2ex.com/t/138310" target="_blank" rel="external">发现了一家免费清理屏幕的服务</a></h2><p>简单高效。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>最近实验室的网络跪了，都没有怎么逛v2ex…</p>
+<hr>
+<h2 id="1-_美丽新世界：linux_下的惬意生活">1. <a href="http://v2ex.com/t/137202" target="_blank" rel="external">美丽新世界]]>
+    </summary>
+    
+      <category term="03. v2ex记录" scheme="http://illuz.github.com/tags/03-v2ex%E8%AE%B0%E5%BD%95/"/>
+    
+      <category term="归档_2014-10" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2014-10/"/>
+    
+      <category term="02. 学习" scheme="http://illuz.github.com/categories/02-%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[九月总结]]></title>
+    <link href="http://illuz.github.com/2014/10/03/summary-of-2014-september/"/>
+    <id>http://illuz.github.com/2014/10/03/summary-of-2014-september/</id>
+    <published>2014-10-03T02:13:15.000Z</published>
+    <updated>2015-05-03T12:11:47.123Z</updated>
+    <content type="html"><![CDATA[<p>特么国庆在宿舍完全没网，只能用手机流量上了，无奈地我那2G网络。</p>
+<p>废话不多说。</p>
+<p><strong>上个月总结</strong>：</p>
+<blockquote>
+<ol>
+<li>ACM刷各种网络赛，中秋也无法回去TAT，这将是这个月的主要任务，好好加油吧</li>
+<li>貌似要组队做什么xx项目，玩玩吧</li>
+<li>开坑决定：扯我看过玩过的ACGMN</li>
+<li>开坑决定：<code>#8 tomatoes a day#</code>计划重开</li>
+<li>迅速补完美音第三本，开始刷ESLPOD</li>
+<li>计划时间学学荒废已久的日语</li>
+<li>是时候自学本学期课程了233，学完就没我什么事了</li>
+<li>补完《水星领航员》第三季，补完一些漫画，在路上无聊的时间就看看轻小说</li>
+<li>坐等Windows 9，只是试用看看而已，以及要换Linux系统</li>
+</ol>
+</blockquote>
+<p>实际完成情况：</p>
+<ol>
+<li>中秋国庆都没回去，我也是挺想家的。重阳节只能独自吟诗《九月九日忆山东兄弟》了。希望我的努力能有收获吧。</li>
+<li>那项目开始搞了，特么我就一美工…</li>
+<li>ACGM断断续续在填坑，希望早日放出第一弹吧。</li>
+<li><code>#8 tomatoes a day#</code>的话，考虑到我学期可能每日空闲会时间很不均衡，而且要参加比赛什么的，所以改成<code>#56 tomatoes a week#</code>，按周来算，已经完成一个月咯。</li>
+<li>美音的话差不多完了，不过还没开始ESLPOD，过几天开刷吧</li>
+<li>日语居然完全没看Orz，不行啊会生疏的，赶紧地开坑！</li>
+<li>本学期课程看了一些，之后可能会请假几天去比赛，希望不要落下功课</li>
+<li>对于v2ex坑，每天都会去逛逛，每周倒是都有写记录，但是发现上面越来越水了，干货变少了，这几天没网，可能会跳掉一周。</li>
+<li>补完了动漫《水星》、《攻壳》和漫画《魔笛Magi》、《希德尼亚的骑士》、《食戟之灵》等。</li>
+<li>微软跳过9发布了Windows 10了，突然就无力去安装了，v2ex上有人吐槽说下次出Windows 20，然后出30、40…95、98…最后出Windows 2000…2333</li>
+<li>至于Linux系统，我尝试了很多系统：Gentoo太极客了，等我系统学过Linux后再来玩玩；Debian、Rad Hat和Fedora原来是一家，它们的Gnome用起来也是不太顺手；Centos也是不适合当桌面系统；想装个黑苹果折腾了好几天，所谓“浪费生命的有效方式”，然后在虚拟机里面装了个Mac系统，用了一阵，各种卡顿，而且要记忆opt键的各种组合，用习惯Linux的只能表示无法爱上Mac了。最后还是回到原点，用虚拟机的Ubuntu…如果KUbuntu没有被我玩坏，应该会一直用KUbuntu吧。果然Linux下的桌面系统我还是习惯用Ubuntu的啊。</li>
+<li>这个学期课程不多，有几天课很多其他日子都没课，于是跟了一些Coursera课，比如北大的计算机组成、虚拟系统安全，安卓等。希望能跟到最后（flag）。</li>
+<li>从图书馆借了几本书来看，看了《Getting things done》，无法完全接受这本书的看法以及大部分想法我都已经了解了，所以就很快看过去了；《设计心理学》还在看，很期待它能改变我看待事物的眼光；其余还借了几本专业相关的书，没看多少，也没什么好评论的。</li>
+<li>这个月保持暑假的习惯，每周都有去跑步几天，一次半小时，求减肥QvQ。</li>
+</ol>
+<hr>
+<p>扯淡时间到了。<br>以下是十月计划。</p>
+<ol>
+<li>刷题抱佛脚备战西安和北京<em>（主线任务，其他都是支线任务）</em></li>
+<li>有时间继续写写ACGM坑。</li>
+<li>按时填<code>#56 tomatoes a week#</code>坑。</li>
+<li>日语坑可以考虑下。</li>
+<li>ESLPOD开刷，断断续续看小王子原版pdf吧。</li>
+<li>跟Coursera课。</li>
+<li>看书，看动漫，看漫画。啥时候开坑美剧…</li>
+<li>锻炼。</li>
+</ol>
+<p>我去，这中间接了个电话，这文章竟然花了我近3个番茄时间。<br>于是就这样了，不想再扯了。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>特么国庆在宿舍完全没网，只能用手机流量上了，无奈地我那2G网络。</p>
+<p>废话不多说。</p>
+<p><strong>上个月总结</strong>：</p>
+<blockquote>
+<ol>
+<li>ACM刷各种网络赛，中秋也无法回去TAT，这将是这个月的主要任务，]]>
+    </summary>
+    
+      <category term="01. 日常" scheme="http://illuz.github.com/tags/01-%E6%97%A5%E5%B8%B8/"/>
+    
+      <category term="归档_2014-10" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2014-10/"/>
+    
+      <category term="01. 生活" scheme="http://illuz.github.com/categories/01-%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[每周v2ex记录[14-09-22~14-09-28]]]></title>
+    <link href="http://illuz.github.com/2014/09/28/v2ex-140928/"/>
+    <id>http://illuz.github.com/2014/09/28/v2ex-140928/</id>
+    <published>2014-09-28T08:50:16.000Z</published>
+    <updated>2015-05-03T12:11:47.126Z</updated>
+    <content type="html"><![CDATA[<p>这周没什么内容，太水了。</p>
+<hr>
+<h4 id="2014年09月24日_星期三">2014年09月24日 星期三</h4><ol>
+<li><p><a href="http://v2ex.com/t/135320" target="_blank" rel="external">大家最近在看什么书</a><br>很多书，以后书荒的时候过来挑挑。</p>
+</li>
+<li><p><a href="http://v2ex.com/t/135367" target="_blank" rel="external">假如你是网警 orFBI，能动用所有资源(但要合理)，有什么办法能抓到我吗？</a><br>在互联网我们都被监控着。</p>
+</li>
+</ol>
+<hr>
+<h4 id="2014年09月28日_星期日">2014年09月28日 星期日</h4><ol>
+<li><a href="http://v2ex.com/t/136141" target="_blank" rel="external">想系统的学下前端，看什么书好？？</a><br>每个月都有类似的帖子，但是不是水货。</li>
+</ol>
+<hr>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>这周没什么内容，太水了。</p>
+<hr>
+<h4 id="2014年09月24日_星期三">2014年09月24日 星期三</h4><ol>
+<li><p><a href="http://v2ex.com/t/135320" target="_blank" rel="ex]]>
+    </summary>
+    
+      <category term="03. v2ex记录" scheme="http://illuz.github.com/tags/03-v2ex%E8%AE%B0%E5%BD%95/"/>
+    
+      <category term="归档_2014-09" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2014-09/"/>
+    
+      <category term="02. 学习" scheme="http://illuz.github.com/categories/02-%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[每周v2ex记录[14-09-15~14-09-21]]]></title>
+    <link href="http://illuz.github.com/2014/09/21/v2ex-140921/"/>
+    <id>http://illuz.github.com/2014/09/21/v2ex-140921/</id>
+    <published>2014-09-21T12:32:46.000Z</published>
+    <updated>2015-05-03T12:11:47.126Z</updated>
+    <content type="html"><![CDATA[<p>越来越水了</p>
+<hr>
+<h4 id="2014年09月16日_星期一">2014年09月16日 星期一</h4><ol>
+<li><a href="http://v2ex.com/t/133429" target="_blank" rel="external">够用，一个 Linux 下的翻译软件</a><br>以前也用过stardict，先mark，以后换Ubuntu再来用看看。</li>
+</ol>
+<hr>
+<h4 id="2014年09月16日_星期二">2014年09月16日 星期二</h4><ol>
+<li><a href="http://v2ex.com/t/133188" target="_blank" rel="external">用 Python 撸了个下载 ACG 手机壁纸的</a><br>Mark一下，有机会学习学习。</li>
+</ol>
+<hr>
+<h4 id="2014年09月17日_星期三">2014年09月17日 星期三</h4><ol>
+<li><a href="http://v2ex.com/t/133801" target="_blank" rel="external">想熟悉一门后端语言，想加强前端水平，不知如何选择</a><br>评论很精彩（打起来了！）。<br>A：如果你要理解web的话, 原生的php是最好的, 任何其他语言都比不上.<br>B：不适合了解web? ruby 三行代码可以写一个http server出来 你php来一个试试?</li>
+</ol>
+<hr>
+<h4 id="2014年09月19日_星期五">2014年09月19日 星期五</h4><ol>
+<li><a href="http://v2ex.com/t/133986http://v2ex.com/t/133801" target="_blank" rel="external">Dnsmasq + DNSCrypt + SNI Proxy 的配置教程</a><br>link:<a href="http://ttt.tt/153/" target="_blank" rel="external">http://ttt.tt/153/</a></li>
+</ol>
+<hr>
+<h4 id="2014年09月20日_星期六">2014年09月20日 星期六</h4><ol>
+<li><a href="http://v2ex.com/t/134489" target="_blank" rel="external">在线画 UML 图的工具有什么推荐的！</a></li>
+</ol>
+<hr>
+<h4 id="2014年09月21日_星期日">2014年09月21日 星期日</h4><ol>
+<li><a href="http://v2ex.com/t/134300" target="_blank" rel="external">Shinpachi：在线抓包工具</a><br>用代理抓包，抓手机的包挺方便的。</li>
+</ol>
+<hr>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>越来越水了</p>
+<hr>
+<h4 id="2014年09月16日_星期一">2014年09月16日 星期一</h4><ol>
+<li><a href="http://v2ex.com/t/133429" target="_blank" rel="external">够用]]>
+    </summary>
+    
+      <category term="03. v2ex记录" scheme="http://illuz.github.com/tags/03-v2ex%E8%AE%B0%E5%BD%95/"/>
+    
+      <category term="归档_2014-09" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2014-09/"/>
+    
+      <category term="02. 学习" scheme="http://illuz.github.com/categories/02-%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[每周v2ex记录[14-09-08~14-09-14]]]></title>
+    <link href="http://illuz.github.com/2014/09/15/v2ex-140907/"/>
+    <id>http://illuz.github.com/2014/09/15/v2ex-140907/</id>
+    <published>2014-09-15T13:08:24.000Z</published>
+    <updated>2015-05-03T12:11:47.126Z</updated>
+    <content type="html"><![CDATA[<p>这周又是颓废的一周，啥事没干Orz…弱爆了.<br>要振作点开始填天坑了。</p>
+<hr>
+<h4 id="2014年09月10日_星期三">2014年09月10日 星期三</h4><ol>
+<li><a href="http://v2ex.com/t/132650" target="_blank" rel="external">有意思的 alias</a><br><a href="http://alias.sh/most-popular/usage这里面介绍了好多alias的神奇用法，可以学到各种Linux命令。" target="_blank" rel="external">http://alias.sh/most-popular/usage这里面介绍了好多alias的神奇用法，可以学到各种Linux命令。</a></li>
+</ol>
+<hr>
+<h4 id="2014年09月12日_星期五">2014年09月12日 星期五</h4><ol>
+<li><a href="http://www.v2ex.com/t/16707" target="_blank" rel="external">才发现原来mac os x 下的vim 是不能”+y 复制到剪贴板的</a><blockquote>
+<p>其实可以借助Mac的pbcopy,pbpaste模仿gvim的 “+y 和 “+p<br>vmap “+y :w !pbcopy<cr><cr><br>nmap “+p :r !pbpaste<cr><cr><br>思路来于豆瓣<a href="http://www.douban.com/note/202175976/" target="_blank" rel="external">http://www.douban.com/note/202175976/</a></cr></cr></cr></cr></p>
+</blockquote>
+</li>
+</ol>
+<p>神思路！</p>
+<hr>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>这周又是颓废的一周，啥事没干Orz…弱爆了.<br>要振作点开始填天坑了。</p>
+<hr>
+<h4 id="2014年09月10日_星期三">2014年09月10日 星期三</h4><ol>
+<li><a href="http://v2ex.com/t/132650" t]]>
+    </summary>
+    
+      <category term="03. v2ex记录" scheme="http://illuz.github.com/tags/03-v2ex%E8%AE%B0%E5%BD%95/"/>
+    
+      <category term="归档_2014-09" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2014-09/"/>
+    
+      <category term="02. 学习" scheme="http://illuz.github.com/categories/02-%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[每周v2ex记录[14-09-01~14-09-07]]]></title>
+    <link href="http://illuz.github.com/2014/09/07/v2ex-140901/"/>
+    <id>http://illuz.github.com/2014/09/07/v2ex-140901/</id>
+    <published>2014-09-07T14:10:36.000Z</published>
+    <updated>2015-05-03T12:11:47.126Z</updated>
+    <content type="html"><![CDATA[<p>本周就写了两篇，因为后面几天回老家颓废了几天。而且感觉这周没多少干货。</p>
+<hr>
+<h4 id="2014年09月01日_星期一">2014年09月01日 星期一</h4><ol>
+<li><a href="http://v2ex.com/t/130975" target="_blank" rel="external">怎么做一个简洁漂亮的 PPT 呢？</a><br>问了个不错的问题，论坛有N多大神，应该可以回答的很精彩，或者共享很多不错的资源。</li>
+</ol>
+<ul>
+<li>配图：使用谷歌图片，还有谷歌识图。建议参考： <a href="http://www.zhihu.com/question/20987759" target="_blank" rel="external">http://www.zhihu.com/question/20987759</a></li>
+<li>宣传展示用PPT：一定要炫目大气</li>
+<li>演讲用PPT：走简洁风，参照：<a href="http://www.zhihu.com/question/21274267" target="_blank" rel="external">http://www.zhihu.com/question/21274267</a></li>
+</ul>
+<hr>
+<h4 id="2014年09月03日_星期三">2014年09月03日 星期三</h4><ol>
+<li><a href="http://v2ex.com/t/131527" target="_blank" rel="external">大家在 Windows 上会使用哪些类似于 Alfred 的快速启动软件?</a><br>Alfred是Mac上的快速启动软件。<br>根据帖子，Windows：Listary 搜索文件，Wox 快速启动</li>
+</ol>
+<hr>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>本周就写了两篇，因为后面几天回老家颓废了几天。而且感觉这周没多少干货。</p>
+<hr>
+<h4 id="2014年09月01日_星期一">2014年09月01日 星期一</h4><ol>
+<li><a href="http://v2ex.com/t/130975" tar]]>
+    </summary>
+    
+      <category term="03. v2ex记录" scheme="http://illuz.github.com/tags/03-v2ex%E8%AE%B0%E5%BD%95/"/>
+    
+      <category term="归档_2014-09" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2014-09/"/>
+    
+      <category term="02. 学习" scheme="http://illuz.github.com/categories/02-%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[八月总结——稍纵即逝的八月]]></title>
+    <link href="http://illuz.github.com/2014/09/01/summary_of_2014_august/"/>
+    <id>http://illuz.github.com/2014/09/01/summary_of_2014_august/</id>
+    <published>2014-09-01T01:03:40.000Z</published>
+    <updated>2015-05-03T12:11:47.123Z</updated>
+    <content type="html"><![CDATA[<p>又是每月唠嗑时间了～准时唠嗑，保持活力～</p>
+<p>既然不是在CSDN这么严肃的地方写博客，那我就不再使用以前那么一本正经的标题了。<br>于是我就给自己的文章添加了一个副标题：稍纵即逝的八月。（梗：《凉宫》漫无止境的八月）</p>
+<p>嗯，八月份给我的感觉的确是稍纵即逝，其实只要是学生，在八月末将要开学的时候回想起这个月所做的事情，都会有“这个月过的好快”，“我还没玩够呢”，或是“我这个月又什么都没干了”的感觉。<br>我是后者。</p>
+<p>——又白白浪费了一个月了TAT。<br>——少壮不努力，老大徒伤悲啊…</p>
+<hr>
+<h2 id="据说下面是正文">据说下面是正文</h2><p>感叹就不多说了，抱怨就让我一个人吞下，接下来扯扯这个月我都干了啥子吧…</p>
+<p>下面是我上个月末总结写的八月计划：</p>
+<blockquote>
+<ol>
+<li>ACM方面，每天至少3篇题解，不然留太多坑不好。</li>
+<li>看书方面，学PureFrog巨巨，翻翻《算导》、《具体数学》之类的，以及：progit，Advanced Bash-Scripting Guide，Thinking in C++，Core Java，CSAPP，鸟哥私房菜，Windows程序设计，微积分，组合数学，心理学，怎样解题，设计模式，病毒与反病毒技术，Node.JS开发指南什么的。</li>
+<li>英语，争取多完成几个Topic吧，多看看Ted。说不定能有时间看看日语。</li>
+<li>锻炼，减肥很重要。</li>
+<li>业余爱好，好久没画画了，找个时间休养生息哈哈。</li>
+<li>开始使用番茄钟，假期每天10个。做事情时记录花费时间情况。</li>
+</ol>
+</blockquote>
+<p>这个月没用Wunderlist记Todolist，以下我就凭着不完整不靠谱的回忆，以及根据上个月的计划记下这个月的流水账吧：</p>
+<ol>
+<li>做了几场多校（ACM），场场被中学生和群牛虐爆，不过感觉收获还是蛮多的</li>
+<li>每天泡在实验室学(ceng)习(wang)，刷题刷QQ刷论坛刷外卖</li>
+<li>每周都有3+天去操场跑几圈，每天晚上走路去北区（一公里远）吃食堂，不过晚上各种吃泡面吃水果泡牛奶，目测体重又增加了TAT</li>
+<li>之前计划的每天三篇题解，任务没完成。我太懒了，中间感冒了几天，停了一下，就再没发了=。=</li>
+<li>上个月看完的《浪潮之巅》终于在这个月末填完<a href="http://illuz.github.io/2014/08/24/lang_chao_zhi_dian/" target="_blank" rel="external">读书笔记</a>了….</li>
+<li>这个月看了波利亚巨巨的著作《怎样解题》，没有太认真看，因为是本数学教学类书籍。这也仅仅是借口而已，这本书评价特别高，我也学到了些东西，不过还远远不够。等某日我燃起兴趣的话，我会再借来看的</li>
+<li>另外还看了点：《心理学》、《Node.JS开发指南》、《算法导论》、《具体数学》、《Core Java》等。都是看了点的程度，离看完还很远呢</li>
+<li>在<a href="http://illuz.github.io/2014/08/10/v2ex_140810/" target="_blank" rel="external">8月4日逛v2ex论坛时</a>，看到帖子推荐用《把你的英语用起来！》学英语，于是趁周三图书馆开门去借了本，当天看完了。然后跟着里面开始刷初级，这个月姑且在空余时间把初级三本美语音标刷过一遍（其实第三本还有一些），接下来要刷ESLPOD了，当然这是后面的计划部分了</li>
+<li>基本完成v2ex每日记录任务，发现每日逛的时间还是略长，为了找到有价值的帖子翻了好久</li>
+<li>番茄钟计划废了…开学再开始</li>
+<li>尝试使用五笔打字，有点熟悉了（为了码字快点，现在还是用拼音）</li>
+<li>里·流水账：轻小说《三坪》*3，趁感冒休息补完《妖尾》漫画，补《水星领航员》两季，每天逛B站</li>
+</ol>
+<p>嘛，总体来说，真是浪费了好多时间。<br>我明明可以看完N本书，刷完N道题，成为Top的，如果我多花点时间，如果我不要看小说漫画动漫，如果我认真点，如果我…</p>
+<p>但是我不喜欢“如果”。<br>虽然我无法否认我浪费了很多时间，但是，这个八月，这个暑假我过得很充实，很开心，每天做我喜欢做的事情，每天做磨练挑战自己的事情，我也成长了不少。</p>
+<p>我想，以后我会尽量高效使用时间，让自己更充实快乐的～</p>
+<hr>
+<h2 id="一学期之计在于九月">一学期之计在于九月</h2><p>上面好像说了些令人害羞的话，搞得我现在心情大好，于是就在这种状态下把九月的计划简单列一下，后面还准备计划下这个学期的计划呢…</p>
+<ol>
+<li>ACM刷各种网络赛，中秋也无法回去TAT，这将是这个月的主要任务，好好加油吧</li>
+<li>貌似要组队做什么xx项目，玩玩吧</li>
+<li>开坑决定：扯我看过玩过的ACGMN</li>
+<li>开坑决定：<code>#8 tomatoes a day#</code>计划重开</li>
+<li>迅速补完美音第三本，开始刷ESLPOD</li>
+<li>计划时间学学荒废已久的日语</li>
+<li>是时候自学本学期课程了233，学完就没我什么事了</li>
+<li>补完《水星领航员》第三季，补完一些漫画，在路上无聊的时间就看看轻小说</li>
+<li>坐等Windows 9，只是试用看看而已，以及要换Linux系统</li>
+</ol>
+<p>不想挖太多坑，不然下个月的总结就难看了-.-</p>
+<p><strong>学期大坑</strong>倒是可以多挖几个，于是简单列一下：</p>
+<ol>
+<li>学业应该不是很难，认真混一混</li>
+<li>书坑：鸟哥，TCP/IP详解，UNIX网络编程，HF设计模式，Windows程序设计，CSAPP等等等等…</li>
+<li>语言坑：刷英语及日语，看2+本英语原著</li>
+<li>编程坑：Java, Python, Node.JS</li>
+<li>数学坑：高数，线代，组合数学，概率论，博弈论，《具体数学》。（都学完我的大学就无憾了）</li>
+<li>二次元坑：巨大</li>
+<li>女朋友坑：开玩笑的</li>
+</ol>
+<p>看来这学期任重道远啊，哈哈。</p>
+<hr>
+<p>所谓计划赶不上变化，但是在开头留坑还是很重要的。<br>其实挖坑只是为了给自己目标，在我无聊的时候能想起这些坑，让我有事干。</p>
+<p>嗯，好像没什么好扯了，本月的流水账就到这里了。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>又是每月唠嗑时间了～准时唠嗑，保持活力～</p>
+<p>既然不是在CSDN这么严肃的地方写博客，那我就不再使用以前那么一本正经的标题了。<br>于是我就给自己的文章添加了一个副标题：稍纵即逝的八月。（梗：《凉宫》漫无止境的八月）</p>
+<p>嗯，八月份给我的感觉的确是稍纵]]>
+    </summary>
+    
+      <category term="01. 日常" scheme="http://illuz.github.com/tags/01-%E6%97%A5%E5%B8%B8/"/>
+    
+      <category term="归档_2014-08" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2014-08/"/>
+    
+      <category term="01. 生活" scheme="http://illuz.github.com/categories/01-%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[每周v2ex记录[14-08-25~14-08-31]]]></title>
+    <link href="http://illuz.github.com/2014/09/01/v2ex_140825/"/>
+    <id>http://illuz.github.com/2014/09/01/v2ex_140825/</id>
+    <published>2014-08-31T21:03:58.000Z</published>
+    <updated>2015-05-03T12:11:47.126Z</updated>
+    <content type="html"><![CDATA[<h4 id="2014年08月26日_星期二">2014年08月26日 星期二</h4><ol>
+<li><a href="http://v2ex.com/t/129810" target="_blank" rel="external">免费获取一年 LastPass Premium</a><br>LastPass的确是很好用的扩展，用了很久了。<br>可惜老用户无法获取…</li>
+</ol>
+<hr>
+<h4 id="2014年08月27日_星期三">2014年08月27日 星期三</h4><ol>
+<li><p><a href="http://v2ex.com/t/130165" target="_blank" rel="external">推荐纪录片《互联网之子》</a><br>天才Aaron Swartz的一生。</p>
+</li>
+<li><p>收集几个有关git-flow工作流的博文：</p>
+</li>
+</ol>
+<ul>
+<li><a href="http://www.juvenxu.com/2010/11/28/a-successful-git-branching-model//" target="_blank" rel="external">一个成功的Git分支模型</a></li>
+<li><a href="https://www.atlassian.com/git/workflows" target="_blank" rel="external">Git Workflows</a></li>
+</ul>
+<hr>
+<h4 id="2014年08月29日_星期五">2014年08月29日 星期五</h4><ol>
+<li><a href="http://v2ex.com/t/130556" target="_blank" rel="external">神奇的程序员-王小波</a><br>才发现那位王小波竟然是程序猿<br>第一代程序员王小波：<a href="http://blog.jobbole.com/76110/" target="_blank" rel="external">http://blog.jobbole.com/76110/</a></li>
+<li><a href="http://v2ex.com/t/130649" target="_blank" rel="external">Pythoner 在工作中用哪种框架最多</a></li>
+</ol>
+<hr>
+<h4 id="2014年08月30日_星期六">2014年08月30日 星期六</h4><ol>
+<li><a href="http://v2ex.com/t/130366" target="_blank" rel="external">做一个什么样的毕设能亮瞎老师的双眼？</a><br>mark以警示自己哈哈。</li>
+</ol>
+<h4 id="2014年08月31日_星期日">2014年08月31日 星期日</h4><ol>
+<li><a href="http://v2ex.com/t/130906" target="_blank" rel="external">买过最值的电子设备有哪些？</a><br>等我有钱了…</li>
+</ol>
+<hr>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h4 id="2014年08月26日_星期二">2014年08月26日 星期二</h4><ol>
+<li><a href="http://v2ex.com/t/129810" target="_blank" rel="external">免费获取一年 LastPass Prem]]>
+    </summary>
+    
+      <category term="03. v2ex记录" scheme="http://illuz.github.com/tags/03-v2ex%E8%AE%B0%E5%BD%95/"/>
+    
+      <category term="归档_2014-08" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2014-08/"/>
+    
+      <category term="02. 学习" scheme="http://illuz.github.com/categories/02-%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[每周v2ex记录[14-08-18~14-08-24]]]></title>
+    <link href="http://illuz.github.com/2014/08/24/v2ex_140823/"/>
+    <id>http://illuz.github.com/2014/08/24/v2ex_140823/</id>
+    <published>2014-08-24T08:04:38.000Z</published>
+    <updated>2015-05-03T12:11:47.126Z</updated>
+    <content type="html"><![CDATA[<h4 id="2014年08月18日_星期二">2014年08月18日 星期二</h4><ol>
+<li><a href="http://v2ex.com/t/128397" target="_blank" rel="external">一个手游创业公司的配置是什么？</a></li>
+<li><a href="http://v2ex.com/t/128478" target="_blank" rel="external">每天自动签到 —— 我们不造脚本，我们造框架</a></li>
+</ol>
+<hr>
+<h4 id="2014年08月19日_星期二">2014年08月19日 星期二</h4><p>正好kUbuntu出了些问题，搜了下帖子。</p>
+<ol>
+<li><p><a href="http://v2ex.com/t/123141" target="_blank" rel="external">如何克隆 Linux 系统？</a><br>使用了clonezilla克隆分区，然后修复grub即可。</p>
+</li>
+<li><p><a href="http://linuxfonts.narod.ru/best-linux-distro-this-year.html" target="_blank" rel="external">Best Linux Distro for the Desktop in 2014 or How to Choose a Linux Distribution Properly</a><br>正考虑换系统…<br>计划短期先把kUbuntu乱搞一通，然后尝试看看gentoo，然后windows 9出来后还是去视窗系统混混…</p>
+</li>
+</ol>
+<hr>
+<h4 id="2014年08月20日_星期三">2014年08月20日 星期三</h4><ol>
+<li><a href="http://v2ex.com/t/128841" target="_blank" rel="external">We have C++14!</a><br><a href="http://isocpp.org/blog/2014/08/we-have-cpp14" target="_blank" rel="external">http://isocpp.org/blog/2014/08/we-have-cpp14</a></li>
+<li><a href="http://v2ex.com/t/129003" target="_blank" rel="external">吐槽下 php 几个框架</a></li>
+</ol>
+<hr>
+<h4 id="2014年08月21日_星期四">2014年08月21日 星期四</h4><ol>
+<li><a href="http://v2ex.com/t/128989" target="_blank" rel="external">请大家推荐 TodoList 类软件</a><br>表示之前一直使用wunderlist，这贴不少人说它同步</li>
+</ol>
+<hr>
+<h4 id="2014年08月22日_星期五">2014年08月22日 星期五</h4><ol>
+<li><p><a href="http://v2ex.com/t/129176" target="_blank" rel="external">求教如何手工查杀木马</a><br>手杀工具： <a href="http://www.xuetr.com/?p=191" target="_blank" rel="external">http://www.xuetr.com/?p=191</a><br>入门教程： <a href="http://wenku.baidu.com/view/db763513a21614791711284c.html" target="_blank" rel="external">http://wenku.baidu.com/view/db763513a21614791711284c.html</a></p>
+</li>
+<li><p><a href="http://v2ex.com/t/128669" target="_blank" rel="external">配台较高性能的电脑自己用</a><br>讨论了一些方案。</p>
+</li>
+</ol>
+<hr>
+<h4 id="2014年08月23日_星期六">2014年08月23日 星期六</h4><ol>
+<li><a href="http://v2ex.com/t/129351" target="_blank" rel="external">V2EXer 答谢活动</a><br>注册送曲径…回复还抽奖.<br>活动还是挺不错的。</li>
+</ol>
+<hr>
+<h4 id="2014年08月24日_星期日">2014年08月24日 星期日</h4><ol>
+<li><a href="http://v2ex.com/t/129464" target="_blank" rel="external">如何用 python 提取视频的任意一帧？</a><br>使用subprocess+ffmpeg。<br>外文：<a href="http://zulko.github.io/blog/2013/09/27/read-and-write-video-frames-in-python-using-ffmpeg/" target="_blank" rel="external">Read and Write Video Frames in Python Using FFMPEG</a></li>
+</ol>
+<hr>
+<p>这个月好快要过去了…<br>准备开学了。<br>是时候开其它坑了～</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h4 id="2014年08月18日_星期二">2014年08月18日 星期二</h4><ol>
+<li><a href="http://v2ex.com/t/128397" target="_blank" rel="external">一个手游创业公司的配置是什么？</a><]]>
+    </summary>
+    
+      <category term="03. v2ex记录" scheme="http://illuz.github.com/tags/03-v2ex%E8%AE%B0%E5%BD%95/"/>
+    
+      <category term="归档_2014-08" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2014-08/"/>
+    
+      <category term="02. 学习" scheme="http://illuz.github.com/categories/02-%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[《浪潮之巅》读书笔记]]></title>
+    <link href="http://illuz.github.com/2014/08/24/lang_chao_zhi_dian/"/>
+    <id>http://illuz.github.com/2014/08/24/lang_chao_zhi_dian/</id>
+    <published>2014-08-24T07:42:17.000Z</published>
+    <updated>2015-05-03T12:11:47.120Z</updated>
+    <content type="html"><![CDATA[<p>《浪潮之巅》在大一的时候就听说过，但是那时不懂事，只挑专业相关的书看，这个暑假我终于开始看这本书并把它看完。<br>看完感触良多（其实是不明觉历），在这里我就记录下这本书里面我觉得不错的一些话吧～<br>一千个人眼中有一千个哈姆雷特，如果你看过这本书，对于这本书有独特的见解，欢迎留言交流。</p>
+<h2 id="看书评">看书评</h2><p>其实刚才刚去看了豆瓣上面的评论，看了师北宸老师对这本书的吐槽，真正感受到刚才一千个哈姆雷特那句话，<a href="http://book.douban.com/review/5363799/" target="_blank" rel="external">link</a>。不过也很佩服他们的表达能力，要我去说肯定说不过他们，哈哈。<br>看完评论还有个感受，就是《如何阅读一本书》说的真的很对，看书是与作者的交流，不要先去看书评，看完书再去看书评。。书评会左右你自己读书的感受。<br>不过看他们就看了几章能够挑出那么多毛病，实在是很厉害，我还没有时时刻刻保持批判性思维的习惯。不过不同的书要用不同的方法去看，我可不想太纠结细节，哈哈。</p>
+<p>然后跑去知乎看了<a href="http://www.zhihu.com/question/20612417" target="_blank" rel="external">如何评价吴军《浪潮之巅》的文笔？可否作为 IT 纪实作品的一个典范？怎样看待网络上对这本书的不同评价？</a>，发现有些勘误在第二版已经改过了，我很遗憾我从图书馆借到的是第一版的，貌似第二版还讲了Oracle，有机会会去拜读下第二版的。</p>
+<p>不管怎么样，我觉得这本书酣畅淋漓，可以一口气读完，我也不会因为有人喷这本书而放弃写这本书的笔记。</p>
+<p>以下笔记是我看完全书再重新翻一遍书所记录的，其实就是个人感觉比较值得记录的信息啦，纯粹为了以后翻这篇笔记能回忆起书的内容。<br>扯淡结束，开始笔记啦。</p>
+<h2 id="笔记">笔记</h2><h4 id="AT&amp;T">AT&amp;T</h4><p>当一家公司没有人对它有控制权时，它的长期发展就会有问题。（没人为它十年百年之后而着想）<br>实验室：贝尔实验室。</p>
+<h4 id="IBM">IBM</h4><p>保守谨慎与转型。<br>实验室：沃森实验室<br>人物：John von Neumann(约翰·冯·诺伊曼)，Louis V. Gerstner, Jr.(郭士纳)</p>
+<h4 id="苹果">苹果</h4><p>Stay Hungry, Stay Foolish.<br>人物：Jobs.</p>
+<h4 id="英特尔">英特尔</h4><p>在复杂指令集(CISC)和精简指令集间(RISC)，英特尔选择了前者。<br>“一家公司的市场份额超过50%以后，就不用再想去将市场份额翻番了。”</p>
+<h4 id="微软">微软</h4><p>诚然在这个领域生态链的不同环节需要垄断，但是各个环节之间需要互相扶持。<br>盖茨和巴菲特做法相同，他们都是要从每个人身上挣或多或少的钱，而不是从富人身上狠宰一刀。</p>
+<p>Bill Gates.<br>CEO: Steve Ballmer(史蒂夫·巴爾默)。</p>
+<h4 id="思科">思科</h4><p>创新手段：让小公司在公司内部创业，一旦成功了，思科有优先权把它们买回来。<br>对手：Juniper Network，华为。</p>
+<h4 id="雅虎">雅虎</h4><p>最大的互联网门户网站。<br>创始人：Jerry Yang(杨致远), David Filo.（自由、免费和盈利）</p>
+<h4 id="惠普">惠普</h4><p>如果一家公司不能挑好掌舵人，以后替换掉他的成本也是很高的。</p>
+<h4 id="摩托罗拉">摩托罗拉</h4><p>铱星计划：<a href="http://en.wikipedia.org/wiki/Iridium_Communications" target="_blank" rel="external">Iridium Communications</a></p>
+<h4 id="谷歌">谷歌</h4><p>人物：拉里 佩奇 谢尔盖 布林<br>直接面对最终用户，找到商业模式，减少中间环节。<br>不作恶(Don’t be evil.)。</p>
+<h4 id="其他公司">其他公司</h4><ol>
+<li>太阳<ul>
+<li>埃利森指出Sun失败原因：一，不关心盈利；二，管理者心不在焉；三，简单地迎合客户；四，进行毫无前途的项目</li>
+</ul>
+</li>
+<li>Novell<ul>
+<li>操作系统之败</li>
+</ul>
+</li>
+<li>网景<ul>
+<li>佩奇：一、没有居安思危；二、商业模式还停留在买软件上；三、和微软竞争必须有办法顶住微软的轮番进攻并反击；四、没抓住真正使用互联网的用户。</li>
+</ul>
+</li>
+<li>RealNetworks<ul>
+<li>没有正确转变商业模式。</li>
+</ul>
+</li>
+<li>诺基亚<ul>
+<li>成功的转型，却无法走出传统。</li>
+</ul>
+</li>
+<li>3M<ul>
+<li>常青树。坚持创新、淘汰前景不好的产品。</li>
+</ul>
+</li>
+<li>GE 通用电气<ul>
+<li>不断扩张。韦尔奇的管理之道。</li>
+</ul>
+</li>
+</ol>
+<h4 id="硅谷">硅谷</h4><p>一个小公司想要成功的因素：</p>
+<ol>
+<li>创始人</li>
+<li>好的团体和技术</li>
+<li>商业头脑与业模式</li>
+<li>判断力和执行力</li>
+<li>外部环境</li>
+<li>好运气</li>
+</ol>
+<h4 id="风险投资">风险投资</h4><p>好的项目题目：</p>
+<ol>
+<li>新颖性</li>
+<li>不能和主流公司的主要业务撞车</li>
+<li>项目一旦做成，要有现成的市场，而且容易横向扩展</li>
+<li>今后的商业发展在较长时间内会以几何级数增长</li>
+<li>必须有革命性（技术或商业模式）</li>
+</ol>
+<h4 id="斯坦福大学">斯坦福大学</h4><p>简·斯坦福用爱心和毅力开创出一所改变世界的大学。</p>
+<p>纽曼教育方式。</p>
+<h4 id="商业模式">商业模式</h4><p>好的商业模式都非常简单。</p>
+<p>Google：广告系统<br>eBay、亚马逊：在线市场<br>戴尔：直销<br>腾讯：虚拟物品和服务</p>
+<h4 id="Web2-0与云计算">Web2.0与云计算</h4><p>Web2.0特征：</p>
+<ol>
+<li>接受管理用户提交内容的平台</li>
+<li>平台开放，让用户可以在平台上开发自己的程序</li>
+<li>交互性</li>
+<li>非竞争性与自足性</li>
+</ol>
+<p>云计算特征：</p>
+<ol>
+<li>用户可以方便地处理信息分享信息</li>
+<li>用户可以使用大量在云端的计算资源</li>
+</ol>
+<p>云计算核心技术：</p>
+<ol>
+<li>存储：GFS，BigTable</li>
+<li>资源管理：MapReduce、Borg</li>
+<li>信息安全：政策与法律</li>
+</ol>
+<h4 id="金融风暴">金融风暴</h4><p>表层原因是“次贷”及CDS。深层原因是坐吃山空。</p>
+<h4 id="各种定律">各种定律</h4><ol>
+<li>摩尔定律<ul>
+<li>每18个月，IT产品的性能会翻一番，相同性能的IT产品会降一倍。</li>
+</ul>
+</li>
+<li>安迪-比尔定律<ul>
+<li>What Andy gives, Bill takes away.</li>
+<li>操作系统耗光硬件资源。</li>
+</ul>
+</li>
+<li>反摩尔定律<ul>
+<li>埃里克.斯密特提出：一个公司如果今天和18个月前卖掉同样多的、同样的产品，它的营业度就要降到一半。</li>
+</ul>
+</li>
+<li>70-20-10定律<ul>
+<li>每个领域的领头羊占得的份额通常比其他所有公司总和还多。</li>
+</ul>
+</li>
+<li>诺威格定律<ul>
+<li><strong>诺威格定律（Norvig’s Law）</strong>：“当公司的市场占有率&gt;50% ，市场占有率无法再翻番了”</li>
+<li>扩展或转型。</li>
+</ul>
+</li>
+<li>基因决定定律<ul>
+<li>基因指获得成功的内在因素。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h4 id="引用的话：">引用的话：</h4><p>黑格尔：凡是现实的都是合理的，凡是合理的都是现实的(All that is real is rational; and all that is rational is real)。</p>
+<hr>
+<h3 id="简单的读后感">简单的读后感</h3><p>不得不佩服吴军老师的文笔之流畅，跟我比起来真是天壤之别。<br>对于文章的内容，里面充满了基因决定论、商业模式决定论、领导人决定论，我只能批判地去接受它们。<br>总体来说，这本书让我大大地开阔了眼界，不管到底是不是如书评所说，里面的内容充满了谬误，但是作者分析问题的方式与眼见的确让我受教一番，值得IT人一看。<br>在此感谢吴军老师写出这本让人受益匪浅的好书。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>《浪潮之巅》在大一的时候就听说过，但是那时不懂事，只挑专业相关的书看，这个暑假我终于开始看这本书并把它看完。<br>看完感触良多（其实是不明觉历），在这里我就记录下这本书里面我觉得不错的一些话吧～<br>一千个人眼中有一千个哈姆雷特，如果你看过这本书，对于这本书有独特的见解]]>
+    </summary>
+    
+      <category term="04. 笔记" scheme="http://illuz.github.com/tags/04-%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="归档_2014-08" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2014-08/"/>
+    
+      <category term="06. 读书" scheme="http://illuz.github.com/categories/06-%E8%AF%BB%E4%B9%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[每周v2ex记录[14-08-12~14-08-17]]]></title>
+    <link href="http://illuz.github.com/2014/08/17/v2ex_140817/"/>
+    <id>http://illuz.github.com/2014/08/17/v2ex_140817/</id>
+    <published>2014-08-17T04:30:41.000Z</published>
+    <updated>2015-05-03T12:11:47.126Z</updated>
+    <content type="html"><![CDATA[<h4 id="2014年08月12日_星期二">2014年08月12日 星期二</h4><ol>
+<li><p><a href="http://v2ex.com/t/127476" target="_blank" rel="external">例行黑360</a></p>
+</li>
+<li><p><a href="http://marklodato.github.io/visual-git-guide/index-zh-cn.html" target="_blank" rel="external">图解 Git</a>及<a href="http://pinkyjie.com/tags/Git/" target="_blank" rel="external">一些实践笔记</a></p>
+</li>
+</ol>
+<hr>
+<h4 id="2014年08月13日_星期三">2014年08月13日 星期三</h4><ol>
+<li><p><a href="http://v2ex.com/t/127527" target="_blank" rel="external">[消遣贴] 作为写代码的, 你打字速度多快?</a><br>两个相关网站get：typing.io, 10fastfingers.com</p>
+</li>
+<li><p>流弊的谷歌代替方案<br>谷歌：<br><a href="https://www.glgoo.com/" target="_blank" rel="external">https://www.glgoo.com/</a><br>tmd123.com<br>wen.lu<br>在线ping的网站：<br><a href="http://startping.com/" target="_blank" rel="external">http://startping.com/</a></p>
+</li>
+</ol>
+<hr>
+<h4 id="2014年08月14日_星期四">2014年08月14日 星期四</h4><ol>
+<li><a href="http://v2ex.com/t/127786http://v2ex.com/t/127527" target="_blank" rel="external">作为 IT 人差点被骗去香港做奶粉传销</a><br>天上不会掉馅饼，地上不会涨黄金。<br>我需要好好学心理学了:)。</li>
+<li>收藏项目：<br><a href="https://github.com/mthli/Bitocle" target="_blank" rel="external">Bitocle是一款简易的用来查看自己托管在GitHub上的代码的安卓应用</a></li>
+</ol>
+<hr>
+<h4 id="2014年08月15日_星期五">2014年08月15日 星期五</h4><ol>
+<li><a href="http://v2ex.com/t/127972" target="_blank" rel="external">关于写作能力的欠缺</a><br> 我是否要留意提升一下我的表达能力…<ul>
+<li><a href="http://chloerei.com/2013/08/27/how-to-recover-writing-ability/" target="_blank" rel="external">如何恢复写作能力</a></li>
+<li><a href="http://forrestchang.com/post/2014-07-27" target="_blank" rel="external">为什么我要写博客</a></li>
+</ul>
+</li>
+</ol>
+<hr>
+<h4 id="2014年08月16日_星期六">2014年08月16日 星期六</h4><ol>
+<li><a href="http://v2ex.com/t/128095" target="_blank" rel="external">“飞蚊症”</a><br> 有点可怕的东西，玩电脑的要注意一下了…<br> 表示眼药水经常滴，不怕。</li>
+<li><a href="http://v2ex.com/t/128060" target="_blank" rel="external">Python实现遗传算法</a></li>
+</ol>
+<hr>
+<h4 id="2014年08月17日_星期日">2014年08月17日 星期日</h4><ol>
+<li><a href="http://v2ex.com/t/127502" target="_blank" rel="external">[自制] QQ 空间 PHP 云点赞</a><br> 自制官方服务器 <a href="http://qz.soocen.com/" target="_blank" rel="external">http://qz.soocen.com/</a><br> 已经开启功能了，不知道有没有效果…</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h4 id="2014年08月12日_星期二">2014年08月12日 星期二</h4><ol>
+<li><p><a href="http://v2ex.com/t/127476" target="_blank" rel="external">例行黑360</a></p>
+</]]>
+    </summary>
+    
+      <category term="03. v2ex记录" scheme="http://illuz.github.com/tags/03-v2ex%E8%AE%B0%E5%BD%95/"/>
+    
+      <category term="归档_2014-08" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2014-08/"/>
+    
+      <category term="02. 学习" scheme="http://illuz.github.com/categories/02-%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[每周v2ex记录[14-08-04~14-08-10]]]></title>
+    <link href="http://illuz.github.com/2014/08/10/v2ex_140810/"/>
+    <id>http://illuz.github.com/2014/08/10/v2ex_140810/</id>
+    <published>2014-08-10T04:55:16.000Z</published>
+    <updated>2015-05-03T12:11:47.126Z</updated>
+    <content type="html"><![CDATA[<h4 id="2014年08月04日_星期一">2014年08月04日 星期一</h4><ol>
+<li><p><a href="http://v2ex.com/t/126044" target="_blank" rel="external">英语学习资源</a><br>奶爸的英语教室：<a href="http://site.douban.com/195274/" target="_blank" rel="external">http://site.douban.com/195274/</a><br><s>其实发现了我的多看拥有书籍里面就有《把你的英语用起来！》了。。。</s><br><em>貌似不是那本，然后我就去图书馆借了那本书，当天看完了…</em><br>不过我可能会考虑看外文书和看外文视频。</p>
+</li>
+<li><p><a href="https://wen.lu" target="_blank" rel="external">https://wen.lu</a> 使用反向代理访问谷歌，妈妈再也不怕我不能上谷歌了。</p>
+</li>
+</ol>
+<h4 id="2014年08月05日_星期二">2014年08月05日 星期二</h4><ol>
+<li><a href="http://v2ex.com/t/126284" target="_blank" rel="external">Python 二手网站源码公开</a><br>地址: <a href="https://github.com/ShenXuGongZi/Ershou" target="_blank" rel="external">https://github.com/ShenXuGongZi/Ershou</a><br>Demo : <a href="http://www.xmiao.org/" target="_blank" rel="external">http://www.xmiao.org/</a></li>
+</ol>
+<h4 id="2014年08月06日_星期三">2014年08月06日 星期三</h4><ol>
+<li><a href="http://v2ex.com/t/126357" target="_blank" rel="external">apk 反编译工具</a><ul>
+<li>apktool</li>
+<li><a href="https://code.google.com/p/anti-droid/" target="_blank" rel="external">https://code.google.com/p/anti-droid/</a></li>
+<li>如下<blockquote>
+<ol>
+<li>.apk先用unzip解压缩</li>
+<li>.dex用dex2jar转换成.jar</li>
+<li>.jar解压缩用再用JD-GUI反编译</li>
+</ol>
+</blockquote>
+</li>
+</ul>
+</li>
+</ol>
+<h4 id="2014年08月07日_星期四">2014年08月07日 星期四</h4><ol>
+<li><p><a href="http://v2ex.com/t/126567" target="_blank" rel="external">推荐 OpenGL 教程</a><br> <a href="http://open.gl/" target="_blank" rel="external">http://open.gl/</a><br> <a href="http://www.opengl-tutorial.org/" target="_blank" rel="external">http://www.opengl-tutorial.org/</a></p>
+<blockquote>
+<p>你真想要学习OpenGL，直接看书要更好。<br> 看来你想学习现代的GL（&gt;=3.3），那么推荐以下图书：<br> 《OpenGL SuperBible》 第5版（GL3.3）或第6版（GL4.3）。 此书第5版有中译本，是人民邮电出版社2012年5月出版的，翻译得很烂，千万别看！<br> 《OpenGL Programming Guide》第8版（GL4.3）。<br> 官方的wiki其实也很好，能帮你理清很多GL里的概念： <a href="http://www.opengl.org/wiki/Main_Page" target="_blank" rel="external">http://www.opengl.org/wiki/Main_Page</a><br> 至于图形学，这个题目太大了，值得推荐的书籍自然是《Real-Time Rendering》，但你用不着一开始就看这个。</p>
+</blockquote>
+</li>
+<li><p><a href="http://v2ex.com/t/126590" target="_blank" rel="external">一准大二学生进路的进路问题</a><br> 比身边的人更有危机意识。</p>
+</li>
+<li><p><a href="http://v2ex.com/t/126592" target="_blank" rel="external">设计模式知识怎么从书本走向实践的？</a><br> 多读源码。</p>
+</li>
+</ol>
+<h4 id="2014年08月08日_星期五">2014年08月08日 星期五</h4><ol>
+<li><p><a href="http://readful.com/post/12322300571/0-ruby-on-rails//v2ex.com/t/126590" target="_blank" rel="external">如何从 0 开始学 ruby on rails （漫步版）</a></p>
+</li>
+<li><p><a href="http://v2ex.com/t/126778" target="_blank" rel="external">Linux 的传送门技术</a></p>
+<blockquote>
+<p>why I need a teleport?<br>If you always need to send files to a particular directory, you’ll need it.</p>
+<p>How to use the teleport?<br>Pass the items to the [-|-] (it’s a door!). Pong! They are on the moon now.<br>Or: teleport file1 file2 file3 … file42</p>
+<p>How to make the teleport:</p>
+<ol>
+<li>make a file in anywhere named teleport.sh</li>
+<li>type in: mv $* /path/to/destination/assume/it_is/moon </li>
+<li>go home directory, edit your .bashrc</li>
+<li>put this alias command in it: alias teleport=’sh /path/where/you/put/teleport.sh’</li>
+<li>execute command: . .bashrc </li>
+<li>Done!</li>
+</ol>
+<p>May you enjoy your teleport~</p>
+</blockquote>
+</li>
+</ol>
+<h4 id="2014年08月09日_星期六">2014年08月09日 星期六</h4><ol>
+<li><a href="http://v2ex.com/t/126842" target="_blank" rel="external">PDF展示</a></li>
+</ol>
+<p><strong>1.pdf.js</strong></p>
+<p>好处是可以直接在线的浏览和编辑，问题在于浏览器的兼容问题，有些浏览器上面不正常，所以这个方案你要考虑清楚以后再考虑。</p>
+<p><strong>2.FlexPaper</strong></p>
+<p>这个方案是使用java+flash，相对来说，就目前而言，兼容性比较好，毕竟flash还是主流。</p>
+<p><strong>3.java2png</strong></p>
+<p>之所以用这个，是因为学校要求pdf不能被修改，所以采用了org.apache.pdfbox来转换pdf为图片，然后将图片加载到网站，这个方案，个人认为还是不错的，因为你可以通过一些方法实现在html中设置背景+文字层，但是不足显然存在：pdf中的图片不太好处理，仅仅是文字的话问题不大，所以说这个不是一个成熟的做法。</p>
+<p><strong>4.openoffice</strong></p>
+<p>这个方案，我没事测试过，但是据我一做开发的朋友说，是一套很成熟的解决方案。你可以找找相关的资源。</p>
+<p><strong>PDF生成</strong>：</p>
+<p>既然说了，顺便就给你也讲下当时做的生成pdf的吧，这个解决方法就很多了，也就不详细的说要用什么的，我当时是用了html转cavans，然后通过cavans生成base64的png，接着用png生成pdf，这里也可以用pdfbox做的吧（由于这部分我是用nodewebkit做的pc客户端，所以是用nodejs来搞的~）</p>
+<h4 id="2014年08月10日_星期日">2014年08月10日 星期日</h4><ul>
+<li><a href="http://v2ex.com/t/126935" target="_blank" rel="external">python 下的多线程选哪个比较好</a></li>
+</ul>
+<hr>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h4 id="2014年08月04日_星期一">2014年08月04日 星期一</h4><ol>
+<li><p><a href="http://v2ex.com/t/126044" target="_blank" rel="external">英语学习资源</a><br>奶爸的]]>
+    </summary>
+    
+      <category term="03. v2ex记录" scheme="http://illuz.github.com/tags/03-v2ex%E8%AE%B0%E5%BD%95/"/>
+    
+      <category term="归档_2014-08" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2014-08/"/>
+    
+      <category term="02. 学习" scheme="http://illuz.github.com/categories/02-%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[《把你的英语用起来！》读书笔记]]></title>
+    <link href="http://illuz.github.com/2014/08/07/use_your_english_learning_note/"/>
+    <id>http://illuz.github.com/2014/08/07/use_your_english_learning_note/</id>
+    <published>2014-08-06T16:57:27.000Z</published>
+    <updated>2015-05-03T12:11:47.126Z</updated>
+    <content type="html"><![CDATA[<p>豆瓣链接：<a href="http://book.douban.com/subject/3748247/" target="_blank" rel="external">http://book.douban.com/subject/3748247/</a></p>
+<p>在v2ex上看到别人推荐，于是趁周三图书馆开门去借了一本。</p>
+<p>然后中午回宿舍就给看了1/3了…<br>然后晚上就快速给看完了…</p>
+<p>在此做个<s>读书笔记与读后感</s>精简的记录吧..</p>
+<p>…<br>本来还想写写读书笔记，做个简单的思维导图…<br>发现战老师好像已经做了<a href="http://www.write.org.cn/ba-ni-di-ying-yu-yong-qi-lai-si-wei-dao-tu.html" target="_blank" rel="external">一些笔记</a>，作者晓光老师也在豆瓣放出了脑图。<br>于是直接用！反正我会认真看一遍的..效果差不多.<br>这个是官方脑图：(<a href="http://illuz.qiniudn.com/d36fe7cf58cae993d07a9496c5698f34541556d84ebdee-un6XzG.jpg" target="_blank" rel="external">Link</a>)<br><img src="http://illuz.qiniudn.com/d36fe7cf58cae993d07a9496c5698f34541556d84ebdee-un6XzG.jpg" alt="官方导图"><br>下面这是战老师做的脑图：(<a href="http://illuz.qiniudn.com/20140310-2.png" target="_blank" rel="external">Link</a>)<br><img src="http://illuz.qiniudn.com/20140310-2.png" alt="思维导图"></p>
+<p>另外摘录下战先生的一些笔记：</p>
+<blockquote>
+<h3 id="听力、口语路线图：">听力、口语路线图：</h3><p>初级从英语发音开始，书中推荐使用赖世雄的《赖世雄美语音标》2-3周</p>
+<p>中级推荐Dr.Jeff McQuillan开发的ESLPOD（English as a Second Language Podcast）（2∼3个月），用它来搞定慢速口语和听力</p>
+<p>中高级使用EnglishPod（2∼3个月）来突破常速英文。</p>
+<p>高级使用American Accent Training（《标准美语发音的13秘诀》）来完成“自然发音”，让你的发音从教科书中的发音变成正常环境语速下的英文韵律</p>
+<p>通过台湾的旋元佑老师写的《文法俱乐部》来解决方法和写作</p>
+<h3 id="阅读法路线图：">阅读法路线图：</h3><p>根据自己的语汇量，来选择一本自己喜欢的英文原著，坚持读下去。</p>
+<p><strong>核心规则</strong>：每2页查一个生词</p>
+<p>注意：读懂书本的内容大意，是透析法的前提，否则读了也白读。必须严格执行每2页查1个生词，然后每天对最近几天的单词进行复习，只要看见英文拼写后能想起中文意义便可，控制在5分钟以内。</p>
+<p>阅读要坚持不完成这两页，坚决不停下来，只要读完第一本英文原著，就会发现你的英语脱胎换骨了！</p>
+<p>为了保证完成任务，必须要承诺：<br>“在未来一年的限期内，一定能读完10本或以上英文原著。”</p>
+</blockquote>
+<p>个人比较感兴趣的：<br><a href="http://site.douban.com/195274/widget/notes/12076215/note/263482073/" target="_blank" rel="external">根据艾宾浩斯曲线做的表格</a><br><a href="https://www.lexile.com/" target="_blank" rel="external">Lexile蓝思值判定</a></p>
+<p>在<a href="http://site.douban.com/195274/" target="_blank" rel="external">奶爸的英语教室</a>站有各种资源。<br>表示已经下载完初级和中级的音频和pdf了，准备这几天把赖世雄美语音标刷一遍。妄想暑假刷完中级一本书。＝。＝<br>下学期一定要看个两本原著。</p>
+<hr>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>豆瓣链接：<a href="http://book.douban.com/subject/3748247/" target="_blank" rel="external">http://book.douban.com/subject/3748247/</a></p>
+<p>]]>
+    </summary>
+    
+      <category term="03. 学习" scheme="http://illuz.github.com/tags/03-%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="04. 英语" scheme="http://illuz.github.com/tags/04-%E8%8B%B1%E8%AF%AD/"/>
+    
+      <category term="归档_2014-08" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2014-08/"/>
+    
+      <category term="06. 读书" scheme="http://illuz.github.com/categories/06-%E8%AF%BB%E4%B9%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[每周v2ex记录[14-08-02~14-08-03]]]></title>
+    <link href="http://illuz.github.com/2014/08/03/v2ex_140802/"/>
+    <id>http://illuz.github.com/2014/08/03/v2ex_140802/</id>
+    <published>2014-08-03T04:57:59.000Z</published>
+    <updated>2015-05-03T12:11:47.126Z</updated>
+    <content type="html"><![CDATA[<p>半小时！<br>以后每天只能花一个番茄去v2ex！经过第一天的搜集，我发现这太浪费时间了。<br>所以每天12点的时候吃完饭去逛一下，然后每天只记录一篇，刷一下首页，看看有什么感兴趣的，再刷一遍评论。<br>记录下感觉不错的文字，如果感兴趣再在这里简单评论下。如果有什么更深的感触的话再放到holes’ queue里面，出列了再写。</p>
+<hr>
+<h4 id="2014年08月02日_星期六">2014年08月02日 星期六</h4><ol>
+<li><p><a href="http://v2ex.com/t/125699" target="_blank" rel="external">如何跟比你牛的人沟通？</a><br>比你牛的人可能比你要谦虚得多。</p>
+</li>
+<li><p><a href="http://v2ex.com/t/125374" target="_blank" rel="external">敲代码时听的音乐</a><br><a href="http://music.163.com/#/playlist?id=6948994" target="_blank" rel="external">http://music.163.com/#/playlist?id=6948994</a></p>
+</li>
+</ol>
+<h4 id="2014年08月03日_星期日">2014年08月03日 星期日</h4><ol>
+<li><p><a href="http://v2ex.com/t/125823#reply9" target="_blank" rel="external">你最应该学的编程语言</a><br>收藏文章：<a href="http://thenextweb.com/dd/2014/07/31/best-programming-language-learn/" target="_blank" rel="external">http://thenextweb.com/dd/2014/07/31/best-programming-language-learn/</a><br>已有大神翻译：<a href="http://www.wdk.pw/557.html" target="_blank" rel="external">http://www.wdk.pw/557.html</a></p>
+</li>
+<li><p><a href="http://v2ex.com/t/125255#reply140" target="_blank" rel="external">翻墙路由完全手册</a><br>把“将实验室路由器翻墙”加入holes’ queue里面了。</p>
+</li>
+</ol>
+<hr>
+<p>这个坑这周刚开，所以只有周六周日两天。<br>感觉开了大坑了Orz。<br>另外如果以后有某一天忘了逛可能那天的就没写了。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>半小时！<br>以后每天只能花一个番茄去v2ex！经过第一天的搜集，我发现这太浪费时间了。<br>所以每天12点的时候吃完饭去逛一下，然后每天只记录一篇，刷一下首页，看看有什么感兴趣的，再刷一遍评论。<br>记录下感觉不错的文字，如果感兴趣再在这里简单评论下。如果有什么更深]]>
+    </summary>
+    
+      <category term="03. v2ex记录" scheme="http://illuz.github.com/tags/03-v2ex%E8%AE%B0%E5%BD%95/"/>
+    
+      <category term="归档_2014-08" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2014-08/"/>
+    
+      <category term="02. 学习" scheme="http://illuz.github.com/categories/02-%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[六七月小结]]></title>
+    <link href="http://illuz.github.com/2014/08/03/summary_of_2014_june_and_july/"/>
+    <id>http://illuz.github.com/2014/08/03/summary_of_2014_june_and_july/</id>
+    <published>2014-08-02T17:40:34.000Z</published>
+    <updated>2015-05-03T12:11:47.123Z</updated>
+    <content type="html"><![CDATA[<p>这是在以前的博客上每个月都会写的，例行的每月小结。<br>至于为什么这次是两个月，因为我上个月偷懒了。</p>
+<p>以前在CSDN上，由于是技术性的博客，不好乱扯（虽然也一直在扯）。换了博客后，我就可以尽情地扯淡了～<br>各种水分，只是记录东西和自言自语用的。嘛，也欢迎吐槽。</p>
+<h2 id="总结">总结</h2><p>对于六月份忘记写总结一事，我表示这是有原(jie)因(kou)的，六月末考试，六月初还得跑上海比赛（不提比赛TAT）。所以一忙就给忘了。回过头来已经是七月十几了。。。<br>反正我老是看起来很忙的样子，其实没做多少事。活脱脱的一个蒟蒻啦，不管是ACM还是其他技能QAQ。<br>不行又在扯了…</p>
+<p>我六月好像大部分时间都在考试，一直考到27号左右。成绩什么的也不多说，抱完佛脚几天后就都忘光了…<br>然后就和宿舍的基友一起去旅行了…可悲不是和妹子去…总结一句，只能说，旅游就是活受罪！<br>玩了几天后，就回学校搬宿舍，然后留校训练了。</p>
+<p>然后七月份初和队友们出去比(lv)赛(you)，逛了外滩，看了东方明珠，喝了拿铁。比完赛在上海乱跑遇到暴雨差点露宿街头了，真是苦了一同去的妹子。<br>从上海灰溜溜地回福州后，我就直接滚老家休息了。在老家呆了几天后，把集训的假期都用光了之后，我又滚回学校训练了。然后接下去就是多校被中学生虐，CF被帆神虐的集训生活了TAT。弱菜弱得不行，不能多说。</p>
+<p>在六月份的时候，我就一直YY着暑假开始后要做什么什么的，看什么什么的…结果暑假一来，啥都没做成。<br>临近暑假的时候，从学校图书馆借了10本书来收藏，然后大四学长毕业搬走，又从里面搞到几本书，书架都快放不下了。如果不是搬宿舍的话，估计会积上一层灰。</p>
+<p>嘛，这样说下来，感觉我这两个月全浪费了。其实我还是有看几本书的。好吧，就只有《浪潮之巅》啦，如果算上轻小说的话，我倒是看了不少本(`&gt;`)。<br>对了，最近在写《浪潮之巅》的读书笔记，过几天写完发出来。<br>对于动漫，我这俩月没看多少，就把《花牌情缘》补完了，《花牌》算是运动+治愈+热血+励志番吧，我挺喜欢这番的。里面一些话都是能触动我内心的，奇怪的是以前看番为什么没有过这种感觉，难道我长大了…<br>七月也是又一批新番出现的时候。七月番我就追了三坪房间和月刊少女，其他都被我弃了，感觉其他各种中二，我现在已经脱离中二了(-.-)，现在比较喜欢小清新，治愈系，搞笑日常系的番。<br>其实我没怎么看动漫，但是我看了不少漫画，以及些许轻小说，具体我就不一一列举了。</p>
+<p>总之，忙碌的六七月已经过去了，我也不想再提太多。</p>
+<h2 id="八月份规划">八月份规划</h2><p>又到了规划时间，由于脑洞太大，我很喜欢不加思考衡量地把各种任务加到我的计划中，我还没写就已经能看到我下面的规划完成不到一半的结局了…<br>不过写计划锻炼脑洞，还是很欢乐的，更重要的是我会尽量完成这些目标的。</p>
+<ol>
+<li>ACM方面，每天至少3篇题解，不然留太多坑不好。</li>
+<li>看书方面，学PureFrog巨巨，翻翻《算导》、《具体数学》之类的，以及：progit，Advanced Bash-Scripting Guide，Thinking in C++，Core Java，CSAPP，鸟哥私房菜，Windows程序设计，微积分，组合数学，心理学，怎样解题，设计模式，病毒与反病毒技术，Node.JS开发指南什么的。</li>
+<li>英语，争取多完成几个Topic吧，多看看Ted。说不定能有时间看看日语。</li>
+<li>锻炼，减肥很重要。</li>
+<li>业余爱好，好久没画画了，找个时间画画休养生息哈哈。</li>
+<li>开始使用番茄钟，假期每天10个。做事情时记录花费时间情况。</li>
+<li>接下去这个博客会开各种坑的，希望能慢慢补上。</li>
+</ol>
+<p>下周三去图书馆还书，再物色几本书= =+。</p>
+<p>That’s all.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>这是在以前的博客上每个月都会写的，例行的每月小结。<br>至于为什么这次是两个月，因为我上个月偷懒了。</p>
+<p>以前在CSDN上，由于是技术性的博客，不好乱扯（虽然也一直在扯）。换了博客后，我就可以尽情地扯淡了～<br>各种水分，只是记录东西和自言自语用的。嘛，也欢迎]]>
+    </summary>
+    
+      <category term="01. 日常" scheme="http://illuz.github.com/tags/01-%E6%97%A5%E5%B8%B8/"/>
+    
+      <category term="归档_2014-08" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2014-08/"/>
+    
+      <category term="01. 生活" scheme="http://illuz.github.com/categories/01-%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[博客各种更变记录]]></title>
+    <link href="http://illuz.github.com/2014/08/02/blog_record/"/>
+    <id>http://illuz.github.com/2014/08/02/blog_record/</id>
+    <published>2014-08-02T13:28:29.000Z</published>
+    <updated>2015-05-03T12:11:47.120Z</updated>
+    <content type="html"><![CDATA[<p>博客这东西，标题、副标题老是会变来变去，我都怕以后人家来问我这个XXX博客是不是我写的，我还无从查找了呢…<br>虽然我不是什么出名的人，这种事情也不太可能发生，而且我现在的主题貌似还没法看到副标题。</p>
+<p>姑且开这篇博客记录。</p>
+<ul>
+<li>2014年08月01日<br>  本博客建成，选择了github+hexo+keal主题，标题名为：illuz’s blog，副标题名为：Lazy, and make it better.</li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>博客这东西，标题、副标题老是会变来变去，我都怕以后人家来问我这个XXX博客是不是我写的，我还无从查找了呢…<br>虽然我不是什么出名的人，这种事情也不太可能发生，而且我现在的主题貌似还没法看到副标题。</p>
+<p>姑且开这篇博客记录。</p>
+<ul>
+<li>2014年]]>
+    </summary>
+    
+      <category term="01. 日常" scheme="http://illuz.github.com/tags/01-%E6%97%A5%E5%B8%B8/"/>
+    
+      <category term="归档_2014-08" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2014-08/"/>
+    
+      <category term="99. 其他" scheme="http://illuz.github.com/categories/99-%E5%85%B6%E4%BB%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[博客基本弄完了～]]></title>
+    <link href="http://illuz.github.com/2014/08/01/blog_build_almost_complete/"/>
+    <id>http://illuz.github.com/2014/08/01/blog_build_almost_complete/</id>
+    <published>2014-08-01T15:53:39.000Z</published>
+    <updated>2015-05-03T12:11:47.120Z</updated>
+    <content type="html"><![CDATA[<p>终于把博客折腾地差不多了，多谢Changyuheng朋友的耐心指点～<br>之后如果有空再折腾吧，就先这样放着。</p>
+<p>最近老是奇怪为什么我提交了那么多次，Contributions上面老是看不到更新…我还以为Github有什么特殊的限制，今天终于去求助搜索引擎，发现了原来是本地的user.name设置错了…<a href="https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile" target="_blank" rel="external">https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile</a><br>真是不小心，这下子又空白了一片了…</p>
+<p>由于中央“净网”活动，墙变得好厚…真是令人郁闷。<br>这几天七牛图库还暂停了内容管理，也就是无法上传图片…本来还想贴个图片的说…</p>
+<p>弄完博客就要开始耐心写博客了～<br>这几天写篇例行的月份总结。</p>
+<hr>
+<h2 id="测试下一些简单的功能：">测试下一些简单的功能：</h2><p>下面没什么内容了。</p>
+<p>代码：<br><figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line"><span class="preprocessor">#<span class="keyword">include</span> &lt;cstdio&gt;</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">int</span> n, t;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span><br><span class="line"></span>&#123;</span><br><span class="line">	<span class="built_in">scanf</span>(<span class="string">"%d"</span>, &amp;t);</span><br><span class="line">	<span class="keyword">while</span> (t--) &#123;</span><br><span class="line">		<span class="built_in">scanf</span>(<span class="string">"%d"</span>, &amp;n);</span><br><span class="line">		<span class="keyword">int</span> ans = <span class="number">0</span>;</span><br><span class="line">		<span class="keyword">while</span> (n != <span class="number">0</span>) &#123;</span><br><span class="line">			ans += n / <span class="number">5</span>;</span><br><span class="line">			n /= <span class="number">5</span>;</span><br><span class="line">		&#125;</span><br><span class="line">		<span class="built_in">printf</span>(<span class="string">"%d\n"</span>, ans);</span><br><span class="line">	&#125;</span><br><span class="line">	<span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></p>
+<p>Gist:（Keal主题贴Gist有个bug，从首页打开会显示不出来，需要刷新）</p>
+<script src="https://gist.github.com/illuz/6287dfb5fee2f4d1e429.js"></script>
+
+<p>jsfiddle：一个类似Gist的功能，貌似只能贴Javascript/CSS什么的，我这里就不贴了。</p>
+<p>数学公式测试：<br>$\sqrt{x}$<br>$\surd[x^2+y^2]$<br>$\overline{m+n}$<br>$\underbrace{ a+b+\cdots+z }_{26}$</p>
+<p>Markdown+html混合测试：</p>
+<blockquote>
+<ol>
+<li><s>POJ 2186 - Popular Cows</s></li>
+<li>POJ 3249 - Test for Jobh</li>
+<li>POJ 3592 - Instantaneous Transference</li>
+<li><h1>Look! Styles and colors</h1>
+
+</li>
+</ol>
+</blockquote>
+<p>html字体与颜色：</p>
+<p style="font-family:verdana;color:red"><br>This text is in Verdana and red</p>
+
+<p style="font-family:times;color:green"><br>This text is in Times and green</p>
+
+<p style="font-size:30px">This text is 30 pixels high</p>
+
+<p></p><h2 style="background-color:red">This is a heading</h2><p></p>
+<p style="background-color:green">This is a paragraph.</p>
+
+
+
+<h1 style="font-family:verdana">A heading</h1><br><p style="font-family:arial;color:red;font-size:20px;">A paragraph.</p><br><br><h1 style="text-align:center">居中测试</h1>
+
+
+<p>表格测试：</p>
+<table width="200" height="200" border="0" bgcolor="#000000"><br>  <tr><br>    <td> </td><br>  </tr><br></table>
+
+<table border="1"><br>  <tr><br>    <th>Month</th><br>    <th>Savings</th><br>  </tr><br>  <tr><br>    <td>January</td><br>    <td>$100</td><br>  </tr><br></table>
+
+<hr>
+<p>本地测试表现都不是很好，虽然都能显示出来，不足的是html语句间间隙太大了，而且果然出现了诟病的表格前大片空行的问题。无奈，希望以后版本能解决。</p>
+<p>待会用feedly进行订阅测试，用手机测试下手机下表现如何。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>终于把博客折腾地差不多了，多谢Changyuheng朋友的耐心指点～<br>之后如果有空再折腾吧，就先这样放着。</p>
+<p>最近老是奇怪为什么我提交了那么多次，Contributions上面老是看不到更新…我还以为Github有什么特殊的限制，今天终于去求助搜索引擎，发]]>
+    </summary>
+    
+      <category term="01. 日常" scheme="http://illuz.github.com/tags/01-%E6%97%A5%E5%B8%B8/"/>
+    
+      <category term="02. 折腾" scheme="http://illuz.github.com/tags/02-%E6%8A%98%E8%85%BE/"/>
+    
+      <category term="归档_2014-08" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2014-08/"/>
+    
+      <category term="05. 扯" scheme="http://illuz.github.com/categories/05-%E6%89%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[写在本博客的前头]]></title>
+    <link href="http://illuz.github.com/2014/08/01/write_ahead/"/>
+    <id>http://illuz.github.com/2014/08/01/write_ahead/</id>
+    <published>2014-07-31T23:03:27.000Z</published>
+    <updated>2015-05-03T12:11:47.133Z</updated>
+    <content type="html"><![CDATA[<p>这是这个博客的第一篇，我是个不善于表达的人，而且我是个懒人，所以我就大概地扯扯…<br>如果出现了模糊不清的语句，相互矛盾的逻辑，让人摸不着头脑的文章，（目测之后的文章也会是这种格调），希望看官能指出来，也希望看官能谅解，如果看官想要觉得很有留言码文来喷我，也欢迎赐教，我很期待（笑）…</p>
+<h2 id="开此博客的原由">开此博客的原由</h2><p>貌似这个话题是每个博客首篇的必谈之题，当然我也不能装酷不谈这个。</p>
+<p>博客是个互联网2.0的产物。在远古的互联网初期，大多数人们只能通过BBS来互联网上发表言论交流观点，由于BBS上的言论过于受限，任由版主删减，而个人为了表达言论只能通过创建个人网站来实现，门槛过高。博客的出现正是众望所归，博客具有很高度的言论自由，还有低很多的创建门槛，所以一下子就流行起来<br>。<br>我扯博客的历史，是为了说明，和大部分人一样，我开这个博客的一个重要目的就是<strong>发表自己的言论与观点</strong>。<br>糟糕，刚才那句话好像把我说得像一个网络写手了…</p>
+<p>其实，我这个博客的另外一个目的就是<strong>记录自己的生活、学习与工作的点滴</strong>。（虽然现在<em>2014年</em>还在上大学）<br>关于我自己的介绍，我之后会写篇About me的，不过估计水分和这篇博客是一个德行。</p>
+<p>除了上面提到的俩原由，我开这个博客还有很多大大小小的目的，比如说：</p>
+<ul>
+<li>提高码字速度。（你可能无法相信，我码上面那些字已经花了近一个小时了）</li>
+<li>锻炼表达能力。（很明显，这方面我很弱，刚才码字我都要花好长时间停顿思考）</li>
+<li>提高大脑利用率。（笨拙的我只能靠思考和总结来弥补了）</li>
+<li>学会扯淡。（听说写博客效果明显）</li>
+<li>学习英语（可能会不定时使用英语来写博文）</li>
+<li>和各位看官交朋友。（害羞）</li>
+<li><s>把妹。</s>（其实我正在锻炼扯淡能力）</li>
+<li>装逼。（这个才是最终的目的）</li>
+<li>以及其他我现在想不到的目的。</li>
+</ul>
+<h2 id="我的博客历史">我的博客历史</h2><p>其实在这个博客之前，我有过俩博客。现在是黑历史时间…</p>
+<p>一个是中学时候在Google的appspot上搭建的个人博客。中学时候搭建的博客，好像很牛逼的样子，但说来惭愧，其实我现在还不了解GAE到底是什么东西，我只知道去谷歌找些资料，跟着折腾。老实说这个博客我也是跟着网上各个大神的傻瓜教程按部就班搭建的，之前刚开始弄一直有问题还请教了ZLX大大呢。说不定过几年，我也完全不了解Node.js到底是个什么东西。（为了不被世人鄙视，我决定把Node.js加入我的深坑队列的队头中）<br>至于那个年代久远的博客，我玩了不到半年就没管了…现在说不定翻了墙还能上去看看，不过里面没什么内容，都是充满了中二气息和我的黑历史的东西，所以在这里我就不把博客地址暴露出来了。</p>
+<p><a href="http://blog.csdn.net/hcbbt" target="_blank" rel="external">第二个博客</a>我现在还在使用中，是上大学后，为了装逼赶潮流，也为了写ACM的题解而在CSDN上注册的一个博客。里面大部分都是一些算法相关的文章，ACM的水题题解占了大概有九成吧，还有各种蠢蠢的文章。<br>那个博客是2013年初创建的，我人懒，没怎么疯狂地写题解，所以博客的文章量没有几个认识还晚注册的基友多，当然我太弱做题不多也是其中的一个原因啦。<br>以后那个博客就专门用来记录算法相关和ACM题解了，我会一直更新的。不过可能会有很多相关的东西也渗透到这个博客中。嘛，高端点不然我怎么装逼。</p>
+<h2 id="这个博客的定位与内容">这个博客的定位与内容</h2><p>这个话题跟开博客的原由很像，但是两个是不同的。在这里我想确定下这个博客的主要定位。<br>我看过不少博客对自己博客的定位，印象最深刻的是编程随想的定位，当然我不会跟他一样把博客写得那么有深度，而且我这边都是网上随便搜索就能找到真人的，我可不喜欢被跨省。更重要的是我没有其他博主巨巨他们那么深刻准确的定位能力。<br>所以我只能打开脑洞，YY一番：</p>
+<ol>
+<li>首先这是个生活随笔的博客。<br> 比如记录生活中的琐事，近期经历，以及各种扯淡吐槽。<br> 我希望能轻松地写博客，不要有太大的负担。</li>
+<li>其次这里面会有我学习过程的各种记录。<br> 比如学习笔记，读后感，各种技术软文等。<br> 就像<a href="http://blog.callmewhy.com/2014/06/08/about-how-to-code/#%E5%85%B3%E4%BA%8E%E5%8D%9A%E5%AE%A2" target="_blank" rel="external">汪海大大说的</a>：“东西那么多，哪有人能都记得住，只需要记着你在博客中有记录这个，下次遇到的时候再去翻阅效率就高得多了。”我想，这就是博客的价值所在。</li>
+<li>里面将会有各种奇奇怪怪的文章。<br> 今后可能会出现心理学、管理学、经济学、日语、英语、数学之类的各种东西。（自我吐槽：明明是个懒人却那么贪心…）</li>
+</ol>
+<h2 id="最后">最后</h2><p>有些人老是说，写博客能够吸引各种猎头的注意力，能够在应聘面试时作为展示。（虽然我也说过，在劝新生写自己的技术博客时）<br>但是我并不指望我的这个博客能够做到这些，我只希望我能够维护好这个博客，轻松地留下自己的思考，创造各种回忆，因为这是我自己的博客。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>这是这个博客的第一篇，我是个不善于表达的人，而且我是个懒人，所以我就大概地扯扯…<br>如果出现了模糊不清的语句，相互矛盾的逻辑，让人摸不着头脑的文章，（目测之后的文章也会是这种格调），希望看官能指出来，也希望看官能谅解，如果看官想要觉得很有留言码文来喷我，也欢迎赐教，我很]]>
+    </summary>
+    
+      <category term="01. 日常" scheme="http://illuz.github.com/tags/01-%E6%97%A5%E5%B8%B8/"/>
+    
+      <category term="归档_2014-08" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2014-08/"/>
+    
+      <category term="01. 生活" scheme="http://illuz.github.com/categories/01-%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+</feed>
