@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://illuz.github.com/about/index.html</loc>
-    <lastmod>2015-05-03T12:12:26.040Z</lastmod>
+    <loc>http://illuz.github.com/2015/05/09/v2ex-150509/</loc>
+    <lastmod>2015-05-09T15:41:36.501Z</lastmod>
   </url>
   
   <url>
-    <loc>http://illuz.github.com/2015/01/12/Windows-8-1-VPN-connection-disappeared-in-Networks-Panal-Disable-OneDrive-in-Win8-1/</loc>
-    <lastmod>2015-05-03T12:11:47.133Z</lastmod>
+    <loc>http://illuz.github.com/about/index.html</loc>
+    <lastmod>2015-05-03T12:12:26.040Z</lastmod>
   </url>
   
   <url>
@@ -38,6 +38,11 @@
   
   <url>
     <loc>http://illuz.github.com/2015/04/28/v2ex-change-to-double/</loc>
+    <lastmod>2015-05-03T12:11:47.133Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://illuz.github.com/2015/01/12/Windows-8-1-VPN-connection-disappeared-in-Networks-Panal-Disable-OneDrive-in-Win8-1/</loc>
     <lastmod>2015-05-03T12:11:47.133Z</lastmod>
   </url>
   

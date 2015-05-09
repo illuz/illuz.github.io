@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Go ahead.]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://illuz.github.com/"/>
-  <updated>2015-05-03T12:11:47.133Z</updated>
+  <updated>2015-05-09T15:41:36.501Z</updated>
   <id>http://illuz.github.com/</id>
   
   <author>
@@ -13,6 +13,40 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[每周v2ex记录[15-04-20~15-05-09]]]></title>
+    <link href="http://illuz.github.com/2015/05/09/v2ex-150509/"/>
+    <id>http://illuz.github.com/2015/05/09/v2ex-150509/</id>
+    <published>2015-05-09T15:40:09.000Z</published>
+    <updated>2015-05-09T15:41:36.501Z</updated>
+    <content type="html"><![CDATA[<ol>
+<li><p><a href="http://www.v2ex.com/t/184842" target="_blank" rel="external">20150420 :-)</a><br>V2 备案日，没什么内容。</p>
+</li>
+<li><p><a href="http://www.v2ex.com/t/184856" target="_blank" rel="external">请问哪里有 推荐氛围和贵站相似 但不需要“自我审查”的中文技术社区？</a><br>V2 备案后可以预见的帖子。<br>其实不如去看看 Hacker News, Reddit，我是比较推这两个的。<br>贴子里还有几个：<a href="https://coderq.com/，https://kaif.io/，不做评论了，大家如果上国外论坛不要被洗脑了就好。" target="_blank" rel="external">https://coderq.com/，https://kaif.io/，不做评论了，大家如果上国外论坛不要被洗脑了就好。</a></p>
+</li>
+<li><p><a href="http://www.v2ex.com/t/187975" target="_blank" rel="external">程序员的手机上会有什么特别的应用？</a><br>看大神们秀很酷的 APP。</p>
+</li>
+<li><p><a href="http://www.v2ex.com/t/187837" target="_blank" rel="external">学 Linux 看完鸟哥 Linux 私房菜基础版还有看些什么？</a><br>月经贴。</p>
+</li>
+<li><p><a href="http://www.v2ex.com/t/188803" target="_blank" rel="external">快大二了，我感觉这一年没多点收获，求教技能树怎么点</a><br>刚开始看题主描述，一直在感叹人家大一就这么厉害。<br>然后发现回复的意见居然一致了。说多了都是泪。</p>
+</li>
+<li><p><a href="http://www.v2ex.com/t/189066" target="_blank" rel="external">求推荐必备软件-Linux</a><br>还是月经贴。</p>
+</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<ol>
+<li><p><a href="http://www.v2ex.com/t/184842" target="_blank" rel="external">20150420 :-)</a><br>V2 备案日，没什么内容。</p>
+</li>
+<li><p><a href]]>
+    </summary>
+    
+      <category term="03. v2ex记录 归档_2015-05" scheme="http://illuz.github.com/tags/03-v2ex%E8%AE%B0%E5%BD%95-%E5%BD%92%E6%A1%A3-2015-05/"/>
+    
+      <category term="02. 学习" scheme="http://illuz.github.com/categories/02-%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[每周一发的 V2EX 转为每两周一发]]></title>
