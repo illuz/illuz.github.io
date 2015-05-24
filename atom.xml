@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Go ahead.]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://illuz.github.com/"/>
-  <updated>2015-05-16T16:58:10.011Z</updated>
+  <updated>2015-05-24T15:49:15.596Z</updated>
   <id>http://illuz.github.com/</id>
   
   <author>
@@ -13,6 +13,38 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[每周v2ex记录[15-05-10~15-05-24]]]></title>
+    <link href="http://illuz.github.com/2015/05/24/v2ex-150524/"/>
+    <id>http://illuz.github.com/2015/05/24/v2ex-150524/</id>
+    <published>2015-05-24T15:46:51.000Z</published>
+    <updated>2015-05-24T15:49:15.596Z</updated>
+    <content type="html"><![CDATA[<p>量挺少的，sigh。</p>
+<hr>
+<ol>
+<li><p><a href="http://www.v2ex.com/t/189938" target="_blank" rel="external">我的 macbook 应用清单</a><br>初用苹果，我还没买过收费的 App，可能我的第一个付费 App 是 Dash。</p>
+</li>
+<li><p><a href="http://www.v2ex.com/t/189873" target="_blank" rel="external">大家写技术博客的动力是什么？</a><br>程序员是爱折腾的动物。</p>
+</li>
+<li><p><a href="http://www.v2ex.com/t/189909" target="_blank" rel="external">说一说最能提高你 Coding 效率的音乐，回头我在网易晕音乐开个歌单好了，喵～</a><br>月经贴。</p>
+</li>
+<li><p><a href="http://www.v2ex.com/t/190771" target="_blank" rel="external">怎么让 Git 的 Commnit 看上去有条理一些？</a><br>回复的几个链接都不错。<br>个人喜欢这个：<a href="https://github.com/agis-/git-style-guide" target="_blank" rel="external">https://github.com/agis-/git-style-guide</a></p>
+</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>量挺少的，sigh。</p>
+<hr>
+<ol>
+<li><p><a href="http://www.v2ex.com/t/189938" target="_blank" rel="external">我的 macbook 应用清单</a><br>初用苹果，我还没买过收费]]>
+    </summary>
+    
+      <category term="03. v2ex记录 归档_2015-05" scheme="http://illuz.github.com/tags/03-v2ex%E8%AE%B0%E5%BD%95-%E5%BD%92%E6%A1%A3-2015-05/"/>
+    
+      <category term="02. 学习" scheme="http://illuz.github.com/categories/02-%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[每周v2ex记录[15-04-20~15-05-09]]]></title>
