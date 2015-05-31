@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Go ahead.]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://illuz.github.com/"/>
-  <updated>2015-05-24T15:49:15.596Z</updated>
+  <updated>2015-05-31T13:16:23.369Z</updated>
   <id>http://illuz.github.com/</id>
   
   <author>
@@ -13,6 +13,49 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[最后的每周v2ex记录[15-05-25~15-05-31]]]></title>
+    <link href="http://illuz.github.com/2015/05/31/v2ex-150531/"/>
+    <id>http://illuz.github.com/2015/05/31/v2ex-150531/</id>
+    <published>2015-05-31T13:10:13.000Z</published>
+    <updated>2015-05-31T13:16:23.369Z</updated>
+    <content type="html"><![CDATA[<p>我准备停止「每周v2ex记录」这个系列。<br>主要原因是我觉得我没有把握一周，或两周，甚至一个月，这样定期的时段来在 V 站上收集到一些高质量的文章。<br>而且 V 站上的帖子质量已经远不如前了。</p>
+<p>不过这并不意味这我不再写 v2ex 记录，我还是会逛 v2ex 的，如果看到了什么好的帖子会收藏下来，等累计到一定量了再发出来。　<br>也就是说「v2ex 记录」变成了一个不定期更新新坑<br>下面可以看看这周热门的几篇帖子。<br>(这次的几篇帖子可能是这个系列最没有质量的，不想浪费时间的可以略过。)</p>
+<hr>
+<p><strong>之一</strong></p>
+<p>某天看到这几个帖子：</p>
+<ol>
+<li><p><a href="https://www.v2ex.com/t/193373" target="_blank" rel="external">招了个比较菜的开发,是继续培养还是放弃?</a><br>大概就是讲上司招了个 iOS 开发，然后在 v2ex 抱怨他多菜多糟糕，大家一致认为这种开发要赶紧开掉，还有不少毛遂自荐的。<br>像这种抱怨员工的帖子 v2ex 上也越来越多了，我也见怪不怪了。<br>然后隔天就看到下个帖子：</p>
+</li>
+<li><p><a href="https://www.v2ex.com/t/193838" target="_blank" rel="external">遇到比较压抑的上司，我就是被招的那个比较菜的开发</a><br>（真当员工不上 V 站）<br>那员工还真上，然后发文回复上司，表示自己那几天的努力上司没看到还怪罪他。<br>然后评论就倒向员工这边了，各种吐槽上司、公司的，安慰员工的，还有感叹世界好小的。<br>我当时也感悟到每周和上司通封周报信的重要性。<br>我以为这事就这样完了，没想到过几天上司又回了一帖:</p>
+</li>
+<li><p><a href="https://www.v2ex.com/t/193973" target="_blank" rel="external">To: qinfensky 这正是我希望看到的</a><br>上司把考核的 git 题目发出来，大家都认为这题目中肯而收藏这帖。<br>然后这帖就变成 git, tower 的讨论文了，还有人怀疑这是 tower 的软文。</p>
+</li>
+</ol>
+<p>三个帖子都是很热门的，第一个帖子翻了三页，第二个翻了四页，第三个也快翻页了。<br>v2ex 简直成为他们两个人的聊天室。</p>
+<hr>
+<p><strong>之二</strong></p>
+<p>然后过了几天又看到这两个帖子：</p>
+<ol>
+<li><p><a href="https://www.v2ex.com/t/193600" target="_blank" rel="external">有没有便宜购买 Dropbox 专业版的方法，用来存放孩子从小大到的照片视频。99 刀一年，略贵。</a><br>这是一个挺正常的询问帖。<br>然后里面有个问哪里能买到 Evernote 低价版，然后另外一个叫他去官网看看，他回答“没空。就烦你这种人”，然后展开架势准备吵起来。<br>然后就又开了一帖：</p>
+</li>
+<li><p><a href="https://www.v2ex.com/t/193957" target="_blank" rel="external">哟，抓住一只蠢萌的 V2EX 网友</a><br>呵呵。</p>
+</li>
+</ol>
+<hr>
+<p><strong>之三</strong></p>
+<p>然后携程挂了，当天各种讨论帖，都开始黑 Windows 了。<br>我猜之后会有「下一个是xxx吗」「xxx也挂了」这种帖子，甚至变成日经帖。</p>
+<hr>
+<p>v2ex 已经成为人多而杂的社区了，互喷，各种水，各种八卦（如最近黑一公司 hr），不知道之后会有水军进来或者已经进来了（根某乎一样）。</p>
+<p>类似的内容并不是这周才有的，而是很久前就有了，而且慢慢弯多。我这次花了些时间把一小部分写出来，我只是表示 v2ex 已让我有点失望，然后为我任性停止这系列找理由。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>我准备停止「每周v2ex记录」这个系列。<br>主要原因是我觉得我没有把握一周，或两周，甚至一个月，这样定期的时段来在 V 站上收集到一些高质量的文章。<br>而且 V 站上的帖子质量已经远不如前了。</p>
+<p>不过这并不意味这我不再写 v2ex 记录，我还是会逛 v2]]>
+    </summary>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[每周v2ex记录[15-05-10~15-05-24]]]></title>
