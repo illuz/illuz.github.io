@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Go ahead.]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://illuz.github.com/"/>
-  <updated>2015-06-07T16:37:08.533Z</updated>
+  <updated>2015-06-07T16:38:14.810Z</updated>
   <id>http://illuz.github.com/</id>
   
   <author>
@@ -19,7 +19,7 @@
     <link href="http://illuz.github.com/2015/06/08/summary-of-2015-march-april-may/"/>
     <id>http://illuz.github.com/2015/06/08/summary-of-2015-march-april-may/</id>
     <published>2015-06-07T16:36:59.000Z</published>
-    <updated>2015-06-07T16:37:08.533Z</updated>
+    <updated>2015-06-07T16:38:14.810Z</updated>
     <content type="html"><![CDATA[<p>三四月份生活变动很大，从学校跑杭州实习了，事情不少，本来打算两个月一块写了，没想到拖了这么久，结果现在只能三个月一块写了（成季度总结了，叹气）。</p>
 <p>然而我并不打算长篇大论，这只是闲扯，我也不会写像之前那样列清单出来一个个划掉。</p>
 <hr>
@@ -48,6 +48,12 @@
 <hr>
 <h4 id="]]>
     </summary>
+    
+      <category term="01. 日常" scheme="http://illuz.github.com/tags/01-%E6%97%A5%E5%B8%B8/"/>
+    
+      <category term="归档_2015-06" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2015-06/"/>
+    
+      <category term="01. 生活" scheme="http://illuz.github.com/categories/01-%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
