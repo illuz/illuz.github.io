@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Go ahead.]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://illuz.github.com/"/>
-  <updated>2015-06-07T16:39:41.716Z</updated>
+  <updated>2016-01-01T17:50:27.000Z</updated>
   <id>http://illuz.github.com/</id>
   
   <author>
@@ -15,11 +15,259 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title><![CDATA[2015 Summary]]></title>
+    <link href="http://illuz.github.com/2016/01/01/annual-summary-of-2015/"/>
+    <id>http://illuz.github.com/2016/01/01/annual-summary-of-2015/</id>
+    <published>2016-01-01T13:49:10.000Z</published>
+    <updated>2016-01-01T17:50:27.000Z</updated>
+    <content type="html"><![CDATA[<p>很久没写文章，博客都长草了。</p>
+<p>时间过得好快，大四已经过了半个学期了。没人跟我提这事，我也没什么自觉，只有闲暇时偶尔才会发现大学生涯只剩几个月了，只能默默感叹时光飞逝。</p>
+<p>这个博客建成也已经有两年多了，虽然没什么内容，也不好看，没折腾太多，我还是通过这个博客得到了不少东西，比如友情，比如知识，还有各种建议。最近也是苦口婆心劝后辈们去搭个自己的小博客。（这段只是一点小感慨，绝无废博之意，我还会时不时写点东西发上来的）<br>记得开博之初，我说开这个博客的目的是「发表自己的言论与观点」和「记录自己的生活、学习与工作的点滴」。现在看过来博客大体是后者类型的，可能因为我比较没有头脑吧。<br>所以，这次也是一篇「记录自己的生活、学习与工作的点滴」的流水帐。用行话来说就是 tl;dr。</p>
+<p>去年也写了类似的总结，不过不同的是，去年每个月都有自我总结下，所以干了什么很清晰明了，而今年变动比较大，所以到了五月过后例行的总结就坑了。所以这次还要先对五月过后的事情做下梳理。</p>
+<h4 id="迟到的_6~12_月总结">迟到的 6~12 月总结</h4><p>这一段时间开始了我人生中的第一份工作，其实就是苦逼加班码农。从 PHP 玩到 Java，然而两边都学得很肤浅，只到勉强用来写业务的程度，还不到深刻理解的境界。</p>
+<p>工作的事情很枯燥的，讲太多就像发牢骚。<br>期间有事请假回家、回学校几趟，也不是很值得一提的事情。</p>
+<p>不过这些时间并不无趣，自己租了房子后，我有了自己完全独立支配的时间和空间，爬山、逛西湖、看书、画画、宅、开脑洞、睡觉，想干啥就干啥。也交了不少公司的朋友，融入进团体中，也是件很开心的事情。<br>并没有什么十分不满意的事情。</p>
+<p>这几个月的总结就是这样，下面是正式的年度流水帐。</p>
+<h4 id="书及年度最佳书籍">书及年度最佳书籍</h4><p>真心感觉出学校后就没怎么好好读过书，感觉比去年读的少多了，不过整理了下发现还是看了几本。<a href="http://www.douban.com/doulist/39179151/" target="_blank" rel="external">2015 年读过的书 - 豆列</a></p>
+<ol>
+<li>黄金时代 （上个寒假拜读了下王小波的书。修行不够没读出什么来）</li>
+<li>松本行弘的程序世界 （讲 Ruby 的好书，不过还是修行不足，虽然看过但现在已经忘光了）</li>
+<li>程序员的思维修炼 （我只记得挺有意思的）</li>
+<li>JavaScript高级程序设计（第3版） （这本书的效果：能 看懂 JS）</li>
+<li>游戏开发中的人工智能 （学校课程相关，看得挺认真的）</li>
+<li>黑客与画家 （不错的故事书）</li>
+<li>情商：为什么情商比智商更重要 （情商有稍微一点的提高吧，大概）</li>
+<li>代码整洁之道 （好书，主 Java）</li>
+<li>Python编程实战 （实践性的书，看了个大概）</li>
+<li>大型网站技术架构 （对我这菜鸟来说一些概念总结得不错，不过被同事黑了）</li>
+<li>三体 系列三本 （难得的国产好书，脑洞够大）</li>
+</ol>
+<p>双十一花了 ￥600+ 来买书，买了好多书，到现在为止没看完几本 Orz，嘛，算是明年半年份的书吧。</p>
+<p>个人感觉今年看的书整体没去年的让我印象深刻，或许是我没有认真的去研读吧。去年那批算是很强烈的改变我的三观。<br>对我来说，今年的年度最佳书籍是——<strong>「三体」</strong>！准确来说是「三体」系列的三本书。「三体」脑洞之大，让我大开眼界，简直是国产科幻的希望。<br>在这我就不啰嗦安利「三体」，看过的都知道其强大之处。我快成了大刘的粉丝了，已经买了大刘的另外几本书，会慢慢给看完的~</p>
+<h4 id="电影及年度最佳电影">电影及年度最佳电影</h4><p>今年算是迄今为止看看得最多的一年了，寒假在家看了 n 部电影，工作后公司每个月组织一次包场看大片。<br>总的算起来，今年应该看了 40+ 的电影吧，这里就不一一列出来了。</p>
+<p>然后说说年度最佳电影吧，那就是在家看的<strong>「肖申克的救赎」</strong>。公司看的都是当时的热门大片，大片做为消费品一般没什么内涵，我看完并没什么深刻的感触。「肖申克的救赎」则不然，不知道比现在的商业片好到哪去了，具体观影感受看 <a href="http://illuz.github.io/2015/02/02/movies-watched-in-2015-winter-vacation-2/" target="_blank" rel="external">以前写的观后感</a>。<br>（要不是「幽灵公主」我看过很多遍了，不想把老货搬出来，我每年都会选她的！她永远是我的第一！）</p>
+<h4 id="动画及年度动画_top3">动画及年度动画 top3</h4><p>我今年看了几部动画？我一时也说不清，每个季度都追了不少新番，不过有近半的都被我在前面几集弃了。总的来说应该也有不少了，毕竟这是我屈指可数的几个消遣之一呀。<br>感觉如今的番越来越不好看了，只有一几部比较突出的。（可能是我口味变重了）</p>
+<p>年度动画 top3：</p>
+<ol>
+<li>寄生兽 剧情、音乐都特赞！即使漫画看过来看动画也不会觉得腻。从深度上来说不会输给近年的大部分的作品，是难得一见的好作品。</li>
+<li>迷糊餐厅第三季 看了几年终于迎来大结局。おめでとう、おめでとう。</li>
+<li>终物语 现在看的是情怀，依旧还是很喜欢。小说后面出的就没时间再看了。</li>
+</ol>
+<h4 id="漫画及年度漫画_top3">漫画及年度漫画 top3</h4><p>对动画的要求变高让我空出了不少时间转战漫画，漫画可以方便的在手机上离线看，因此漫画看得会比动画多点。今年看过各种热门冷门、清新重口的漫画不计其数，不过智商不高的我没法很好品味漫画真正的艺术、内涵，所以会倾向脑洞、搞笑型的漫画。</p>
+<p>年度漫画 top3：</p>
+<ol>
+<li>战国妖狐 水上悟志老师的作品剧情很赞！人物刻画入木三分！他的其它作品如魂环、惑星公主蜥蜴骑士，都是不错的作品。他的作品就是那种看完意犹未尽的那种。</li>
+<li>超能力者齐木楠雄的灾难 神奇的设定+搞笑，我只感在家看，因为会笑出声来，永远不够看的那种类型。</li>
+<li>GrandBlue 个人认为是年度最搞笑的漫画，原作是井上坚二老师，也就是《笨蛋，测验，召唤兽》的作者。剧情什么的，说出来就没意思了。</li>
+</ol>
+<h4 id="技能">技能</h4><p>今年技能见长了？并没有点亮多少技能。<br>因为开始实习，自由学习的时间变少了，所以今年新点的技能主要是工作需要的 PHP 和 Java 技能，还有一点点的服务器相关的技能，少得可怜。而且这些技能并没多么深入的学习，遇到问题只能各种求助大神，弱爆了 Orz。</p>
+<p>新的一年要想办法多点好玩或者实用的技能了，然后把工作用技能学得深入一点。</p>
+<h4 id="成就">成就</h4><ol>
+<li>工作。我也没想到我这么弱，居然那么快就找到了实习工作。人生成就 get。</li>
+<li><a href="http://illuz.github.io/2015/03/23/got-100-days-streak/" target="_blank" rel="external">Github 100 Day Streak 达成</a>，其实有 147 天的 Streak 的，不过后面工作了就没继续了 Orz。</li>
+<li>画画 50 张达成。（兴趣使然，然而拿不出手）</li>
+</ol>
+<h4 id="剁手">剁手</h4><p>开始赚钱了，有钱就任性了点，剁手买了不少东西。</p>
+<ul>
+<li>双十一买了好多书 - 放书架吃灰</li>
+<li>AKG K450 和 K420 - 平民耳机，还不错</li>
+<li>鼠标 霜冻之蓝 - 不错的鼠标，当时是想买来玩 OSU! 的来着，不过手残换鼠标也无济于事…</li>
+<li>数位板 Intuos 影拓 CTL680 - 入门级的数位板用来入门</li>
+<li>LG Nexus 5X - 用了三年半被刷了几百次的 i9300 寿终正寝，买了 Google 儿子情怀机。</li>
+</ul>
+<h4 id="朋友">朋友</h4><p>今年遇到不少贵人相助，线上线下又交到了不少朋友，我真是个幸运的家伙。<br>只能说，明年还请多指教了。</p>
+<h4 id="2016_数据">2016 数据</h4><ul>
+<li>a acmicpc.info/archives/224 ACM 时期常去的一个网站，提供一些相关的信息</li>
+<li>b book.douban.com 豆瓣读书</li>
+<li>c coursera.com 在线课程网站，有些开始收费模式了</li>
+<li>d devdocs.io 离线的 api 手册</li>
+<li>e ele.me 工作后今年外卖叫的有点多了</li>
+<li>f feedly.com rss 订阅及阅读用</li>
+<li>g github.com 最大同性交友网站</li>
+<li>h null</li>
+<li>i null</li>
+<li>j null</li>
+<li>k keep.google.com Google 便签，手机同步，很方便好用</li>
+<li>l libopac.fjnu.edu.cn 学校的图书馆网站，</li>
+<li>m mogujie.com 公司网站，常上</li>
+<li>n null</li>
+<li>o null</li>
+<li>p pan.baidu.com 度盘，截至今天 3097.85G/3217G</li>
+<li>q null</li>
+<li>r reddit.com/r/programming 很热闹的国外社区</li>
+<li>s solidot.org 一些奇怪的资讯</li>
+<li>t twitter.com 推</li>
+<li>u null</li>
+<li>v www.v2ex.com 曾经天天逛的社区</li>
+<li>w null</li>
+<li>x xiami.com 虾米音乐，常去直播间</li>
+<li>y null</li>
+<li>z www.zybuluo.com 一个在线的 markdown 笔记编辑、整理网站，已转 sublime 本地处理 + dropbox 同步</li>
+</ul>
+<h4 id="2016_年">2016 年</h4><p>不想夸下海口，只求 2016 年能变得更强。<br>我也会勤更新 github 和博客了，确实荒废太久了。</p>
+<p>虽然有点晚了，还是说句：大伙们新年快乐！</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>很久没写文章，博客都长草了。</p>
+<p>时间过得好快，大四已经过了半个学期了。没人跟我提这事，我也没什么自觉，只有闲暇时偶尔才会发现大学生涯只剩几个月了，只能默默感叹时光飞逝。</p>
+<p>这个博客建成也已经有两年多了，虽然没什么内容，也不好看，没折腾太多，我还是通过]]>
+    </summary>
+    
+      <category term="01. 日常" scheme="http://illuz.github.com/tags/01-%E6%97%A5%E5%B8%B8/"/>
+    
+      <category term="归档_2016-01" scheme="http://illuz.github.com/tags/%E5%BD%92%E6%A1%A3-2016-01/"/>
+    
+      <category term="01. 生活" scheme="http://illuz.github.com/categories/01-%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[谈 IQ]]></title>
+    <link href="http://illuz.github.com/2015/08/16/talk-about-IQ/"/>
+    <id>http://illuz.github.com/2015/08/16/talk-about-IQ/</id>
+    <published>2015-08-16T14:18:24.000Z</published>
+    <updated>2015-08-16T14:19:54.000Z</updated>
+    <content type="html"><![CDATA[<p>前几天在 Quora 的订阅中看到有人在问<a href="http://www.quora.com/How-do-I-increase-my-IQ-1" target="_blank" rel="external">「我如何提高自己的智商」(How do I increase my IQ?)</a>（Quora 推的问题都很逗，个人感觉比国内的同类网站有趣多了），打开后看到有 100+ 的回答，都挺好玩的。<br>周末有空就找了下相关的文章来看，智商不咋的我就想写个文章来写下简单的感受。（然而语言组织能力比智商更低，见谅）</p>
+<h2 id="如何提高智商">如何提高智商</h2><p>我从 Quora 中提取了几个靠谱的回答，大概是这几点：（回答太多，原谅我没全部看完）</p>
+<ul>
+<li>对任何事物保持好奇</li>
+<li>了解大脑如何工作</li>
+<li>多进行细节和复杂点的思考</li>
+<li>提高类比能力(Relational Skills)</li>
+<li>物理运动 <a href="https://www.psychologytoday.com/blog/the-athletes-way/201312/can-physical-activities-improve-fluid-intelligence" target="_blank" rel="external">Can Physical Activities Improve Fluid Intelligence?</a></li>
+<li>学习其它语言</li>
+<li>走出舒适的领域（尝试新的技能）</li>
+</ul>
+<p>还有些有趣的回答：</p>
+<ul>
+<li>玩数独</li>
+<li>喝足够的水</li>
+<li>吃些细菌（喝酸奶）</li>
+<li>玩 Crosswords</li>
+<li>玩魔方</li>
+<li>不要摄入太多糖分</li>
+<li>玩乐器</li>
+<li>不要饿着</li>
+<li>背单词</li>
+<li>听古典音乐（有人给了个链接：<a href="http://www.smart-kit.com/s245/how-the-amazing-mozart-k448-can-increase-your-iq-listen-now/" target="_blank" rel="external">How Mozart K448 can increase your IQ – Listen &amp; Try</a>，我决定最近循环放这个)</li>
+</ul>
+<p>（说不定下面这个列表会更靠谱些，哈哈。）<br>其中数独、魔方都是我经常玩的东西，按这说来，我的智商之前可能是更糟糕的。</p>
+<h2 id="IQ_史">IQ 史</h2><p>我的小学时期很喜欢看书来着，除了「少年文艺」、「少年文摘报」、「读者」、「故事会」，还天天跟着书虫基友一起找人借书看，不过都是 SF （科幻）系的。上课看，回家路上看，在家偷偷看，那时看的书真心多。<br>然并卵，我的语言表达能力已退化，记得到到中学后作文能力大减（已扼杀）。</p>
+<p>好，离题了，谈谈有可能更变我的 IQ 的（黑）历史吧。</p>
+<p>我记得小学时有段时间不知道从哪看来的（应该是上面提到的几种读物中看到的，很可能是「读者」），说用左撇子比较聪明，然后怎么开发右脑巴拉巴拉的。我傻傻的还跟着做了。现在还记得里面的几个方法，比如多用左手做事情，闭着眼睛洗澡。甚至现在洗澡时想到这事也会闭着眼来一发（闭着眼睛洗澡）。（IQ up）</p>
+<p>说起来，我小学四年级的时候还拿过学校数学竞赛的一等奖呢，说不定是小学时候的 IQ 是人生巅峰？<br>参加奥数没有大的成果。（IQ down）</p>
+<p>初中开始，我爸就换了只手机，Nokia 多少来着，里面有自带了几个小游戏，其中就有数独，当时叫「数字九宫格」，我最开始接触数独就是从那开始的。之前看过一些杂志后面也有数独，不过都太难而没敢做。Nokia 的数独是分难易的，所以我很容易地学会的解简单的数独，当时也只完成过几个高点的难度。<br>Nokia 里还有个游戏，叫「智力王」，也是很神的一个游戏，有不少 IQ 测试游戏，我当时也玩了一阵。<br>不过老爸的手机玩多了老爸可不乐意了，所以就没玩多少次。<br>初中看了推理类小说、动漫后，心想逻辑真是好东西！然后在老爸老妈的书架上翻到一本逻辑学的教材，一块多非常旧的那种，里面的内容都是一些概念，什么内涵外延、排他归一的，翻了几下就没兴趣了，现在对那几个概念依旧不懂。（IQ up）<br>（说起来之前给我爸买新手机，那只旧的 Nokia 现在在我这来着，有空再玩玩）</p>
+<p>初中开始看各种动漫、轻小说。（脑洞 up，IQ down）</p>
+<p>高中后学校有图书馆了（小规模两层图书室），于是借过不少书（看没看完是一回事）。<br>然后在第二层的书架上看到一本关于记忆力的书，那本书书皮好红的，从回想起的配图看，应该是老外写的。（啊找到了，是<a href="http://book.douban.com/subject/1255655/" target="_blank" rel="external">「超级记忆力训练」</a>）然后就借过来翻了一遍，学了点记忆单词的方法，什么联想法、形像法（大概的一些方法可以看豆瓣的一评论：<a href="http://book.douban.com/review/5356544/" target="_blank" rel="external">粗略笔记</a>）。<br>里面印象最深是就是书里说 17-18 岁的记忆力是最好的，然后我就常会想，嗯，我还没到记忆力最好的时候呢。不过当到了 17、18 岁的时候，就把这事抛在脑后了。过了 18 岁后又想起，哎呀，我过了记忆力最好的时候了！<br>想想我还是太天真。（IQ up）</p>
+<p>高中开始家里有了电脑，玩了一段时间的脑残 DNF。（IQ down）</p>
+<p>大学很幸运加入了学院的 ACM 队伍，和一群智商不低的人们一起训练算法和编程，还非常幸运的拿了几个小奖。<br>大学虽然有个很大的图书馆，我也借过几百本书，不过并没有借过 IQ 和记忆力直接相关的书，不过个人认为有几本书对我的思维影响较大：</p>
+<ul>
+<li>「批判性思维 : 带你走出思维的误区」</li>
+<li>「暗时间」</li>
+<li>「程序员的思维修炼 : 开发认知潜能的九堂课」</li>
+<li>「学会提问」</li>
+</ul>
+<p>这些书曾让我愤青过一段时间，不过现在已将他们忘光。<br>（IQ up）</p>
+<p><del>玩 LL。</del>（我不想引战）<br>大学各种闲，无所事事啊。（IQ down）</p>
+<p>我从小到大就是接受中国式的填鸭式的学习，现在都已经习惯了，正在努力改变。<br>典型的「海绵式」思维方式。很是羡慕别人「淘金式」思维方式，正在努力学习中。(IQ down down down)</p>
+<h2 id="自测">自测</h2><p>从瞎扯的 IQ 史来看，我的 IQ 是趋于平衡甚至在下降的，那我现在 IQ 是多少呢。<br>好的，今天下午在写这文章前饿着肚子测了下，IQ 为 118，中等的成绩。测试地址在这：<a href="http://iqtest.dk/main.swf" target="_blank" rel="external">http://iqtest.dk/main.swf</a></p>
+<p>唔，我觉得我从小就很傻，不能理解全局的情况，可能是因为我后脑勺没了（小时候一个姿势睡睡平的）。所以这个 IQ 是我的意料之外，可能我运气好，不会的蒙对了。<br>小学三四年级的那段时间可能吃错东西让 IQ 有点小小的提升了吧。</p>
+<h2 id="努力与天赋">努力与天赋</h2><p>如果你的 IQ 测试没我高也不要沮丧啦，那种东西多做几遍就高了，说不定是你肚子太饿了没状态。<br>IQ 不能代表什么，所谓知乎名言「以大多数人的努力程度之低，根本轮不到拼天赋」。况且拼天赋也不一定能拼赢。所以还是自己好好努力了。<br>还有著名的「一万小时天才理论」，简直洗脑，总觉得人生不够用了。</p>
+<p>关于努力，我也不太会扯，总之，「可怕的不是你不够努力，可怕的是比你聪明的人比你努力」。<br>我大概是那种既不够聪明又不够努力的人吧。</p>
+<hr>
+<p>（此文写给最近懒惰的自己）<br>（全文完）</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>前几天在 Quora 的订阅中看到有人在问<a href="http://www.quora.com/How-do-I-increase-my-IQ-1" target="_blank" rel="external">「我如何提高自己的智商」(How do I increa]]>
+    </summary>
+    
+      <category term="01. 日常" scheme="http://illuz.github.com/tags/01-%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[「翻译」写出可读的 Python 正则表达式]]></title>
+    <link href="http://illuz.github.com/2015/08/09/readable-regular-expressions-in-python/"/>
+    <id>http://illuz.github.com/2015/08/09/readable-regular-expressions-in-python/</id>
+    <published>2015-08-09T10:05:21.000Z</published>
+    <updated>2015-08-09T10:38:46.000Z</updated>
+    <content type="html"><![CDATA[<p>（原文出自 Tony S. Yu 的 <a href="http://tonysyu.github.io/readable-regular-expressions-in-python.html" target="_blank" rel="external"><em>Readable regular expressions in Python</em></a>，翻译已征得作者同意，非常感谢 Tony S. Yu。）<br>（博客太丑，特别是代码展示 TAT，如果无法忍受可以<a href="https://github.com/illuz/translations/blob/master/15.8.9-%E5%86%99%E5%87%BA%E5%8F%AF%E8%AF%BB%E7%9A%84%20Python%20%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F.md" target="_blank" rel="external"> 到 Github 上看</a>。）</p>
+<hr>
+<p>前段时间，我需要解析 Python <a href="https://mkaz.com/2012/10/10/python-string-format/" target="_blank" rel="external">格式化创建</a> 的一些字符串。其实有个包就叫 <a href="https://pypi.python.org/pypi/parse" target="_blank" rel="external">解析（parse）</a>，它用了和字符串格式化一样的语法来从一个字符串中提取数据。不幸的是，因为一些理由我不想用这个包，于是我选择了更快的 <a href="http://www.regular-expressions.info/quickstart.html" target="_blank" rel="external">正则表达式</a>（regular expressions，简称 regexes）。</p>
+<p>请注意，本文假定您已经熟悉正则表达式的基本语法。如果你不熟悉正则表达式，<a href="http://regexone.com/" target="_blank" rel="external">http://regexone.com/</a> 提供了很赞的互动教程。</p>
+<hr>
+<h3 id="命名捕获组（Named_capturing_groups）">命名捕获组（Named capturing groups）</h3><p>我准备使用<strong>命名捕获组</strong>（<a href="http://www.regular-expressions.info/named.html" target="_blank" rel="external"><em>Named capturing groups</em></a>），可是它的语法实在太难看了。所以让我们写了个简单的 <code>name_regex</code> 函数让它可读性好一点：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">name_regex</span><span class="params">(name, pattern)</span>:</span></span><br><span class="line">    <span class="string">"""返回一个‘命名捕获组’正则式"""</span></span><br><span class="line">    <span class="keyword">return</span> <span class="string">r'(?P&lt;&#123;name&#125;&gt;&#123;pattern&#125;)'</span>.format(name=name, pattern=pattern)</span><br></pre></td></tr></table></figure>
+<p>为了搞清楚这个函数到底做了啥，我们传入两个字符串：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">print</span> name_regex(<span class="string">'myname'</span>, <span class="string">'Tony'</span>)</span><br></pre></td></tr></table></figure>
+<p>它返回：</p>
+<figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">(?P&#60;myname&#62;Tony)</span><br></pre></td></tr></table></figure>
+<p>这个字符串是个正则表达式，它所做的是：匹配目标字符串（<code>Tony</code>）并将结果保存在一个命名组（<code>myname</code>）中。</p>
+<p>来个更有趣的例子吧，假设你想从一句话中提取一个价格，你可以找后面跟着数字和小数点的美元符号。</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># 这并不是个好的正则式，因为它会匹配任何数字和小数点，不过现在就让它这样保持简单</span></span><br><span class="line">rx_price = name_regex(<span class="string">'price'</span>, <span class="string">r'\$[\d.]+'</span>)</span><br></pre></td></tr></table></figure>
+<p>像任何其他正则式一样，你可以用 Python 的内置正则表达式包 <code>re</code> 来使用这个正则式：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> re</span><br><span class="line"></span><br><span class="line">match = re.search(rx_price, <span class="string">"All your's for only $9.95!"</span>)</span><br><span class="line"><span class="keyword">print</span> match.groupdict()[<span class="string">'price'</span>]</span><br></pre></td></tr></table></figure>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="variable">$9</span>.<span class="number">95</span></span><br></pre></td></tr></table></figure>
+<p>这的确提取我们想要的文字，但如果你只是找单一的串，用命名捕获组并没有多大用处。</p>
+<hr>
+<h3 id="用命名捕获组格式化字符串（Named_regexes_with_string_formatting）">用命名捕获组格式化字符串（Named regexes with string formatting）</h3><p>这次我们不用单一的命名捕获组正则式了。让我们创建一个<code>(name, pattern)</code>形式的正则式字典吧：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">named_regexes</span><span class="params">(**names_and_patterns)</span>:</span></span><br><span class="line">    <span class="string">"""返回一个包含多个对应命名捕获组的正则式字典"""</span></span><br><span class="line">    <span class="keyword">return</span> &#123;k: name_regex(k, p) <span class="keyword">for</span> k, p <span class="keyword">in</span> names_and_patterns.items()&#125;</span><br></pre></td></tr></table></figure>
+<p>如果你觉得这看起来有点奇怪，那只是因为我们 <a href="http://stackoverflow.com/questions/1769403/understanding-kwargs-in-python" target="_blank" rel="external">打包参数为一个字典</a>，并用 <a href="http://www.diveintopython3.net/comprehensions.html#dictionarycomprehension" target="_blank" rel="external">字典推导式(Dictionary Comprehensions)</a> 来处理这个字典。现在我们用这个来创建处理时间戳的正则式：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">rx_letters = <span class="string">r'[A-z]+'</span></span><br><span class="line">rx_patterns = named_regexes(</span><br><span class="line">    month=rx_letters,           <span class="comment"># 任意字符</span></span><br><span class="line">    day=<span class="string">r'\d&#123;1,2&#125;'</span>,             <span class="comment"># 1 或 2 个数字</span></span><br><span class="line">    time=<span class="string">r'\d&#123;2&#125;:\d&#123;2&#125;:\d&#123;2&#125;'</span>,  <span class="comment"># 用':'分开的 3 对数字</span></span><br><span class="line">    year=<span class="string">r'\d&#123;4&#125;'</span>               <span class="comment"># 4 个数字</span></span><br><span class="line">)</span><br></pre></td></tr></table></figure>
+<p>来看看它是什么样的：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">from</span> pprint <span class="keyword">import</span> pprint</span><br><span class="line"></span><br><span class="line">pprint(rx_patterns)</span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">&#123;<span class="string">'day'</span>: <span class="string">'(?P&lt;day&gt;\d&#123;1,2&#125;)'</span>,</span><br><span class="line"> <span class="string">'month'</span>: <span class="string">'(?P&lt;month&gt;[A-z]+)'</span>,</span><br><span class="line"> <span class="string">'time'</span>: <span class="string">'(?P&lt;time&gt;\d&#123;2&#125;:\d&#123;2&#125;:\d&#123;2&#125;)'</span>,</span><br><span class="line"> <span class="string">'year'</span>: <span class="string">'(?P&lt;year&gt;\d&#123;4&#125;)'</span>&#125;</span><br></pre></td></tr></table></figure>
+<p>这不是很可读，但关键是使用它。例如，让我们考虑以下时间戳：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">timestamp = <span class="string">"Date: Apr 12 09:51:23 2015 -0500"</span></span><br></pre></td></tr></table></figure>
+<p>我们可以用刚刚生成的正则式字典，来格式化字符串，来捕获我们需要的数据：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">rx_timestamp = <span class="string">"Date: &#123;month&#125; &#123;day&#125; &#123;time&#125; &#123;year&#125;"</span>.format(**rx_patterns)</span><br><span class="line"><span class="keyword">print</span> re.search(rx_timestamp, timestamp).groupdict()</span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#123;<span class="string">'month'</span>: <span class="string">'Apr'</span>, <span class="string">'year'</span>: <span class="string">'2015'</span>, <span class="string">'day'</span>: <span class="string">'12'</span>, <span class="string">'time'</span>: <span class="string">'09:51:23'</span>&#125;</span><br></pre></td></tr></table></figure>
+<p>成功了！我们提取出了方便使用的目标数据。</p>
+<hr>
+<h3 id="包装成一个函数（Putting_it_all_together）">包装成一个函数（Putting it all together）</h3><p>让我们把这些包装成一个函数，该函数输入需要解析的数据、一个模板字符串、一些命名及正则表达式的组合，并按字典形式返回我们需要的数据：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">match_regex_template</span><span class="params">(string, template, **keys_and_patterns)</span>:</span></span><br><span class="line">    <span class="string">"""Return dictionary of matches.</span><br><span class="line"></span><br><span class="line">    Parameters</span><br><span class="line">    ----------</span><br><span class="line">    string : str</span><br><span class="line">        包含所需的数据的字符串。</span><br><span class="line">    template : str</span><br><span class="line">        包含命名字段的模板字符串。</span><br><span class="line">    keys_and_patterns : str</span><br><span class="line">        模板字符串中各个字段的正则式。</span><br><span class="line">    """</span></span><br><span class="line">    named_patterns = named_regexes(**keys_and_patterns)</span><br><span class="line">    pattern = template.format(**named_patterns)</span><br><span class="line"></span><br><span class="line">    match = re.search(pattern, string)</span><br><span class="line">    <span class="keyword">if</span> match <span class="keyword">is</span> <span class="keyword">None</span>:</span><br><span class="line">        <span class="keyword">raise</span> RuntimeError(error_message.format(string=string,</span><br><span class="line">                                                template=template,</span><br><span class="line">                                                pattern=pattern))</span><br><span class="line">    <span class="keyword">return</span> match.groupdict()</span><br><span class="line"></span><br><span class="line">error_message = <span class="string">"""</span><br><span class="line">    string: &#123;string&#125;</span><br><span class="line">    template: &#123;template&#125;</span><br><span class="line">    pattern: &#123;pattern&#125;</span><br><span class="line">"""</span></span><br></pre></td></tr></table></figure>
+<p>这个函数使用了上面的几个函数。在写正则表达式时难免也会写错，所以这个函数也包含了错误处理，以帮助调试。</p>
+<p>为了测试这个函数，我们可以这样做：</p>
+<p>首先，我们需要一个模板字符串，加上一些数据，并产生一个测试用的目标字符串：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">greeting_template = <span class="string">"Hey &#123;name&#125;! Welcome to &#123;site&#125;!"</span></span><br><span class="line">input_attrs = dict(name=<span class="string">'you'</span>, site=<span class="string">'tonysyu.github.io'</span>)</span><br><span class="line">greeting = greeting_template.format(**input_attrs)</span><br><span class="line"><span class="keyword">print</span> greeting</span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Hey you! Welcome to tonysyu.github.io!</span><br></pre></td></tr></table></figure>
+<p>然后我们就可以用模板字符串和目标字符串来试试 <code>match_regex_template</code> 函数能不能解析出我们要的数据了：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">rx_anything = <span class="string">'.+'</span></span><br><span class="line">attrs = match_regex_template(greeting,</span><br><span class="line">                             greeting_template,</span><br><span class="line">                             name=rx_anything,</span><br><span class="line">                             site=rx_anything)</span><br><span class="line"><span class="keyword">print</span> attrs</span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#123;<span class="string">'name'</span>: <span class="string">'you'</span>, <span class="string">'site'</span>: <span class="string">'tonysyu.github.io'</span>&#125;</span><br></pre></td></tr></table></figure>
+<p>成功了！</p>
+<hr>
+<h3 id="注意事项（Caveats)">注意事项（Caveats)</h3><p>虽然这个函数测试正常，但你要小心。里面有个非常懒惰的正则表达式：<code>rx_anything</code>，它能捕获，额，任何东西。如果有明显的数据边界，那么这并不是一个问题。但如果边界模糊一点，那么你就必须动动脑筋来解决这个问题了。例如，我们可以修改上面的 <code>greeting</code> 让它热情点：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">excited_greeting = greeting + <span class="string">'!!!'</span></span><br><span class="line"><span class="keyword">print</span> excited_greeting</span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Hello you! Welcome to tonysyu.github.io!!!!</span><br></pre></td></tr></table></figure>
+<p>使用和上面同样的方法，是这样的：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">attrs = match_regex_template(excited_greeting,</span><br><span class="line">                             greeting_template,</span><br><span class="line">                             name=rx_anything,</span><br><span class="line">                             site=rx_anything)</span><br><span class="line"><span class="keyword">print</span> attrs[<span class="string">'site'</span>]</span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">tonysyu.github.io!!!</span><br></pre></td></tr></table></figure>
+<p>这个热情有点过头了。为了取到所需数据，我们需要更加严格的把惊叹号排除出去：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">rx_site = <span class="string">'[^!]+'</span>  <span class="comment"># anything other than '!'</span></span><br><span class="line">attrs = match_regex_template(excited_greeting,</span><br><span class="line">                             greeting_template,</span><br><span class="line">                             name=rx_anything,</span><br><span class="line">                             site=rx_site)</span><br><span class="line"><span class="keyword">print</span> attrs[<span class="string">'site'</span>]</span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">tonysyu.github.io</span><br></pre></td></tr></table></figure>
+<p>通过这个小小的改动，你应该知道要注意什么了。</p>
+<p>正则表达式是出了名的混淆，但如果你仔细地把它拆解成带标识的正则式，也可以变得很有可读性的。<br>这小小的习惯会让 <em>“未来的你”</em> 少恨 <em>“以前的你”</em> 一点。</p>
+<hr>
+<p>（文章到这就翻译完了~）<br>（发上去才发现我的博客好丑，特别是代码展示 TAT，如果无法忍受可以<a href="https://github.com/illuz/translations/blob/master/15.8.9-%E5%86%99%E5%87%BA%E5%8F%AF%E8%AF%BB%E7%9A%84%20Python%20%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F.md" target="_blank" rel="external"> 到 Github 上看</a>。）</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>（原文出自 Tony S. Yu 的 <a href="http://tonysyu.github.io/readable-regular-expressions-in-python.html" target="_blank" rel="external"><em>Read]]>
+    </summary>
+    
+      <category term="Python" scheme="http://illuz.github.com/tags/Python/"/>
+    
+      <category term="翻译" scheme="http://illuz.github.com/tags/%E7%BF%BB%E8%AF%91/"/>
+    
+      <category term="翻译" scheme="http://illuz.github.com/categories/%E7%BF%BB%E8%AF%91/"/>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[三、四、五月总结（闲扯）]]></title>
     <link href="http://illuz.github.com/2015/06/08/summary-of-2015-march-april-may/"/>
     <id>http://illuz.github.com/2015/06/08/summary-of-2015-march-april-may/</id>
     <published>2015-06-07T16:36:59.000Z</published>
-    <updated>2015-06-07T16:39:41.716Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<p>三四月份生活变动很大，从学校跑杭州实习了，事情不少，本来打算两个月一块写了，没想到拖了这么久，结果现在只能三个月一块写了（成季度总结了，叹气）。</p>
 <p>然而我并不打算长篇大论，这只是闲扯，我也不会写像之前那样列清单出来一个个划掉。</p>
 <hr>
@@ -62,7 +310,7 @@
     <link href="http://illuz.github.com/2015/05/31/v2ex-150531/"/>
     <id>http://illuz.github.com/2015/05/31/v2ex-150531/</id>
     <published>2015-05-31T13:10:13.000Z</published>
-    <updated>2015-06-07T16:23:09.603Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<p>我准备停止「每周v2ex记录」这个系列。<br>主要原因是我觉得我没有把握一周，或两周，甚至一个月，这样定期的时段来在 V 站上收集到一些高质量的文章。<br>而且 V 站上的帖子质量已经远不如前了。</p>
 <p>不过这并不意味这我不再写 v2ex 记录，我还是会逛 v2ex 的，如果看到了什么好的帖子会收藏下来，等累计到一定量了再发出来。　<br>也就是说「v2ex 记录」变成了一个不定期更新新坑<br>下面可以看看这周热门的几篇帖子。<br>(这次的几篇帖子可能是这个系列最没有质量的，不想浪费时间的可以略过。)</p>
 <hr>
@@ -109,7 +357,7 @@
     <link href="http://illuz.github.com/2015/05/24/v2ex-150524/"/>
     <id>http://illuz.github.com/2015/05/24/v2ex-150524/</id>
     <published>2015-05-24T15:46:51.000Z</published>
-    <updated>2015-05-24T15:49:15.596Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<p>量挺少的，sigh。</p>
 <hr>
 <ol>
@@ -141,7 +389,7 @@
     <link href="http://illuz.github.com/2015/05/09/v2ex-150509/"/>
     <id>http://illuz.github.com/2015/05/09/v2ex-150509/</id>
     <published>2015-05-09T15:40:09.000Z</published>
-    <updated>2015-05-16T16:58:10.011Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<ol>
 <li><p><a href="http://www.v2ex.com/t/184842" target="_blank" rel="external">20150420 :-)</a><br>V2 备案日，没什么内容。</p>
 </li>
@@ -175,7 +423,7 @@
     <link href="http://illuz.github.com/2015/04/28/v2ex-change-to-double/"/>
     <id>http://illuz.github.com/2015/04/28/v2ex-change-to-double/</id>
     <published>2015-04-28T02:14:06.000Z</published>
-    <updated>2015-05-03T12:11:47.133Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<p>从 V2EX 各种事件被世人所知（如麦X事件），到被 GFVV 墙，再到网站备案，（个人感觉）论坛小白越来越多，有质量的帖子越来越少了，能记录下来的帖子也不多了。</p>
 <p>所以今后这个系列改为每两周一发。</p>
 <p>Sigh..</p>
@@ -200,7 +448,7 @@
     <link href="http://illuz.github.com/2015/04/20/v2ex-150420/"/>
     <id>http://illuz.github.com/2015/04/20/v2ex-150420/</id>
     <published>2015-04-20T02:34:54.000Z</published>
-    <updated>2015-05-03T12:11:47.133Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<p>上周跑杭州了，这次是两周的份~</p>
 <hr>
 <ol>
@@ -240,7 +488,7 @@
     <link href="http://illuz.github.com/2015/04/16/one-interview/"/>
     <id>http://illuz.github.com/2015/04/16/one-interview/</id>
     <published>2015-04-16T13:57:50.000Z</published>
-    <updated>2015-06-07T16:26:42.926Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<p>为尊重出题者，本文已删除，有意者请翻 github 之前的版本。<br>对此举动造成困扰的话我表示抱歉。</p>
 ]]></content>
     <summary type="html">
@@ -261,7 +509,7 @@
     <link href="http://illuz.github.com/2015/04/06/v2ex-150406/"/>
     <id>http://illuz.github.com/2015/04/06/v2ex-150406/</id>
     <published>2015-04-06T13:10:41.000Z</published>
-    <updated>2015-05-03T12:11:47.133Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<ol>
 <li><p><a href="https://www.v2ex.com/t/180636" target="_blank" rel="external">如何完美的在网上保护个人隐私？</a><br>很值得考虑和借鉴。</p>
 </li>
@@ -293,7 +541,7 @@
     <link href="http://illuz.github.com/2015/03/30/v2ex-150330/"/>
     <id>http://illuz.github.com/2015/03/30/v2ex-150330/</id>
     <published>2015-03-30T02:34:56.000Z</published>
-    <updated>2015-05-03T12:11:47.133Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<ol>
 <li><p><a href="https://www.v2ex.com/t/178712" target="_blank" rel="external">功能强大的 markdown 编辑器： Markdown Plus</a><br>又一款强力的 Markdown 编辑器。<br>在线测试：<a href="http://mdp.tylingsoft.com/index.zh_CN.html" target="_blank" rel="external">http://mdp.tylingsoft.com/index.zh_CN.html</a></p>
 </li>
@@ -325,7 +573,7 @@
     <link href="http://illuz.github.com/2015/03/28/github-is-fxxked/"/>
     <id>http://illuz.github.com/2015/03/28/github-is-fxxked/</id>
     <published>2015-03-28T07:14:43.000Z</published>
-    <updated>2015-05-03T12:11:47.120Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<p>2015/03/27, GitHub is hit by DDoS attack.</p>
 <blockquote>
 <p><a href="https://news.ycombinator.com/item?id=9275041" target="_blank" rel="external">Hacker News</a><br>Someone in the middle between a client outside China and Baidu, allegedly it should be the Great Fire Wall, changed the javascript file from Baidu and added some code so that any client executing the javascript file will periodically access <a href="https://github.com/greatfire/" target="_blank" rel="external">https://github.com/greatfire/</a> and <a href="https://github.com/cn-nytimes/" target="_blank" rel="external">https://github.com/cn-nytimes/</a>. This means any user who is accessing a site using Baidu Analytics will be an attacker to github.</p>
@@ -357,7 +605,7 @@
     <link href="http://illuz.github.com/2015/03/23/got-100-days-streak/"/>
     <id>http://illuz.github.com/2015/03/23/got-100-days-streak/</id>
     <published>2015-03-23T01:44:46.000Z</published>
-    <updated>2015-05-03T12:11:47.120Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<p><a href="https://github.com/illuz" target="_blank" rel="external">My Github</a></p>
 <hr>
 <h3 id="成就达成！">成就达成！</h3><p>自从加入 <a href="http://code-marathon.github.io/" target="_blank" rel="external">Code Marathon / 编程马拉松 / プログラミングマラソン</a> 坚持至今，虽然中间 Github 抽风让我断了几天只好从新再来。<br>不过，100 天总算达成了~<br>Cheers~</p>
@@ -416,7 +664,7 @@
     <link href="http://illuz.github.com/2015/03/23/v2ex-150322/"/>
     <id>http://illuz.github.com/2015/03/23/v2ex-150322/</id>
     <published>2015-03-23T01:04:12.000Z</published>
-    <updated>2015-05-03T12:11:47.133Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<ol>
 <li><p><a href="https://www.v2ex.com/t/177216" target="_blank" rel="external">你怎么看 12306 推出的图片验证码？</a><br>早在 Google 的网站上见过这种验证码了，不过人家 Google 的验证码并不是只是这种，而是几种轮流出现的。<br>单一的形式就是一个非常大的漏洞。</p>
 </li>
@@ -448,7 +696,7 @@
     <link href="http://illuz.github.com/2015/03/16/v2ex-150316/"/>
     <id>http://illuz.github.com/2015/03/16/v2ex-150316/</id>
     <published>2015-03-16T01:44:06.000Z</published>
-    <updated>2015-05-03T12:11:47.130Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<p>近来一直在准备找工作，没怎么逛 V2，这周只有 5 篇。</p>
 <hr>
 <ol>
@@ -484,7 +732,7 @@
     <link href="http://illuz.github.com/2015/03/09/v2ex-150308/"/>
     <id>http://illuz.github.com/2015/03/09/v2ex-150308/</id>
     <published>2015-03-09T05:53:49.000Z</published>
-    <updated>2015-05-03T12:11:47.130Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<ol>
 <li><p><a href="https://www.v2ex.com/t/174127" target="_blank" rel="external">现在有什么比较好用的云播软件</a><br>各种“樯橹灰飞烟灭”方案，各种脚本，不忍直视，默默分享。</p>
 </li>
@@ -517,7 +765,7 @@
     <link href="http://illuz.github.com/2015/03/01/summary-of-2015-febrary/"/>
     <id>http://illuz.github.com/2015/03/01/summary-of-2015-febrary/</id>
     <published>2015-03-01T13:57:02.000Z</published>
-    <updated>2015-05-03T12:11:47.123Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<p>寒假前讲了好多计划，现在来打脸了。（最近打脸打多了，脸都肿了 QAQ）<br>寒假完成度最高的是”看电影”，其它都或多或少坑了。</p>
 <p>首先是看了 30+ 部电影，就冲这个，寒假算是过得值了。<br>还看完了《网球王子》（之前一直在看），还有《十二国记》，都还行。</p>
 <p>跟老妈学了几道我喜欢的小菜，然后就没怎么再动了…</p>
@@ -558,7 +806,7 @@
     <link href="http://illuz.github.com/2015/03/01/v2ex-150301/"/>
     <id>http://illuz.github.com/2015/03/01/v2ex-150301/</id>
     <published>2015-03-01T03:52:36.000Z</published>
-    <updated>2015-05-03T12:11:47.130Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<p>2月27日， V2EX 被墙，意料之中的事情。<br>不过这不会直接影响我继续填这个坑的 :) 。</p>
 <hr>
 <ol>
@@ -598,7 +846,7 @@
     <link href="http://illuz.github.com/2015/03/01/movies-watched-in-2015-winter-vacation-5/"/>
     <id>http://illuz.github.com/2015/03/01/movies-watched-in-2015-winter-vacation-5/</id>
     <published>2015-03-01T03:14:20.000Z</published>
-    <updated>2015-05-03T12:11:47.123Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<p>寒假结束了。<br>看了好多电影，算了下，有 4+8+8+5+9=34 部。<br>这个寒假值了~</p>
 <hr>
 <h3 id="(02-16)_星运里的错_The_Fault_in_Our_Stars_和_明日边缘_Edge_of_Tomorrow">(02.16) <a href="http://movie.douban.com/subject/22733673/" target="_blank" rel="external">星运里的错 The Fault in Our Stars</a> 和 <a href="http://movie.douban.com/subject/4746257/" target="_blank" rel="external">明日边缘 Edge of Tomorrow</a></h3><p>这两部都是去年比较不错的电影。</p>
@@ -641,7 +889,7 @@
     <link href="http://illuz.github.com/2015/02/17/movies-watched-in-2015-winter-vacation-4/"/>
     <id>http://illuz.github.com/2015/02/17/movies-watched-in-2015-winter-vacation-4/</id>
     <published>2015-02-17T04:59:12.000Z</published>
-    <updated>2015-05-03T12:11:47.123Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<p>年末客人不少，再加上爬山，所以本周只看了点。</p>
 <hr>
 <h3 id="(02-09)千与千寻_千と千尋の神隠し">(02.09)<a href="http://movie.douban.com/subject/1291561/" target="_blank" rel="external">千与千寻 千と千尋の神隠し</a></h3><p>宫老的神片，果然看了太多各种不同的电影要来部神片调剂调剂，虽然看过好几遍了，还是看得十分过瘾！</p>
@@ -678,7 +926,7 @@
     <link href="http://illuz.github.com/2015/02/16/v2ex-150215/"/>
     <id>http://illuz.github.com/2015/02/16/v2ex-150215/</id>
     <published>2015-02-16T05:39:36.000Z</published>
-    <updated>2015-05-03T12:11:47.130Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<p>东西不是很多，因为年要来了，希望下周有空发。</p>
 <hr>
 <ol>
@@ -720,7 +968,7 @@ git config --global https<span class="class">.proxy</span> <span class="string">
     <link href="http://illuz.github.com/2015/02/09/movies-watched-in-2015-winter-vacation-3/"/>
     <id>http://illuz.github.com/2015/02/09/movies-watched-in-2015-winter-vacation-3/</id>
     <published>2015-02-09T07:13:29.000Z</published>
-    <updated>2015-05-03T12:11:47.120Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<p>年末在帮家里大扫除，发晚了…</p>
 <h3 id="(02-02)_超体_Lucy">(02.02) <a href="http://movie.douban.com/subject/24404677/" target="_blank" rel="external">超体 Lucy</a></h3><p>之前传得很神，连我都知道这部电影，说明宣传做得不错 -.- 。<br>看完之后感觉还不错，不过整片都在拍女主，简直就是个人秀，这风格不太喜欢。<br>片中还有些不合逻辑的情节，明明有了超能力了，还那么磨蹭，简直看不下去了，直接都放倒就好了。<br>这剧情对于看了多年动漫的我来说，脑洞还不够大，得到超能力后完全可以大搞一场的，真不知道发挥 =w=。</p>
 <hr>
@@ -757,7 +1005,7 @@ git config --global https<span class="class">.proxy</span> <span class="string">
     <link href="http://illuz.github.com/2015/02/09/v2ex-150208/"/>
     <id>http://illuz.github.com/2015/02/09/v2ex-150208/</id>
     <published>2015-02-09T07:01:39.000Z</published>
-    <updated>2015-05-03T12:11:47.130Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<ol>
 <li><p><a href="http://www.v2ex.com/t/167582" target="_blank" rel="external">4 个函数穿透代理，暴露真实 IP 地址！！亲测属实</a><br>真是太可怕了，ss 也不能隐藏 IP ，连局域网的地址都暴露无疑。<br>听说只好开 Firefox 的 NoScript 才能真正隐藏。</p>
 </li>
@@ -793,7 +1041,7 @@ git config --global https<span class="class">.proxy</span> <span class="string">
     <link href="http://illuz.github.com/2015/02/02/v2ex-150201/"/>
     <id>http://illuz.github.com/2015/02/02/v2ex-150201/</id>
     <published>2015-02-02T02:00:05.000Z</published>
-    <updated>2015-05-03T12:11:47.130Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<p>没什么干货，感觉 V2 上水帖越来越多了…</p>
 <hr>
 <ol>
@@ -827,7 +1075,7 @@ git config --global https<span class="class">.proxy</span> <span class="string">
     <link href="http://illuz.github.com/2015/02/02/movies-watched-in-2015-winter-vacation-2/"/>
     <id>http://illuz.github.com/2015/02/02/movies-watched-in-2015-winter-vacation-2/</id>
     <published>2015-02-01T16:18:39.000Z</published>
-    <updated>2015-05-03T12:11:47.120Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<p>寒假尽量每天一部电影 =w=。<br>稍微记录下喜欢的台词和观影感受。</p>
 <hr>
 <h3 id="(01-26)_复仇者联盟_The_Avengers">(01.26) <a href="http://movie.douban.com/subject/1866479/" target="_blank" rel="external">复仇者联盟 The Avengers</a></h3><p>这里面的人物，<br>只看了美国队长，雷神，绿巨人，<br>不认识钢铁侠，黑寡妇，鹰眼。</p>
@@ -886,7 +1134,7 @@ git config --global https<span class="class">.proxy</span> <span class="string">
     <link href="http://illuz.github.com/2015/01/25/v2ex-150125/"/>
     <id>http://illuz.github.com/2015/01/25/v2ex-150125/</id>
     <published>2015-01-25T14:40:22.000Z</published>
-    <updated>2015-05-03T12:11:47.130Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<p>这周考试浪费了一天，回家浪费了一天，断电浪费了一天…</p>
 <hr>
 <ol>
@@ -930,7 +1178,7 @@ git config --global https<span class="class">.proxy</span> <span class="string">
     <link href="http://illuz.github.com/2015/01/25/movies-watched-in-2015-winter-vacation-1/"/>
     <id>http://illuz.github.com/2015/01/25/movies-watched-in-2015-winter-vacation-1/</id>
     <published>2015-01-25T14:17:41.000Z</published>
-    <updated>2015-05-03T12:11:47.120Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<p>寒假尽量每天一部电影 =w=。<br>稍微记录下喜欢的台词和观影感受。</p>
 <hr>
 <h3 id="(01-21)_幽灵公主_もののけ姫">(01.21) <a href="http://movie.douban.com/subject/1297359/" target="_blank" rel="external">幽灵公主　もののけ姫</a></h3><p>最喜欢 <code>アシタカ</code> 和 <code>サン</code> 在 <code>シシ神</code> 的头被打下后暴走后的场景[01:55:00+]：</p>
@@ -999,7 +1247,7 @@ git config --global https<span class="class">.proxy</span> <span class="string">
     <link href="http://illuz.github.com/2015/01/22/summary-of-2015-january/"/>
     <id>http://illuz.github.com/2015/01/22/summary-of-2015-january/</id>
     <published>2015-01-21T16:25:47.000Z</published>
-    <updated>2015-05-03T12:11:47.123Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<p>从 ACM 退役后就没怎么干事（虽然玩 ACM 也没干什么事），学了丁点 JS 的东西，然后就是复习考试，长跪不起 QAQ…</p>
 <p>今年寒假算挺长的，所以可以找点事玩玩，不过正常寒假，不，假期我都会很颓废的，因此还是不要抱太大的期待了。<br>不管能否完成，我还是做下计划，<s>来提高下B 格</s>，来让寒假有点目标可以做 :)。</p>
 <p>突然发现已经一月末了，回头再写个一月总结二月计划内容有点冲突，于是我机智的来偷个懒，本文就兼任一月总结吧 =w=，反正一月接下去也不会再干什么事了。</p>
@@ -1050,7 +1298,7 @@ git config --global https<span class="class">.proxy</span> <span class="string">
     <link href="http://illuz.github.com/2015/01/20/using-telegram/"/>
     <id>http://illuz.github.com/2015/01/20/using-telegram/</id>
     <published>2015-01-20T03:53:48.000Z</published>
-    <updated>2015-05-03T12:11:47.126Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<p>我的 Telegram id 是 hcbbt，欢迎加好友 +w+。</p>
 <p>Telegram Messenger 是一款跨平台的即时聊天应用，可以建立点对点的加密聊天，支持自毁模式，简洁，快速。</p>
 <p>相关链接：</p>
@@ -1081,7 +1329,7 @@ git config --global https<span class="class">.proxy</span> <span class="string">
     <link href="http://illuz.github.com/2015/01/19/v2ex-150119/"/>
     <id>http://illuz.github.com/2015/01/19/v2ex-150119/</id>
     <published>2015-01-19T14:40:30.000Z</published>
-    <updated>2015-05-03T12:11:47.130Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<p>这周都在考试，没怎么逛 V2EX，还是水得很。</p>
 <hr>
 <ol>
@@ -1118,7 +1366,7 @@ git config --global https<span class="class">.proxy</span> <span class="string">
     <link href="http://illuz.github.com/2015/01/12/Windows-8-1-VPN-connection-disappeared-in-Networks-Panal-Disable-OneDrive-in-Win8-1/"/>
     <id>http://illuz.github.com/2015/01/12/Windows-8-1-VPN-connection-disappeared-in-Networks-Panal-Disable-OneDrive-in-Win8-1/</id>
     <published>2015-01-12T04:04:30.000Z</published>
-    <updated>2015-05-03T12:11:47.133Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<p>Today I want to connect to my VPN, but to find that there is not any VPN in my Networks list.<br>I work in win8.1 and had set up the VPN connection for a long time. I used it last week, but today it disappeared.<br>Then I google this issue for solutions. And after checking some invalid solutions such as <code>turn on Telephony service</code>, <code>turn on RRAS service</code>, I remembered that I had turned the OneDrive off last week. I had tried some wrong way before turning it off. Maybe these cause this VPN issue.<br>Yes, it’s right.<br><strong>I turn off the <code>Network List Service</code> and reboot, the VPN comes back and works.</strong></p>
 <hr>
 <p>And there is thr right way to turn off OneDrive in Win8.1:<br>(Edited from <a href="http://www.howtogeek.com/167058/how-to-disable-skydrive-integration-in-windows-8.1/" target="_blank" rel="external">How to Disable SkyDrive / OneDrive Integration in Windows 8.1</a>)</p>
@@ -1158,7 +1406,7 @@ git config --global https<span class="class">.proxy</span> <span class="string">
     <link href="http://illuz.github.com/2015/01/12/v2ex-150111/"/>
     <id>http://illuz.github.com/2015/01/12/v2ex-150111/</id>
     <published>2015-01-12T01:46:05.000Z</published>
-    <updated>2015-05-03T12:11:47.130Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<ol>
 <li><p><a href="http://www.v2ex.com/t/159555" target="_blank" rel="external">大家是如何治疗颈椎病的？</a><br>果断用几本 C/C++ 的厚书垫高了笔记本。</p>
 </li>
@@ -1196,7 +1444,7 @@ git config --global https<span class="class">.proxy</span> <span class="string">
     <link href="http://illuz.github.com/2015/01/05/v2ex-150104/"/>
     <id>http://illuz.github.com/2015/01/05/v2ex-150104/</id>
     <published>2015-01-05T03:52:54.000Z</published>
-    <updated>2015-05-03T12:11:47.130Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<ol>
 <li><p><a href="http://v2ex.com/t/158007" target="_blank" rel="external">经典 APP 源码集合（ 11 个）</a><br>是 APICloud 网站的分享，用来学习是非常不错的。</p>
 </li>
@@ -1233,7 +1481,7 @@ git config --global https<span class="class">.proxy</span> <span class="string">
     <link href="http://illuz.github.com/2015/01/01/annual-summary-of-2014/"/>
     <id>http://illuz.github.com/2015/01/01/annual-summary-of-2014/</id>
     <published>2015-01-01T09:05:13.000Z</published>
-    <updated>2015-05-03T12:11:47.120Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<p>又是一年过去了，我好像干了不少傻事，让我来总结总结。</p>
 <p>翻了一下 2014 年的博客，我发现居然每个月都有写总结规划，坚持下来回过头来看好有成就感。（附上链接： <a href="http://blog.csdn.net/hcbbt/article/category/2232625" target="_blank" rel="external">1~5 月</a> 和 <a href="http://illuz.github.io/categories/01-%E7%94%9F%E6%B4%BB/" target="_blank" rel="external">6~12 月</a>，八月初在 Github 搭建了这个博客，所以前面的总结是写在 CSDN 上的，后面的才写在本博客上。）<br>看了一番各月总结，以及其他博客的总结，觉得这次总结就不要太长篇大论了，简单归纳一下就好。</p>
 <hr>
@@ -1320,7 +1568,7 @@ git config --global https<span class="class">.proxy</span> <span class="string">
     <link href="http://illuz.github.com/2014/12/31/summary-of-2014-december/"/>
     <id>http://illuz.github.com/2014/12/31/summary-of-2014-december/</id>
     <published>2014-12-31T14:03:51.000Z</published>
-    <updated>2015-05-03T12:11:47.123Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<p>每个月一直有写总结， PureFrog 童鞋还来催我写年末总结，于是<s>这次十二月总结和年末总结一起写了</s>，年末总结不好写，还是决定分开写了。</p>
 <p>首先是腊月的总结，来发流水帐：</p>
 <ol>
@@ -1367,7 +1615,7 @@ git config --global https<span class="class">.proxy</span> <span class="string">
     <link href="http://illuz.github.com/2014/12/29/v2ex-141228/"/>
     <id>http://illuz.github.com/2014/12/29/v2ex-141228/</id>
     <published>2014-12-29T06:57:20.000Z</published>
-    <updated>2015-05-03T12:11:47.130Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<p>真心水货….</p>
 <hr>
 <ol>
@@ -1399,7 +1647,7 @@ git config --global https<span class="class">.proxy</span> <span class="string">
     <link href="http://illuz.github.com/2014/12/22/v2ex-141221/"/>
     <id>http://illuz.github.com/2014/12/22/v2ex-141221/</id>
     <published>2014-12-22T04:08:24.000Z</published>
-    <updated>2015-05-03T12:11:47.130Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<p>又是满满的水分了…</p>
 <hr>
 <ol>
@@ -1433,7 +1681,7 @@ git config --global https<span class="class">.proxy</span> <span class="string">
     <link href="http://illuz.github.com/2014/12/15/v2ex-141215/"/>
     <id>http://illuz.github.com/2014/12/15/v2ex-141215/</id>
     <published>2014-12-15T00:48:06.000Z</published>
-    <updated>2015-05-03T12:11:47.130Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<ol>
 <li><a href="http://v2ex.com/t/152536" target="_blank" rel="external">Linux 有哪些特性明显强于 OSX? (对于中级用户而言)</a><br>说着说着就要打起来了=.=<br>看来Linux党还是很多啊</li>
 <li><a href="http://v2ex.com/t/152661" target="_blank" rel="external">用了 win8.1 之后</a><br>最近很多圣战…</li>
@@ -1460,7 +1708,7 @@ git config --global https<span class="class">.proxy</span> <span class="string">
     <link href="http://illuz.github.com/2014/12/07/v2ex-141207/"/>
     <id>http://illuz.github.com/2014/12/07/v2ex-141207/</id>
     <published>2014-12-07T14:01:14.000Z</published>
-    <updated>2015-05-03T12:11:47.130Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<p>12月回了老家一趟，所以都又偷懒了一周….</p>
 <ol>
 <li><a href="http://v2ex.com/t/149939" target="_blank" rel="external">发现一个很 Cool 的云端 IDE</a><br>之前就知道Koding和Neutron<br>另外找到了一篇介绍了13个云 IDE 的文章：<a href="http://www.hongkiat.com/blog/cloud-ide-developers/" target="_blank" rel="external">13 Cloud IDEs For Web Developers</a></li>
@@ -1489,7 +1737,7 @@ git config --global https<span class="class">.proxy</span> <span class="string">
     <link href="http://illuz.github.com/2014/12/07/summary-of-2014-november/"/>
     <id>http://illuz.github.com/2014/12/07/summary-of-2014-november/</id>
     <published>2014-12-07T13:49:15.000Z</published>
-    <updated>2015-05-03T12:11:47.123Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<p>每个月回顾总结的时候都有一个感受，就是时间不够用，又浪费了一个月了…<br>这周回家一趟，都在颓废，于是就没干什么事都在玩，v2ex和本月总结都拖了一个星期。<br>真是往事不堪回首啊。</p>
 <hr>
 <h3 id="新番">新番</h3><p>唔…上个月的总结扯了些在看的十月番，这个月又有变化了。<br>上个月追的《火星异种》、《晨曦公主》和《虫师 续章》我都没追下去，也就是说，上个月还在看的列表里面现在只剩下《寄生兽》和《日常系的异能战斗》了，我真是善变的男人（笑）。<br>其实不是我不喜欢这几部作品，《火星异种》和《晨曦公主》我追漫画去了，《虫师》由于有事错过了几次，还没来得急补。<br>不过这个月又多追了几部：《七大罪》、《七人魔法使》、《甘城光辉游乐园》、《我，要成为双马尾》还有《银仙》。<br>其中《七人魔法使》我之前漫画看过了，《七大罪》在一口气追完动漫后把漫画看掉了，所以说不定我下个月会又给扔掉了=w=。<br>《我，要成为双马尾》十分无节操，最新一话作画开始崩了，也很有可能被我弃。《银仙》是火车上补的，不知道能不能坚持追完。<br>我是之前玩OSU!看了OP才发现阿京尼的《甘城光辉游乐园》很有爱，我很喜欢，不出意外应该会追完的。</p>
@@ -1551,7 +1799,7 @@ git config --global https<span class="class">.proxy</span> <span class="string">
     <link href="http://illuz.github.com/2014/11/23/v2ex-141123/"/>
     <id>http://illuz.github.com/2014/11/23/v2ex-141123/</id>
     <published>2014-11-23T15:49:19.000Z</published>
-    <updated>2015-05-03T12:11:47.130Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<p>上周跑出去玩了，回来又忙其他的。<br>没错我偷懒了。</p>
 <hr>
 <ol>
@@ -1581,7 +1829,7 @@ git config --global https<span class="class">.proxy</span> <span class="string">
     <link href="http://illuz.github.com/2014/11/09/v2ex-141109/"/>
     <id>http://illuz.github.com/2014/11/09/v2ex-141109/</id>
     <published>2014-11-09T11:18:27.000Z</published>
-    <updated>2015-05-03T12:11:47.130Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<ol>
 <li><p><a href="http://v2ex.com/t/143671" target="_blank" rel="external">免费的编程中文书籍索引</a><br>好久没有这么好的资源了，努力mark。<br>Github链接：<a href="https://github.com/justjavac/free-programming-books-zh_CN" target="_blank" rel="external">https://github.com/justjavac/free-programming-books-zh_CN</a></p>
 </li>
@@ -1615,7 +1863,7 @@ git config --global https<span class="class">.proxy</span> <span class="string">
     <link href="http://illuz.github.com/2014/11/03/summary-of-2014-october/"/>
     <id>http://illuz.github.com/2014/11/03/summary-of-2014-october/</id>
     <published>2014-11-03T07:42:55.000Z</published>
-    <updated>2015-05-03T12:11:47.123Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<p>日月如梭，好快又到十一月了，14年只剩俩个月可以浪费了，到了年末是不是要来个14年总结啊。</p>
 <h3 id="新番">新番</h3><p>这个月又开始了一批新番了，其中最引人注目的是Fate/stay night重置了剧场版的UBW线，可惜我看了两集就看不下去了，难道我脱离中二了么…不不，我这个月追的《日常系的异能战斗》、《火星异种》、《寄生兽》都是很中二的。<br>可能是我已经形成了一定的胃口了=w=..貌似我现在只看轻松的校园后宫类番、脑洞向、猎奇向、剧情向的动漫漫画了。FSN这种剧场版看过，剧情也已经差不多玩过的，我就pass了。<br>而且我不是很萌吾王…虽然奈须蘑菇的脚本我都非常喜欢，但Fate系列、月姬系列和空境系列，我对她们的喜欢程度是递增的，可能是因为我对她们的了解程度不同吧，因为之前曾看过月姬和空境的脚本小说，而Fate的小说我没看完，加之空境剧场版和音乐加成，让人无法自拔，最萌黑桐和式姐这对了。<br>还有直死魔眼是曾让我中二发作的几种眼睛之一。（这个话题可以扯很多耶，回头开坑写个-.-）里面就Fate没有这个魔眼…<br>另外加成部分是与我喜欢看的Mugen游戏有关。Mugen里面的月姬系统有很多月姬的人物，而且也有两仪式，发招华丽，而且有各种有趣的改版人物，比如各种shiki各种len。（PS，我也很喜欢len）但是Fate系列的人物却不是很多，比较完整的角色也比较喜欢的就只有黑樱了，其他的人物都很挫。<br>自问自答：<br><strong>Q:</strong> Fate明明人物那么多，每个人的招数也很多，为什么在Mugen里面发展得这么不好？<br><strong>A:</strong> 虽然她们都是TYPE-MOON的产品，而且Fate的Mugen人物不是很多。究其原因，有个非常重要的，就是TYPE-MOON发布了很出名的格斗游戏MBAACC，也就是刚才提到的月姬系统，里面整合了月姬的大部分人物，以及两仪式。Fate虽然有FUC，但是个人感觉没MBAACC好玩，后来Mugen引入了月姬系统后，各种人物发展开来，Fate就比其他两个作品人物少了。<br>（个人见解，不客观）</p>
 <p>（我去这是总结么！STOP!）<br>总之，列下这个月我追的番。<br>《日常系的异能战斗》、《火星异种》、《寄生兽》、《晨曦公主》、《虫师 续章》。<br>当然有可能会半路觉得太无聊而弃番，也有可能追新的啦。</p>
@@ -1685,7 +1933,7 @@ git config --global https<span class="class">.proxy</span> <span class="string">
     <link href="http://illuz.github.com/2014/11/03/v2ex-141102/"/>
     <id>http://illuz.github.com/2014/11/03/v2ex-141102/</id>
     <published>2014-11-03T00:13:23.000Z</published>
-    <updated>2015-05-03T12:11:47.130Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<ol>
 <li><p><a href="http://v2ex.com/t/141811" target="_blank" rel="external">《程序员跳槽全攻略》限时免费链接</a><br>据说很棒，已下载到手机上看。<br>如果没限时了去找作者留言要或者去买。我没资格把他共享出来。</p>
 </li>
@@ -1717,7 +1965,7 @@ git config --global https<span class="class">.proxy</span> <span class="string">
     <link href="http://illuz.github.com/2014/10/24/v2ex-141021/"/>
     <id>http://illuz.github.com/2014/10/24/v2ex-141021/</id>
     <published>2014-10-24T01:29:04.000Z</published>
-    <updated>2015-05-03T12:11:47.130Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<p>由于周末有事外出，不能上网，所以这周只到周五了。<br>虽然天数很少，但这周意外的有料:)。</p>
 <hr>
 <h3 id="1-_自学了_Android_基础，该怎么进阶？">1. <a href="http://v2ex.com/t/140214" target="_blank" rel="external">自学了 Android 基础，该怎么进阶？</a></h3><p>等俺Android基础也自学完了，也来进阶进阶&gt;&lt;。</p>
@@ -1787,7 +2035,7 @@ git config --global https<span class="class">.proxy</span> <span class="string">
     <link href="http://illuz.github.com/2014/10/19/v2ex-141019/"/>
     <id>http://illuz.github.com/2014/10/19/v2ex-141019/</id>
     <published>2014-10-19T15:09:43.000Z</published>
-    <updated>2015-05-03T12:11:47.130Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<p>我发现守在最热这个频道看的帖子内容老是那几篇，没有多少我感兴趣的…<br>以后可以多逛逛其他频道。</p>
 <hr>
 <ol>
@@ -1819,7 +2067,7 @@ git config --global https<span class="class">.proxy</span> <span class="string">
     <link href="http://illuz.github.com/2014/10/12/v2ex-141012/"/>
     <id>http://illuz.github.com/2014/10/12/v2ex-141012/</id>
     <published>2014-10-12T11:50:17.000Z</published>
-    <updated>2015-05-03T12:11:47.126Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<p>最近实验室的网络跪了，都没有怎么逛v2ex…</p>
 <hr>
 <h2 id="1-_美丽新世界：linux_下的惬意生活">1. <a href="http://v2ex.com/t/137202" target="_blank" rel="external">美丽新世界：linux 下的惬意生活</a></h2><p>人家的常用软件记录： <a href="https://github.com/yangyangwithgnu/the_new_world_linux" target="_blank" rel="external">https://github.com/yangyangwithgnu/the_new_world_linux</a><br>值得看看。</p>
@@ -1852,7 +2100,7 @@ git config --global https<span class="class">.proxy</span> <span class="string">
     <link href="http://illuz.github.com/2014/10/03/summary-of-2014-september/"/>
     <id>http://illuz.github.com/2014/10/03/summary-of-2014-september/</id>
     <published>2014-10-03T02:13:15.000Z</published>
-    <updated>2015-05-03T12:11:47.123Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<p>特么国庆在宿舍完全没网，只能用手机流量上了，无奈地我那2G网络。</p>
 <p>废话不多说。</p>
 <p><strong>上个月总结</strong>：</p>
@@ -1922,7 +2170,7 @@ git config --global https<span class="class">.proxy</span> <span class="string">
     <link href="http://illuz.github.com/2014/09/28/v2ex-140928/"/>
     <id>http://illuz.github.com/2014/09/28/v2ex-140928/</id>
     <published>2014-09-28T08:50:16.000Z</published>
-    <updated>2015-05-03T12:11:47.126Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<p>这周没什么内容，太水了。</p>
 <hr>
 <h4 id="2014年09月24日_星期三">2014年09月24日 星期三</h4><ol>
@@ -1957,7 +2205,7 @@ git config --global https<span class="class">.proxy</span> <span class="string">
     <link href="http://illuz.github.com/2014/09/21/v2ex-140921/"/>
     <id>http://illuz.github.com/2014/09/21/v2ex-140921/</id>
     <published>2014-09-21T12:32:46.000Z</published>
-    <updated>2015-05-03T12:11:47.126Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<p>越来越水了</p>
 <hr>
 <h4 id="2014年09月16日_星期一">2014年09月16日 星期一</h4><ol>
@@ -2005,7 +2253,7 @@ git config --global https<span class="class">.proxy</span> <span class="string">
     <link href="http://illuz.github.com/2014/09/15/v2ex-140907/"/>
     <id>http://illuz.github.com/2014/09/15/v2ex-140907/</id>
     <published>2014-09-15T13:08:24.000Z</published>
-    <updated>2015-05-03T12:11:47.126Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<p>这周又是颓废的一周，啥事没干Orz…弱爆了.<br>要振作点开始填天坑了。</p>
 <hr>
 <h4 id="2014年09月10日_星期三">2014年09月10日 星期三</h4><ol>
@@ -2041,7 +2289,7 @@ git config --global https<span class="class">.proxy</span> <span class="string">
     <link href="http://illuz.github.com/2014/09/07/v2ex-140901/"/>
     <id>http://illuz.github.com/2014/09/07/v2ex-140901/</id>
     <published>2014-09-07T14:10:36.000Z</published>
-    <updated>2015-05-03T12:11:47.126Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<p>本周就写了两篇，因为后面几天回老家颓废了几天。而且感觉这周没多少干货。</p>
 <hr>
 <h4 id="2014年09月01日_星期一">2014年09月01日 星期一</h4><ol>
@@ -2078,7 +2326,7 @@ git config --global https<span class="class">.proxy</span> <span class="string">
     <link href="http://illuz.github.com/2014/09/01/summary_of_2014_august/"/>
     <id>http://illuz.github.com/2014/09/01/summary_of_2014_august/</id>
     <published>2014-09-01T01:03:40.000Z</published>
-    <updated>2015-05-03T12:11:47.123Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<p>又是每月唠嗑时间了～准时唠嗑，保持活力～</p>
 <p>既然不是在CSDN这么严肃的地方写博客，那我就不再使用以前那么一本正经的标题了。<br>于是我就给自己的文章添加了一个副标题：稍纵即逝的八月。（梗：《凉宫》漫无止境的八月）</p>
 <p>嗯，八月份给我的感觉的确是稍纵即逝，其实只要是学生，在八月末将要开学的时候回想起这个月所做的事情，都会有“这个月过的好快”，“我还没玩够呢”，或是“我这个月又什么都没干了”的感觉。<br>我是后者。</p>
@@ -2162,7 +2410,7 @@ git config --global https<span class="class">.proxy</span> <span class="string">
     <link href="http://illuz.github.com/2014/09/01/v2ex_140825/"/>
     <id>http://illuz.github.com/2014/09/01/v2ex_140825/</id>
     <published>2014-08-31T21:03:58.000Z</published>
-    <updated>2015-05-03T12:11:47.126Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<h4 id="2014年08月26日_星期二">2014年08月26日 星期二</h4><ol>
 <li><a href="http://v2ex.com/t/129810" target="_blank" rel="external">免费获取一年 LastPass Premium</a><br>LastPass的确是很好用的扩展，用了很久了。<br>可惜老用户无法获取…</li>
 </ol>
@@ -2209,7 +2457,7 @@ git config --global https<span class="class">.proxy</span> <span class="string">
     <link href="http://illuz.github.com/2014/08/24/v2ex_140823/"/>
     <id>http://illuz.github.com/2014/08/24/v2ex_140823/</id>
     <published>2014-08-24T08:04:38.000Z</published>
-    <updated>2015-05-03T12:11:47.126Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<h4 id="2014年08月18日_星期二">2014年08月18日 星期二</h4><ol>
 <li><a href="http://v2ex.com/t/128397" target="_blank" rel="external">一个手游创业公司的配置是什么？</a></li>
 <li><a href="http://v2ex.com/t/128478" target="_blank" rel="external">每天自动签到 —— 我们不造脚本，我们造框架</a></li>
@@ -2267,7 +2515,7 @@ git config --global https<span class="class">.proxy</span> <span class="string">
     <link href="http://illuz.github.com/2014/08/24/lang_chao_zhi_dian/"/>
     <id>http://illuz.github.com/2014/08/24/lang_chao_zhi_dian/</id>
     <published>2014-08-24T07:42:17.000Z</published>
-    <updated>2015-05-03T12:11:47.120Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<p>《浪潮之巅》在大一的时候就听说过，但是那时不懂事，只挑专业相关的书看，这个暑假我终于开始看这本书并把它看完。<br>看完感触良多（其实是不明觉历），在这里我就记录下这本书里面我觉得不错的一些话吧～<br>一千个人眼中有一千个哈姆雷特，如果你看过这本书，对于这本书有独特的见解，欢迎留言交流。</p>
 <h2 id="看书评">看书评</h2><p>其实刚才刚去看了豆瓣上面的评论，看了师北宸老师对这本书的吐槽，真正感受到刚才一千个哈姆雷特那句话，<a href="http://book.douban.com/review/5363799/" target="_blank" rel="external">link</a>。不过也很佩服他们的表达能力，要我去说肯定说不过他们，哈哈。<br>看完评论还有个感受，就是《如何阅读一本书》说的真的很对，看书是与作者的交流，不要先去看书评，看完书再去看书评。。书评会左右你自己读书的感受。<br>不过看他们就看了几章能够挑出那么多毛病，实在是很厉害，我还没有时时刻刻保持批判性思维的习惯。不过不同的书要用不同的方法去看，我可不想太纠结细节，哈哈。</p>
 <p>然后跑去知乎看了<a href="http://www.zhihu.com/question/20612417" target="_blank" rel="external">如何评价吴军《浪潮之巅》的文笔？可否作为 IT 纪实作品的一个典范？怎样看待网络上对这本书的不同评价？</a>，发现有些勘误在第二版已经改过了，我很遗憾我从图书馆借到的是第一版的，貌似第二版还讲了Oracle，有机会会去拜读下第二版的。</p>
@@ -2404,7 +2652,7 @@ git config --global https<span class="class">.proxy</span> <span class="string">
     <link href="http://illuz.github.com/2014/08/17/v2ex_140817/"/>
     <id>http://illuz.github.com/2014/08/17/v2ex_140817/</id>
     <published>2014-08-17T04:30:41.000Z</published>
-    <updated>2015-05-03T12:11:47.126Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<h4 id="2014年08月12日_星期二">2014年08月12日 星期二</h4><ol>
 <li><p><a href="http://v2ex.com/t/127476" target="_blank" rel="external">例行黑360</a></p>
 </li>
@@ -2460,7 +2708,7 @@ git config --global https<span class="class">.proxy</span> <span class="string">
     <link href="http://illuz.github.com/2014/08/10/v2ex_140810/"/>
     <id>http://illuz.github.com/2014/08/10/v2ex_140810/</id>
     <published>2014-08-10T04:55:16.000Z</published>
-    <updated>2015-05-03T12:11:47.126Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<h4 id="2014年08月04日_星期一">2014年08月04日 星期一</h4><ol>
 <li><p><a href="http://v2ex.com/t/126044" target="_blank" rel="external">英语学习资源</a><br>奶爸的英语教室：<a href="http://site.douban.com/195274/" target="_blank" rel="external">http://site.douban.com/195274/</a><br><s>其实发现了我的多看拥有书籍里面就有《把你的英语用起来！》了。。。</s><br><em>貌似不是那本，然后我就去图书馆借了那本书，当天看完了…</em><br>不过我可能会考虑看外文书和看外文视频。</p>
 </li>
@@ -2552,7 +2800,7 @@ git config --global https<span class="class">.proxy</span> <span class="string">
     <link href="http://illuz.github.com/2014/08/07/use_your_english_learning_note/"/>
     <id>http://illuz.github.com/2014/08/07/use_your_english_learning_note/</id>
     <published>2014-08-06T16:57:27.000Z</published>
-    <updated>2015-05-03T12:11:47.126Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<p>豆瓣链接：<a href="http://book.douban.com/subject/3748247/" target="_blank" rel="external">http://book.douban.com/subject/3748247/</a></p>
 <p>在v2ex上看到别人推荐，于是趁周三图书馆开门去借了一本。</p>
 <p>然后中午回宿舍就给看了1/3了…<br>然后晚上就快速给看完了…</p>
@@ -2595,7 +2843,7 @@ git config --global https<span class="class">.proxy</span> <span class="string">
     <link href="http://illuz.github.com/2014/08/03/v2ex_140802/"/>
     <id>http://illuz.github.com/2014/08/03/v2ex_140802/</id>
     <published>2014-08-03T04:57:59.000Z</published>
-    <updated>2015-05-03T12:11:47.126Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<p>半小时！<br>以后每天只能花一个番茄去v2ex！经过第一天的搜集，我发现这太浪费时间了。<br>所以每天12点的时候吃完饭去逛一下，然后每天只记录一篇，刷一下首页，看看有什么感兴趣的，再刷一遍评论。<br>记录下感觉不错的文字，如果感兴趣再在这里简单评论下。如果有什么更深的感触的话再放到holes’ queue里面，出列了再写。</p>
 <hr>
 <h4 id="2014年08月02日_星期六">2014年08月02日 星期六</h4><ol>
@@ -2630,7 +2878,7 @@ git config --global https<span class="class">.proxy</span> <span class="string">
     <link href="http://illuz.github.com/2014/08/03/summary_of_2014_june_and_july/"/>
     <id>http://illuz.github.com/2014/08/03/summary_of_2014_june_and_july/</id>
     <published>2014-08-02T17:40:34.000Z</published>
-    <updated>2015-05-03T12:11:47.123Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<p>这是在以前的博客上每个月都会写的，例行的每月小结。<br>至于为什么这次是两个月，因为我上个月偷懒了。</p>
 <p>以前在CSDN上，由于是技术性的博客，不好乱扯（虽然也一直在扯）。换了博客后，我就可以尽情地扯淡了～<br>各种水分，只是记录东西和自言自语用的。嘛，也欢迎吐槽。</p>
 <h2 id="总结">总结</h2><p>对于六月份忘记写总结一事，我表示这是有原(jie)因(kou)的，六月末考试，六月初还得跑上海比赛（不提比赛TAT）。所以一忙就给忘了。回过头来已经是七月十几了。。。<br>反正我老是看起来很忙的样子，其实没做多少事。活脱脱的一个蒟蒻啦，不管是ACM还是其他技能QAQ。<br>不行又在扯了…</p>
@@ -2670,7 +2918,7 @@ git config --global https<span class="class">.proxy</span> <span class="string">
     <link href="http://illuz.github.com/2014/08/02/blog_record/"/>
     <id>http://illuz.github.com/2014/08/02/blog_record/</id>
     <published>2014-08-02T13:28:29.000Z</published>
-    <updated>2015-05-03T12:11:47.120Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<p>博客这东西，标题、副标题老是会变来变去，我都怕以后人家来问我这个XXX博客是不是我写的，我还无从查找了呢…<br>虽然我不是什么出名的人，这种事情也不太可能发生，而且我现在的主题貌似还没法看到副标题。</p>
 <p>姑且开这篇博客记录。</p>
 <ul>
@@ -2697,7 +2945,7 @@ git config --global https<span class="class">.proxy</span> <span class="string">
     <link href="http://illuz.github.com/2014/08/01/blog_build_almost_complete/"/>
     <id>http://illuz.github.com/2014/08/01/blog_build_almost_complete/</id>
     <published>2014-08-01T15:53:39.000Z</published>
-    <updated>2015-05-03T12:11:47.120Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<p>终于把博客折腾地差不多了，多谢Changyuheng朋友的耐心指点～<br>之后如果有空再折腾吧，就先这样放着。</p>
 <p>最近老是奇怪为什么我提交了那么多次，Contributions上面老是看不到更新…我还以为Github有什么特殊的限制，今天终于去求助搜索引擎，发现了原来是本地的user.name设置错了…<a href="https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile" target="_blank" rel="external">https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile</a><br>真是不小心，这下子又空白了一片了…</p>
 <p>由于中央“净网”活动，墙变得好厚…真是令人郁闷。<br>这几天七牛图库还暂停了内容管理，也就是无法上传图片…本来还想贴个图片的说…</p>
@@ -2765,7 +3013,7 @@ git config --global https<span class="class">.proxy</span> <span class="string">
     <link href="http://illuz.github.com/2014/08/01/write_ahead/"/>
     <id>http://illuz.github.com/2014/08/01/write_ahead/</id>
     <published>2014-07-31T23:03:27.000Z</published>
-    <updated>2015-05-03T12:11:47.133Z</updated>
+    <updated>2015-12-04T04:55:35.000Z</updated>
     <content type="html"><![CDATA[<p>这是这个博客的第一篇，我是个不善于表达的人，而且我是个懒人，所以我就大概地扯扯…<br>如果出现了模糊不清的语句，相互矛盾的逻辑，让人摸不着头脑的文章，（目测之后的文章也会是这种格调），希望看官能指出来，也希望看官能谅解，如果看官想要觉得很有留言码文来喷我，也欢迎赐教，我很期待（笑）…</p>
 <h2 id="开此博客的原由">开此博客的原由</h2><p>貌似这个话题是每个博客首篇的必谈之题，当然我也不能装酷不谈这个。</p>
 <p>博客是个互联网2.0的产物。在远古的互联网初期，大多数人们只能通过BBS来互联网上发表言论交流观点，由于BBS上的言论过于受限，任由版主删减，而个人为了表达言论只能通过创建个人网站来实现，门槛过高。博客的出现正是众望所归，博客具有很高度的言论自由，还有低很多的创建门槛，所以一下子就流行起来<br>。<br>我扯博客的历史，是为了说明，和大部分人一样，我开这个博客的一个重要目的就是<strong>发表自己的言论与观点</strong>。<br>糟糕，刚才那句话好像把我说得像一个网络写手了…</p>

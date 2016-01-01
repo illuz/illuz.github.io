@@ -1,0 +1,762 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html" charset="UTF-8" >
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+  <title>「翻译」写出可读的 Python 正则表达式 | IlluZ&#39;s Blog</title>
+  <meta name="description" content="Go ahead." />
+  <meta name="HandheldFriendly" content="True" />
+  <meta name="MobileOptimized" content="320" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" type="text/css" href="/css/component.css" />
+  <link rel="stylesheet" type="text/css" href="/css/screen.css" />
+  <meta name="generator" content="IlluZ's Blog">
+  
+  
+  <link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="atom.xml">
+  
+  
+
+  
+
+<!-- mathjax config similar to math.stackexchange -->
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+      }
+    });
+</script>
+
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Queue(function() {
+        var all = MathJax.Hub.getAllJax(), i;
+        for(i=0; i < all.length; i += 1) {
+            all[i].SourceElement().parentNode.className += ' has-jax';
+        }
+    });
+</script>
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+</head>
+<body>
+<div class="container">
+    <div class="mp-pusher" id="mp-pusher">
+        <i id="scroll-up" class="fa fa-angle-up"></i>
+        <nav id="mp-menu" class="mp-menu">
+            <div class="mp-level">
+                <a data-pjax class="back-home" style="font-size: 20px" href="/"><h2 ><i class="fa fa-home"></i>
+                        Home</h2></a>
+                <ul class="first-level">
+                    <li>
+                        <a class="fa fa-archive" href="#"><i class="fa fa-angle-left">
+                            </i>&nbsp;&nbsp;Archive</a>
+                        <div class="mp-level page-list">
+                            <h2 ><i class="fa fa-archive"></i>
+                                Archive</h2>
+                            <a class="mp-back" href="#">back</a>
+                            <form id="search-form" action="">
+                                <input type="text" class="search search-archive" placeholder="Search.."/>
+                            </form>
+                            <ul>
+                                <div class="mp-scroll">
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2016/01/01/annual-summary-of-2015/">2015 Summary</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/08/16/talk-about-IQ/">谈 IQ</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/08/09/readable-regular-expressions-in-python/">「翻译」写出可读的 Python 正则表达式</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/06/08/summary-of-2015-march-april-may/">三、四、五月总结（闲扯）</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/05/31/v2ex-150531/">最后的每周v2ex记录[15-05-25~15-05-31]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/05/24/v2ex-150524/">每周v2ex记录[15-05-10~15-05-24]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/05/09/v2ex-150509/">每周v2ex记录[15-04-20~15-05-09]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/04/28/v2ex-change-to-double/">每周一发的 V2EX 转为每两周一发</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/04/20/v2ex-150420/">每周v2ex记录[15-04-06~15-04-20]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/04/16/one-interview/">某次面经</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/04/06/v2ex-150406/">每周v2ex记录[15-03-30~15-04-05]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/03/30/v2ex-150330/">每周v2ex记录[15-03-23~15-03-29]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/03/28/github-is-fxxked/">GitHub is Fxxked by GFVV in China</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/03/23/got-100-days-streak/">Github 100 Day Streak 达成！</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/03/23/v2ex-150322/">每周v2ex记录[15-03-16~15-03-22]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/03/16/v2ex-150316/">每周v2ex记录[15-03-09~15-03-15]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/03/09/v2ex-150308/">每周v2ex记录[15-03-02~15-03-08]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/03/01/summary-of-2015-febrary/">二月总结</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/03/01/v2ex-150301/">每周v2ex记录[15-02-16~15-03-01]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/03/01/movies-watched-in-2015-winter-vacation-5/">寒假观影[The end]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/02/17/movies-watched-in-2015-winter-vacation-4/">寒假观影[week04]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/02/16/v2ex-150215/">每周v2ex记录[15-02-09~15-02-15]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/02/09/movies-watched-in-2015-winter-vacation-3/">寒假观影[week03]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/02/09/v2ex-150208/">每周v2ex记录[15-02-02~15-02-08]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/02/02/v2ex-150201/">每周v2ex记录[15-01-26~15-02-01]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/02/02/movies-watched-in-2015-winter-vacation-2/">寒假观影[week02]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/01/25/v2ex-150125/">每周v2ex记录[15-01-19~15-01-25]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/01/25/movies-watched-in-2015-winter-vacation-1/">寒假观影[week01]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/01/22/summary-of-2015-january/">寒假计划 &amp; 提前的一月总结</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/01/20/using-telegram/">Telegram 使用中</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/01/19/v2ex-150119/">每周v2ex记录[15-01-12~15-01-18]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/01/12/Windows-8-1-VPN-connection-disappeared-in-Networks-Panal-Disable-OneDrive-in-Win8-1/">Windows 8.1 VPN connection disappeared in Networks Panal &amp; Disable OneDrive in Win8.1</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/01/12/v2ex-150111/">每周v2ex记录[15-01-06~15-01-11]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/01/05/v2ex-150104/">每周v2ex记录[14-12-29~15-01-04]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2015/01/01/annual-summary-of-2014/">年末总结</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/12/31/summary-of-2014-december/">十二月总结</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/12/29/v2ex-141228/">每周v2ex记录[14-12-22~14-12-28]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/12/22/v2ex-141221/">每周v2ex记录[14-12-16~14-12-21]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/12/15/v2ex-141215/">每周v2ex记录[14-12-08~14-12-14]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/12/07/v2ex-141207/">每周v2ex记录[14-11-24~14-11-07]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/12/07/summary-of-2014-november/">十一月总结</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/11/23/v2ex-141123/">每周v2ex记录[14-11-10~14-11-23]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/11/09/v2ex-141109/">每周v2ex记录[14-11-03~14-11-09]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/11/03/summary-of-2014-october/">十月总结</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/11/03/v2ex-141102/">每周v2ex记录[14-10-25~14-11-1]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/10/24/v2ex-141021/">每周v2ex记录[14-10-20~14-10-24]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/10/19/v2ex-141019/">每周v2ex记录[14-10-13~14-10-19]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/10/12/v2ex-141012/">每周v2ex记录[14-10-6~14-10-12]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/10/03/summary-of-2014-september/">九月总结</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/09/28/v2ex-140928/">每周v2ex记录[14-09-22~14-09-28]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/09/21/v2ex-140921/">每周v2ex记录[14-09-15~14-09-21]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/09/15/v2ex-140907/">每周v2ex记录[14-09-08~14-09-14]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/09/07/v2ex-140901/">每周v2ex记录[14-09-01~14-09-07]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/09/01/summary_of_2014_august/">八月总结——稍纵即逝的八月</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/09/01/v2ex_140825/">每周v2ex记录[14-08-25~14-08-31]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/08/24/v2ex_140823/">每周v2ex记录[14-08-18~14-08-24]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/08/24/lang_chao_zhi_dian/">《浪潮之巅》读书笔记</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/08/17/v2ex_140817/">每周v2ex记录[14-08-12~14-08-17]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/08/10/v2ex_140810/">每周v2ex记录[14-08-04~14-08-10]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/08/07/use_your_english_learning_note/">《把你的英语用起来！》读书笔记</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/08/03/v2ex_140802/">每周v2ex记录[14-08-02~14-08-03]</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/08/03/summary_of_2014_june_and_july/">六七月小结</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/08/02/blog_record/">博客各种更变记录</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/08/01/blog_build_almost_complete/">博客基本弄完了～</a>
+                                </li>
+                                
+                                <li class="search-archive-li mp-pjax">
+                                    <a href="/2014/08/01/write_ahead/">写在本博客的前头</a>
+                                </li>
+                                
+                                </div>
+                            </ul>
+                        </div>
+                    </li>
+                    
+                    
+					<li>
+						<a class="fa fa-list" href="#"><i class="fa fa-angle-left"></i>&nbsp;&nbsp;Friendly Link</a>
+						<div class="mp-level page-list">
+							<h2 ><i class="fa fa-list"></i>
+								Friendly Link</h2>
+							<a class="mp-back" href="#">back</a>
+							<ul>
+                                <li>
+									<a class="fa fa-link" href="http://blog.csdn.net/hcbbt" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;My&nbsp;CSDN&nbsp;blog</a>
+                                </li>
+                                <li>
+									<a class="fa fa-link" href="http://mycodebattle.com/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;PureFrog's&nbsp;blog</a>
+                                </li>
+                                <li>
+									<a class="fa fa-link" href="http://changyuheng.github.io/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;changyuheng's&nbsp;blog</a>
+                                </li>
+                                <li>
+									<a class="fa fa-link" href="http://jimmy66.com/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;星光's&nbsp;blog</a>
+									<a class="fa fa-link" href="http://www.hello1995.com/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;hello1995's&nbsp;blog</a>
+                                </li>
+							</ul>
+						</div>
+					</li>
+                    <li class="mp-pjax"><a class="fa fa-user" href="/about">&nbsp;&nbsp;&nbsp;About me</a></li>
+                    <li><a class="fa fa-github" href="https://github.com/illuz" target="_blank">&nbsp;&nbsp;&nbsp;Github</a></li>
+
+                </ul>
+
+            </div>
+        </nav>
+        <div id="pjax">
+            <div class="pjax-hidden" style="display: none">
+                
+                    <a  data-pjax href="/2016/01/01/annual-summary-of-2015/">2015 Summary</a>
+                
+                    <a  data-pjax href="/2015/08/16/talk-about-IQ/">谈 IQ</a>
+                
+                    <a  data-pjax href="/2015/08/09/readable-regular-expressions-in-python/">「翻译」写出可读的 Python 正则表达式</a>
+                
+                    <a  data-pjax href="/2015/06/08/summary-of-2015-march-april-may/">三、四、五月总结（闲扯）</a>
+                
+                    <a  data-pjax href="/2015/05/31/v2ex-150531/">最后的每周v2ex记录[15-05-25~15-05-31]</a>
+                
+                    <a  data-pjax href="/2015/05/24/v2ex-150524/">每周v2ex记录[15-05-10~15-05-24]</a>
+                
+                    <a  data-pjax href="/2015/05/09/v2ex-150509/">每周v2ex记录[15-04-20~15-05-09]</a>
+                
+                    <a  data-pjax href="/2015/04/28/v2ex-change-to-double/">每周一发的 V2EX 转为每两周一发</a>
+                
+                    <a  data-pjax href="/2015/04/20/v2ex-150420/">每周v2ex记录[15-04-06~15-04-20]</a>
+                
+                    <a  data-pjax href="/2015/04/16/one-interview/">某次面经</a>
+                
+                    <a  data-pjax href="/2015/04/06/v2ex-150406/">每周v2ex记录[15-03-30~15-04-05]</a>
+                
+                    <a  data-pjax href="/2015/03/30/v2ex-150330/">每周v2ex记录[15-03-23~15-03-29]</a>
+                
+                    <a  data-pjax href="/2015/03/28/github-is-fxxked/">GitHub is Fxxked by GFVV in China</a>
+                
+                    <a  data-pjax href="/2015/03/23/got-100-days-streak/">Github 100 Day Streak 达成！</a>
+                
+                    <a  data-pjax href="/2015/03/23/v2ex-150322/">每周v2ex记录[15-03-16~15-03-22]</a>
+                
+                    <a  data-pjax href="/2015/03/16/v2ex-150316/">每周v2ex记录[15-03-09~15-03-15]</a>
+                
+                    <a  data-pjax href="/2015/03/09/v2ex-150308/">每周v2ex记录[15-03-02~15-03-08]</a>
+                
+                    <a  data-pjax href="/2015/03/01/summary-of-2015-febrary/">二月总结</a>
+                
+                    <a  data-pjax href="/2015/03/01/v2ex-150301/">每周v2ex记录[15-02-16~15-03-01]</a>
+                
+                    <a  data-pjax href="/2015/03/01/movies-watched-in-2015-winter-vacation-5/">寒假观影[The end]</a>
+                
+                    <a  data-pjax href="/2015/02/17/movies-watched-in-2015-winter-vacation-4/">寒假观影[week04]</a>
+                
+                    <a  data-pjax href="/2015/02/16/v2ex-150215/">每周v2ex记录[15-02-09~15-02-15]</a>
+                
+                    <a  data-pjax href="/2015/02/09/movies-watched-in-2015-winter-vacation-3/">寒假观影[week03]</a>
+                
+                    <a  data-pjax href="/2015/02/09/v2ex-150208/">每周v2ex记录[15-02-02~15-02-08]</a>
+                
+                    <a  data-pjax href="/2015/02/02/v2ex-150201/">每周v2ex记录[15-01-26~15-02-01]</a>
+                
+                    <a  data-pjax href="/2015/02/02/movies-watched-in-2015-winter-vacation-2/">寒假观影[week02]</a>
+                
+                    <a  data-pjax href="/2015/01/25/v2ex-150125/">每周v2ex记录[15-01-19~15-01-25]</a>
+                
+                    <a  data-pjax href="/2015/01/25/movies-watched-in-2015-winter-vacation-1/">寒假观影[week01]</a>
+                
+                    <a  data-pjax href="/2015/01/22/summary-of-2015-january/">寒假计划 &amp; 提前的一月总结</a>
+                
+                    <a  data-pjax href="/2015/01/20/using-telegram/">Telegram 使用中</a>
+                
+                    <a  data-pjax href="/2015/01/19/v2ex-150119/">每周v2ex记录[15-01-12~15-01-18]</a>
+                
+                    <a  data-pjax href="/2015/01/12/Windows-8-1-VPN-connection-disappeared-in-Networks-Panal-Disable-OneDrive-in-Win8-1/">Windows 8.1 VPN connection disappeared in Networks Panal &amp; Disable OneDrive in Win8.1</a>
+                
+                    <a  data-pjax href="/2015/01/12/v2ex-150111/">每周v2ex记录[15-01-06~15-01-11]</a>
+                
+                    <a  data-pjax href="/2015/01/05/v2ex-150104/">每周v2ex记录[14-12-29~15-01-04]</a>
+                
+                    <a  data-pjax href="/2015/01/01/annual-summary-of-2014/">年末总结</a>
+                
+                    <a  data-pjax href="/2014/12/31/summary-of-2014-december/">十二月总结</a>
+                
+                    <a  data-pjax href="/2014/12/29/v2ex-141228/">每周v2ex记录[14-12-22~14-12-28]</a>
+                
+                    <a  data-pjax href="/2014/12/22/v2ex-141221/">每周v2ex记录[14-12-16~14-12-21]</a>
+                
+                    <a  data-pjax href="/2014/12/15/v2ex-141215/">每周v2ex记录[14-12-08~14-12-14]</a>
+                
+                    <a  data-pjax href="/2014/12/07/v2ex-141207/">每周v2ex记录[14-11-24~14-11-07]</a>
+                
+                    <a  data-pjax href="/2014/12/07/summary-of-2014-november/">十一月总结</a>
+                
+                    <a  data-pjax href="/2014/11/23/v2ex-141123/">每周v2ex记录[14-11-10~14-11-23]</a>
+                
+                    <a  data-pjax href="/2014/11/09/v2ex-141109/">每周v2ex记录[14-11-03~14-11-09]</a>
+                
+                    <a  data-pjax href="/2014/11/03/summary-of-2014-october/">十月总结</a>
+                
+                    <a  data-pjax href="/2014/11/03/v2ex-141102/">每周v2ex记录[14-10-25~14-11-1]</a>
+                
+                    <a  data-pjax href="/2014/10/24/v2ex-141021/">每周v2ex记录[14-10-20~14-10-24]</a>
+                
+                    <a  data-pjax href="/2014/10/19/v2ex-141019/">每周v2ex记录[14-10-13~14-10-19]</a>
+                
+                    <a  data-pjax href="/2014/10/12/v2ex-141012/">每周v2ex记录[14-10-6~14-10-12]</a>
+                
+                    <a  data-pjax href="/2014/10/03/summary-of-2014-september/">九月总结</a>
+                
+                    <a  data-pjax href="/2014/09/28/v2ex-140928/">每周v2ex记录[14-09-22~14-09-28]</a>
+                
+                    <a  data-pjax href="/2014/09/21/v2ex-140921/">每周v2ex记录[14-09-15~14-09-21]</a>
+                
+                    <a  data-pjax href="/2014/09/15/v2ex-140907/">每周v2ex记录[14-09-08~14-09-14]</a>
+                
+                    <a  data-pjax href="/2014/09/07/v2ex-140901/">每周v2ex记录[14-09-01~14-09-07]</a>
+                
+                    <a  data-pjax href="/2014/09/01/summary_of_2014_august/">八月总结——稍纵即逝的八月</a>
+                
+                    <a  data-pjax href="/2014/09/01/v2ex_140825/">每周v2ex记录[14-08-25~14-08-31]</a>
+                
+                    <a  data-pjax href="/2014/08/24/v2ex_140823/">每周v2ex记录[14-08-18~14-08-24]</a>
+                
+                    <a  data-pjax href="/2014/08/24/lang_chao_zhi_dian/">《浪潮之巅》读书笔记</a>
+                
+                    <a  data-pjax href="/2014/08/17/v2ex_140817/">每周v2ex记录[14-08-12~14-08-17]</a>
+                
+                    <a  data-pjax href="/2014/08/10/v2ex_140810/">每周v2ex记录[14-08-04~14-08-10]</a>
+                
+                    <a  data-pjax href="/2014/08/07/use_your_english_learning_note/">《把你的英语用起来！》读书笔记</a>
+                
+                    <a  data-pjax href="/2014/08/03/v2ex_140802/">每周v2ex记录[14-08-02~14-08-03]</a>
+                
+                    <a  data-pjax href="/2014/08/03/summary_of_2014_june_and_july/">六七月小结</a>
+                
+                    <a  data-pjax href="/2014/08/02/blog_record/">博客各种更变记录</a>
+                
+                    <a  data-pjax href="/2014/08/01/blog_build_almost_complete/">博客基本弄完了～</a>
+                
+                    <a  data-pjax href="/2014/08/01/write_ahead/">写在本博客的前头</a>
+                
+                
+                    <a data-pjax href="/categories/01-生活/">&nbsp;&nbsp;01. 生活</a>
+                
+                    <a data-pjax href="/categories/02-学习/">&nbsp;&nbsp;02. 学习</a>
+                
+                    <a data-pjax href="/categories/03-工作/">&nbsp;&nbsp;03. 工作</a>
+                
+                    <a data-pjax href="/categories/05-扯/">&nbsp;&nbsp;05. 扯</a>
+                
+                    <a data-pjax href="/categories/06-读书/">&nbsp;&nbsp;06. 读书</a>
+                
+                    <a data-pjax href="/categories/10-Tech/">&nbsp;&nbsp;10. Tech</a>
+                
+                    <a data-pjax href="/categories/10-电影/">&nbsp;&nbsp;10. 电影</a>
+                
+                    <a data-pjax href="/categories/99-其他/">&nbsp;&nbsp;99. 其他</a>
+                
+                    <a data-pjax href="/categories/翻译/">&nbsp;&nbsp;翻译</a>
+                
+                
+                    <a data-pjax href="/tags/01-日常/">&nbsp;&nbsp;01. 日常</a>
+                
+                    <a data-pjax href="/tags/02-折腾/">&nbsp;&nbsp;02. 折腾</a>
+                
+                    <a data-pjax href="/tags/03-v2ex记录/">&nbsp;&nbsp;03. v2ex记录</a>
+                
+                    <a data-pjax href="/tags/03-v2ex记录-归档-2015-05/">&nbsp;&nbsp;03. v2ex记录 归档_2015-05</a>
+                
+                    <a data-pjax href="/tags/03-学习/">&nbsp;&nbsp;03. 学习</a>
+                
+                    <a data-pjax href="/tags/04-笔记/">&nbsp;&nbsp;04. 笔记</a>
+                
+                    <a data-pjax href="/tags/04-英语/">&nbsp;&nbsp;04. 英语</a>
+                
+                    <a data-pjax href="/tags/Python/">&nbsp;&nbsp;Python</a>
+                
+                    <a data-pjax href="/tags/归档-2014-08/">&nbsp;&nbsp;归档_2014-08</a>
+                
+                    <a data-pjax href="/tags/归档-2014-09/">&nbsp;&nbsp;归档_2014-09</a>
+                
+                    <a data-pjax href="/tags/归档-2014-10/">&nbsp;&nbsp;归档_2014-10</a>
+                
+                    <a data-pjax href="/tags/归档-2014-11/">&nbsp;&nbsp;归档_2014-11</a>
+                
+                    <a data-pjax href="/tags/归档-2014-12/">&nbsp;&nbsp;归档_2014-12</a>
+                
+                    <a data-pjax href="/tags/归档-2015-01/">&nbsp;&nbsp;归档_2015-01</a>
+                
+                    <a data-pjax href="/tags/归档-2015-02/">&nbsp;&nbsp;归档_2015-02</a>
+                
+                    <a data-pjax href="/tags/归档-2015-03/">&nbsp;&nbsp;归档_2015-03</a>
+                
+                    <a data-pjax href="/tags/归档-2015-04/">&nbsp;&nbsp;归档_2015-04</a>
+                
+                    <a data-pjax href="/tags/归档-2015-06/">&nbsp;&nbsp;归档_2015-06</a>
+                
+                    <a data-pjax href="/tags/归档-2016-01/">&nbsp;&nbsp;归档_2016-01</a>
+                
+                    <a data-pjax href="/tags/翻译/">&nbsp;&nbsp;翻译</a>
+                
+                <a data-pjax class="fa fa-user" href="/about">&nbsp;&nbsp;&nbsp;About me</a>
+            </div>
+            <nav class="nexus">
+                <li  style="border-left: 1px solid #c6d0da;">
+                    <a id="trigger" href="#"><i class="fa fa-bars"></i></a>
+                </li>
+                <li ><a id="nexus-back" data-pjax href="/">IlluZ&#39;s Blog</a></li>
+                
+                <div id="nav-container">
+                    <div class="post-navbar" style="line-height: 63px;display:none">
+                        <li id="navbar-title"><a href="#">「翻译」写出可读的 Python 正则表达式</a></li>
+                        <li id="navbar-toc" style="border-left: none">
+                            <a style="padding-right: 15px">
+                                <span id="toc-content" >Introduction</span><i class="fa fa-chevron-down" ></i>
+                            </a>
+                            <div class="hidden-box">
+                                <ul id="toc"></ul>
+                            </div>
+                        </li>
+                    </div>
+                </div>
+                
+            </nav>
+
+            <div class="scroller">
+            <div class="scroller-inner">
+
+
+<!-- -->
+<!--<body class="post-template">-->
+<!---->
+  
+
+<main class="content" role="main">
+    <article class="post" >
+    <span class="post-meta">
+                  <div class="tag-tile">
+                      
+                      
+                      <a data-pjax href='/tags/Python/' style='color:#D5D5D5'>Python</a>
+                      
+                      <a data-pjax href='/tags/翻译/' style='color:#D5D5D5'>翻译</a>
+                      
+                      
+                  </div>
+                <h1 class="post-title" style="margin: 14px 0;color:#50585D">「翻译」写出可读的 Python 正则表达式</h1>
+
+                    <div class="post-meta">
+                        Post on<span class="fa fa-clock-o"></span>
+                        <time datetime="2015-08-09T10:05:21.000Z"
+                              itemprop="datePublished">2015-08-09</time>
+                    </div>
+    </span>
+
+        <section class="post-content">
+            <p>（原文出自 Tony S. Yu 的 <a href="http://tonysyu.github.io/readable-regular-expressions-in-python.html" target="_blank" rel="external"><em>Readable regular expressions in Python</em></a>，翻译已征得作者同意，非常感谢 Tony S. Yu。）<br>（博客太丑，特别是代码展示 TAT，如果无法忍受可以<a href="https://github.com/illuz/translations/blob/master/15.8.9-%E5%86%99%E5%87%BA%E5%8F%AF%E8%AF%BB%E7%9A%84%20Python%20%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F.md" target="_blank" rel="external"> 到 Github 上看</a>。）</p>
+<hr>
+<p>前段时间，我需要解析 Python <a href="https://mkaz.com/2012/10/10/python-string-format/" target="_blank" rel="external">格式化创建</a> 的一些字符串。其实有个包就叫 <a href="https://pypi.python.org/pypi/parse" target="_blank" rel="external">解析（parse）</a>，它用了和字符串格式化一样的语法来从一个字符串中提取数据。不幸的是，因为一些理由我不想用这个包，于是我选择了更快的 <a href="http://www.regular-expressions.info/quickstart.html" target="_blank" rel="external">正则表达式</a>（regular expressions，简称 regexes）。</p>
+<p>请注意，本文假定您已经熟悉正则表达式的基本语法。如果你不熟悉正则表达式，<a href="http://regexone.com/" target="_blank" rel="external">http://regexone.com/</a> 提供了很赞的互动教程。</p>
+<hr>
+<h3 id="命名捕获组（Named_capturing_groups）">命名捕获组（Named capturing groups）</h3><p>我准备使用<strong>命名捕获组</strong>（<a href="http://www.regular-expressions.info/named.html" target="_blank" rel="external"><em>Named capturing groups</em></a>），可是它的语法实在太难看了。所以让我们写了个简单的 <code>name_regex</code> 函数让它可读性好一点：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">name_regex</span><span class="params">(name, pattern)</span>:</span></span><br><span class="line">    <span class="string">"""返回一个‘命名捕获组’正则式"""</span></span><br><span class="line">    <span class="keyword">return</span> <span class="string">r'(?P&lt;&#123;name&#125;&gt;&#123;pattern&#125;)'</span>.format(name=name, pattern=pattern)</span><br></pre></td></tr></table></figure>
+<p>为了搞清楚这个函数到底做了啥，我们传入两个字符串：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">print</span> name_regex(<span class="string">'myname'</span>, <span class="string">'Tony'</span>)</span><br></pre></td></tr></table></figure>
+<p>它返回：</p>
+<figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">(?P&#60;myname&#62;Tony)</span><br></pre></td></tr></table></figure>
+<p>这个字符串是个正则表达式，它所做的是：匹配目标字符串（<code>Tony</code>）并将结果保存在一个命名组（<code>myname</code>）中。</p>
+<p>来个更有趣的例子吧，假设你想从一句话中提取一个价格，你可以找后面跟着数字和小数点的美元符号。</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># 这并不是个好的正则式，因为它会匹配任何数字和小数点，不过现在就让它这样保持简单</span></span><br><span class="line">rx_price = name_regex(<span class="string">'price'</span>, <span class="string">r'\$[\d.]+'</span>)</span><br></pre></td></tr></table></figure>
+<p>像任何其他正则式一样，你可以用 Python 的内置正则表达式包 <code>re</code> 来使用这个正则式：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> re</span><br><span class="line"></span><br><span class="line">match = re.search(rx_price, <span class="string">"All your's for only $9.95!"</span>)</span><br><span class="line"><span class="keyword">print</span> match.groupdict()[<span class="string">'price'</span>]</span><br></pre></td></tr></table></figure>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="variable">$9</span>.<span class="number">95</span></span><br></pre></td></tr></table></figure>
+<p>这的确提取我们想要的文字，但如果你只是找单一的串，用命名捕获组并没有多大用处。</p>
+<hr>
+<h3 id="用命名捕获组格式化字符串（Named_regexes_with_string_formatting）">用命名捕获组格式化字符串（Named regexes with string formatting）</h3><p>这次我们不用单一的命名捕获组正则式了。让我们创建一个<code>(name, pattern)</code>形式的正则式字典吧：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">named_regexes</span><span class="params">(**names_and_patterns)</span>:</span></span><br><span class="line">    <span class="string">"""返回一个包含多个对应命名捕获组的正则式字典"""</span></span><br><span class="line">    <span class="keyword">return</span> &#123;k: name_regex(k, p) <span class="keyword">for</span> k, p <span class="keyword">in</span> names_and_patterns.items()&#125;</span><br></pre></td></tr></table></figure>
+<p>如果你觉得这看起来有点奇怪，那只是因为我们 <a href="http://stackoverflow.com/questions/1769403/understanding-kwargs-in-python" target="_blank" rel="external">打包参数为一个字典</a>，并用 <a href="http://www.diveintopython3.net/comprehensions.html#dictionarycomprehension" target="_blank" rel="external">字典推导式(Dictionary Comprehensions)</a> 来处理这个字典。现在我们用这个来创建处理时间戳的正则式：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">rx_letters = <span class="string">r'[A-z]+'</span></span><br><span class="line">rx_patterns = named_regexes(</span><br><span class="line">    month=rx_letters,           <span class="comment"># 任意字符</span></span><br><span class="line">    day=<span class="string">r'\d&#123;1,2&#125;'</span>,             <span class="comment"># 1 或 2 个数字</span></span><br><span class="line">    time=<span class="string">r'\d&#123;2&#125;:\d&#123;2&#125;:\d&#123;2&#125;'</span>,  <span class="comment"># 用':'分开的 3 对数字</span></span><br><span class="line">    year=<span class="string">r'\d&#123;4&#125;'</span>               <span class="comment"># 4 个数字</span></span><br><span class="line">)</span><br></pre></td></tr></table></figure>
+<p>来看看它是什么样的：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">from</span> pprint <span class="keyword">import</span> pprint</span><br><span class="line"></span><br><span class="line">pprint(rx_patterns)</span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">&#123;<span class="string">'day'</span>: <span class="string">'(?P&lt;day&gt;\d&#123;1,2&#125;)'</span>,</span><br><span class="line"> <span class="string">'month'</span>: <span class="string">'(?P&lt;month&gt;[A-z]+)'</span>,</span><br><span class="line"> <span class="string">'time'</span>: <span class="string">'(?P&lt;time&gt;\d&#123;2&#125;:\d&#123;2&#125;:\d&#123;2&#125;)'</span>,</span><br><span class="line"> <span class="string">'year'</span>: <span class="string">'(?P&lt;year&gt;\d&#123;4&#125;)'</span>&#125;</span><br></pre></td></tr></table></figure>
+<p>这不是很可读，但关键是使用它。例如，让我们考虑以下时间戳：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">timestamp = <span class="string">"Date: Apr 12 09:51:23 2015 -0500"</span></span><br></pre></td></tr></table></figure>
+<p>我们可以用刚刚生成的正则式字典，来格式化字符串，来捕获我们需要的数据：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">rx_timestamp = <span class="string">"Date: &#123;month&#125; &#123;day&#125; &#123;time&#125; &#123;year&#125;"</span>.format(**rx_patterns)</span><br><span class="line"><span class="keyword">print</span> re.search(rx_timestamp, timestamp).groupdict()</span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#123;<span class="string">'month'</span>: <span class="string">'Apr'</span>, <span class="string">'year'</span>: <span class="string">'2015'</span>, <span class="string">'day'</span>: <span class="string">'12'</span>, <span class="string">'time'</span>: <span class="string">'09:51:23'</span>&#125;</span><br></pre></td></tr></table></figure>
+<p>成功了！我们提取出了方便使用的目标数据。</p>
+<hr>
+<h3 id="包装成一个函数（Putting_it_all_together）">包装成一个函数（Putting it all together）</h3><p>让我们把这些包装成一个函数，该函数输入需要解析的数据、一个模板字符串、一些命名及正则表达式的组合，并按字典形式返回我们需要的数据：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">match_regex_template</span><span class="params">(string, template, **keys_and_patterns)</span>:</span></span><br><span class="line">    <span class="string">"""Return dictionary of matches.</span><br><span class="line"></span><br><span class="line">    Parameters</span><br><span class="line">    ----------</span><br><span class="line">    string : str</span><br><span class="line">        包含所需的数据的字符串。</span><br><span class="line">    template : str</span><br><span class="line">        包含命名字段的模板字符串。</span><br><span class="line">    keys_and_patterns : str</span><br><span class="line">        模板字符串中各个字段的正则式。</span><br><span class="line">    """</span></span><br><span class="line">    named_patterns = named_regexes(**keys_and_patterns)</span><br><span class="line">    pattern = template.format(**named_patterns)</span><br><span class="line"></span><br><span class="line">    match = re.search(pattern, string)</span><br><span class="line">    <span class="keyword">if</span> match <span class="keyword">is</span> <span class="keyword">None</span>:</span><br><span class="line">        <span class="keyword">raise</span> RuntimeError(error_message.format(string=string,</span><br><span class="line">                                                template=template,</span><br><span class="line">                                                pattern=pattern))</span><br><span class="line">    <span class="keyword">return</span> match.groupdict()</span><br><span class="line"></span><br><span class="line">error_message = <span class="string">"""</span><br><span class="line">    string: &#123;string&#125;</span><br><span class="line">    template: &#123;template&#125;</span><br><span class="line">    pattern: &#123;pattern&#125;</span><br><span class="line">"""</span></span><br></pre></td></tr></table></figure>
+<p>这个函数使用了上面的几个函数。在写正则表达式时难免也会写错，所以这个函数也包含了错误处理，以帮助调试。</p>
+<p>为了测试这个函数，我们可以这样做：</p>
+<p>首先，我们需要一个模板字符串，加上一些数据，并产生一个测试用的目标字符串：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">greeting_template = <span class="string">"Hey &#123;name&#125;! Welcome to &#123;site&#125;!"</span></span><br><span class="line">input_attrs = dict(name=<span class="string">'you'</span>, site=<span class="string">'tonysyu.github.io'</span>)</span><br><span class="line">greeting = greeting_template.format(**input_attrs)</span><br><span class="line"><span class="keyword">print</span> greeting</span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Hey you! Welcome to tonysyu.github.io!</span><br></pre></td></tr></table></figure>
+<p>然后我们就可以用模板字符串和目标字符串来试试 <code>match_regex_template</code> 函数能不能解析出我们要的数据了：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">rx_anything = <span class="string">'.+'</span></span><br><span class="line">attrs = match_regex_template(greeting,</span><br><span class="line">                             greeting_template,</span><br><span class="line">                             name=rx_anything,</span><br><span class="line">                             site=rx_anything)</span><br><span class="line"><span class="keyword">print</span> attrs</span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#123;<span class="string">'name'</span>: <span class="string">'you'</span>, <span class="string">'site'</span>: <span class="string">'tonysyu.github.io'</span>&#125;</span><br></pre></td></tr></table></figure>
+<p>成功了！</p>
+<hr>
+<h3 id="注意事项（Caveats)">注意事项（Caveats)</h3><p>虽然这个函数测试正常，但你要小心。里面有个非常懒惰的正则表达式：<code>rx_anything</code>，它能捕获，额，任何东西。如果有明显的数据边界，那么这并不是一个问题。但如果边界模糊一点，那么你就必须动动脑筋来解决这个问题了。例如，我们可以修改上面的 <code>greeting</code> 让它热情点：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">excited_greeting = greeting + <span class="string">'!!!'</span></span><br><span class="line"><span class="keyword">print</span> excited_greeting</span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Hello you! Welcome to tonysyu.github.io!!!!</span><br></pre></td></tr></table></figure>
+<p>使用和上面同样的方法，是这样的：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">attrs = match_regex_template(excited_greeting,</span><br><span class="line">                             greeting_template,</span><br><span class="line">                             name=rx_anything,</span><br><span class="line">                             site=rx_anything)</span><br><span class="line"><span class="keyword">print</span> attrs[<span class="string">'site'</span>]</span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">tonysyu.github.io!!!</span><br></pre></td></tr></table></figure>
+<p>这个热情有点过头了。为了取到所需数据，我们需要更加严格的把惊叹号排除出去：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">rx_site = <span class="string">'[^!]+'</span>  <span class="comment"># anything other than '!'</span></span><br><span class="line">attrs = match_regex_template(excited_greeting,</span><br><span class="line">                             greeting_template,</span><br><span class="line">                             name=rx_anything,</span><br><span class="line">                             site=rx_site)</span><br><span class="line"><span class="keyword">print</span> attrs[<span class="string">'site'</span>]</span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">tonysyu.github.io</span><br></pre></td></tr></table></figure>
+<p>通过这个小小的改动，你应该知道要注意什么了。</p>
+<p>正则表达式是出了名的混淆，但如果你仔细地把它拆解成带标识的正则式，也可以变得很有可读性的。<br>这小小的习惯会让 <em>“未来的你”</em> 少恨 <em>“以前的你”</em> 一点。</p>
+<hr>
+<p>（文章到这就翻译完了~）<br>（发上去才发现我的博客好丑，特别是代码展示 TAT，如果无法忍受可以<a href="https://github.com/illuz/translations/blob/master/15.8.9-%E5%86%99%E5%87%BA%E5%8F%AF%E8%AF%BB%E7%9A%84%20Python%20%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F.md" target="_blank" rel="external"> 到 Github 上看</a>。）</p>
+
+        </section>
+        <hr/>
+        <nav class="pagination" style="width:auto" role="pagination">
+            
+            <a data-pjax class="newer-posts" href="/2015/08/16/talk-about-IQ/">← Prev Post</a>
+            
+            <a class="share-button" data-original-title title>Share this Post</a>
+            
+            <a data-pjax class="older-posts" href="/2015/06/08/summary-of-2015-march-april-may/">Next Post →</a>
+            
+        </nav>
+        <section id="comment">
+            <div id="comment-box"></div>
+            
+            <div id="disqus_thread"></div>
+            <script type="text/javascript">
+                if (document.URL.indexOf('://localhost') === -1) {
+                    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+                    var disqus_shortname = 'illuzsblog';
+
+                    /* * * DON'T EDIT BELOW THIS LINE * * */
+                    (function() {
+                        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                    })();
+                }
+            </script>
+            <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+            
+        </section>
+
+
+    </article>
+</main>
+
+
+  
+<footer class="site-footer">
+    
+    <a class="subscribe icon-feed" href="atom.xml"><span class="tooltip">Subscribe!</span></a>
+    
+    <div class="inner">
+        <section class="copyright"><a href="/"></a> &copy; IlluZ's Blog 2014</section>
+        <section class="poweredby">Published with <a target="_blank" href="http://hexo.io/">Hexo   </a> and Theme by <a target="_blank" href="https://github.com/yuche/hexo-theme-kael">Kael</a></section>
+    </div>
+</footer>
+</div>
+</div><!-- /scroller -->
+
+</div><!-- /pusher -->
+</div><!-- /container -->
+</div>
+
+<!-- Easter eggs -->
+
+<div class="egg animated">
+    <a id="close-button" href="#">X</a>
+    <div class="block">
+        <div class="loading">
+            <span class="ball1"></span>
+            <span class="ball2"></span>
+        </div>
+    </div>
+</div>
+  
+<script src="//cdn.staticfile.org/jquery/1.11.0/jquery.min.js"></script>
+<script>
+    if (!window.jQuery) {
+        var script = document.createElement('script');
+        script.src = "/js/jquery.min.js";
+        document.body.appendChild(script);
+    }
+</script>
+<script type="text/javascript" src="/js/lib.js"></script>
+<script type="text/javascript" src="/js/main.js"></script>
+
+
+
+
+
+
+</body>
+</html>
